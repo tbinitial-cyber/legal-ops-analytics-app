@@ -240,6 +240,38 @@ This project demonstrates how legal departments could build internal analytics t
 
 
 
+
+## Dashboard Preview
+
+### Legal Department Overview
+
+![Overview Dashboard](screenshots/overview_dashboard.png)
+
+---
+
+### Legal Spend Analysis – Chart
+
+![Legal Spend Chart](screenshots/legal_spend_chart.png)
+
+---
+
+### Legal Spend Analysis – Matter Drill Down
+
+![Legal Spend Table](screenshots/legal_spend_table.png)
+
+---
+
+### Workflow Efficiency Metrics
+
+![Workflow Metrics](screenshots/workflow_metrics.png)
+
+---
+
+### Litigation Risk Overview
+
+![Litigation Risk](screenshots/litigation_risk_overview.png)
+
+
 ---
 
 
