@@ -1,5 +1,10 @@
 # Legal Operations Analytics Platform
 
+## Live Demo
+
+🔗 **Open the dashboard here:**  
+https://tbinitial-cyber-legal-ops-analytics-app-app-tcmrua.streamlit.app/
+
 A Python-based analytics application designed to simulate how corporate legal departments monitor legal spend, workflow efficiency, and litigation risk.
 
 The application provides operational insights using a synthetic legal dataset and demonstrates how Legal Operations teams can leverage analytics to improve decision-making.
