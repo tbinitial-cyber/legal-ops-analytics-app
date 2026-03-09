@@ -8,11 +8,28 @@ from auth import authenticate
 st.set_page_config(page_title="Legal Operations Analytics Platform", layout="wide")
 
 # ------------------------------------------------
-# HEADER
+# HEADER STYLE IMPROVEMENT
 # ------------------------------------------------
 
-st.title("⚖️ Legal Operations Analytics Platform")
-st.caption("Operational Intelligence for Legal Departments")
+st.markdown(
+"""
+<style>
+.big-font {
+    font-size:32px !important;
+    font-weight:700;
+}
+.subtitle {
+    font-size:16px;
+    color:gray;
+    margin-bottom:20px;
+}
+</style>
+""",
+unsafe_allow_html=True
+)
+
+st.markdown('<p class="big-font">⚖️ Legal Operations Analytics Platform</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitle">Operational Intelligence for Legal Departments</p>', unsafe_allow_html=True)
 
 # ------------------------------------------------
 # AUDIT LOGGING
@@ -179,6 +196,9 @@ page = st.sidebar.selectbox(
 st.sidebar.markdown("---")
 st.sidebar.write(f"Logged in as: **{user}**")
 st.sidebar.write(f"Role: **{role}**")
+
+st.sidebar.markdown("---")
+st.sidebar.caption("LegalOps Analytics Prototype")
 
 # ------------------------------------------------
 # OVERVIEW
