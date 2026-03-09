@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+logs/audit_log.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Conda environments
+conda-meta/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log

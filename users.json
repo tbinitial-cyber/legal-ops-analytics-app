@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin"
+  },
+  "analyst": {
+    "password": "analyst123",
+    "role": "legal_ops"
+  },
+  "viewer": {
+    "password": "viewer123",
+    "role": "business"
+  }
+}

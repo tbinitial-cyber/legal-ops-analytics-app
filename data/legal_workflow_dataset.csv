@@ -1,0 +1,4001 @@
+request_id,matter_id,request_type,priority,automation_used,review_time_days,sla_target_days,sla_met
+R-2000,M-3633,Employment Issue,High,No,2,5,True
+R-2001,M-2025,Employment Issue,Low,Yes,2,3,True
+R-2002,M-2277,Regulatory Review,Low,Yes,6,7,True
+R-2003,M-2675,Vendor Contract,Low,Yes,3,5,True
+R-2004,M-3442,NDA,High,Yes,3,5,True
+R-2005,M-2847,NDA,Low,No,10,3,False
+R-2006,M-3699,Regulatory Review,Medium,No,10,5,False
+R-2007,M-1274,Vendor Contract,High,Yes,3,3,True
+R-2008,M-1489,Vendor Contract,Low,No,10,5,False
+R-2009,M-3150,Vendor Contract,High,Yes,7,5,False
+R-2010,M-1761,Regulatory Review,High,No,2,7,True
+R-2011,M-3948,Employment Issue,Low,Yes,5,3,False
+R-2012,M-1421,NDA,High,No,10,3,False
+R-2013,M-3119,Vendor Contract,Low,Yes,2,5,True
+R-2014,M-3743,NDA,Medium,No,10,7,False
+R-2015,M-3623,Regulatory Review,Low,Yes,1,5,True
+R-2016,M-2103,Vendor Contract,Low,No,2,5,True
+R-2017,M-1704,Vendor Contract,High,Yes,2,3,True
+R-2018,M-1101,NDA,Medium,Yes,1,5,True
+R-2019,M-2890,NDA,Medium,No,5,5,True
+R-2020,M-2194,Vendor Contract,Medium,No,2,7,True
+R-2021,M-1651,Regulatory Review,High,Yes,3,5,True
+R-2022,M-1301,Vendor Contract,Low,Yes,3,3,True
+R-2023,M-1250,Employment Issue,Medium,Yes,3,7,True
+R-2024,M-2070,Vendor Contract,Medium,Yes,2,3,True
+R-2025,M-3811,NDA,Low,Yes,1,5,True
+R-2026,M-2796,Employment Issue,Low,No,5,7,True
+R-2027,M-2472,Regulatory Review,Medium,No,10,5,False
+R-2028,M-1073,NDA,High,No,5,7,True
+R-2029,M-2188,NDA,High,No,2,7,True
+R-2030,M-2488,Vendor Contract,Medium,No,10,5,False
+R-2031,M-1810,Regulatory Review,Low,Yes,1,5,True
+R-2032,M-3872,NDA,Low,No,10,7,False
+R-2033,M-3773,Regulatory Review,Medium,No,10,5,False
+R-2034,M-2482,Vendor Contract,High,Yes,5,7,True
+R-2035,M-1090,NDA,Medium,Yes,5,3,False
+R-2036,M-1763,Vendor Contract,Medium,No,5,5,True
+R-2037,M-2969,Vendor Contract,Low,No,10,7,False
+R-2038,M-1448,Employment Issue,Medium,Yes,3,5,True
+R-2039,M-2831,Vendor Contract,High,Yes,6,3,False
+R-2040,M-2834,NDA,Low,No,5,7,True
+R-2041,M-2219,NDA,Low,Yes,1,7,True
+R-2042,M-3396,Employment Issue,Low,Yes,3,7,True
+R-2043,M-3195,Vendor Contract,Low,Yes,1,7,True
+R-2044,M-2375,Regulatory Review,Medium,Yes,7,7,True
+R-2045,M-3488,Employment Issue,High,Yes,5,5,True
+R-2046,M-1650,Vendor Contract,High,No,2,7,True
+R-2047,M-1136,Vendor Contract,Medium,No,5,3,False
+R-2048,M-1264,Vendor Contract,Low,No,5,3,False
+R-2049,M-2815,Vendor Contract,Low,Yes,1,7,True
+R-2050,M-3749,Vendor Contract,Low,No,2,7,True
+R-2051,M-2524,Regulatory Review,Low,No,10,5,False
+R-2052,M-2782,Regulatory Review,Medium,Yes,6,5,False
+R-2053,M-2342,Regulatory Review,Medium,Yes,6,7,True
+R-2054,M-1679,Employment Issue,High,Yes,1,3,True
+R-2055,M-2858,Employment Issue,Low,Yes,6,5,False
+R-2056,M-3434,NDA,Medium,No,2,3,True
+R-2057,M-1401,Vendor Contract,High,Yes,1,5,True
+R-2058,M-1572,Employment Issue,Medium,No,5,7,True
+R-2059,M-2741,Employment Issue,High,Yes,3,3,True
+R-2060,M-2948,Employment Issue,High,Yes,3,5,True
+R-2061,M-3545,Vendor Contract,Medium,Yes,1,7,True
+R-2062,M-1801,Vendor Contract,Medium,Yes,5,5,True
+R-2063,M-2770,Employment Issue,Low,No,5,3,False
+R-2064,M-3589,Employment Issue,High,Yes,1,7,True
+R-2065,M-3219,Vendor Contract,Medium,Yes,3,5,True
+R-2066,M-2737,Vendor Contract,Low,Yes,1,5,True
+R-2067,M-3715,Employment Issue,Low,Yes,3,7,True
+R-2068,M-1051,Regulatory Review,High,No,10,7,False
+R-2069,M-3562,Regulatory Review,Medium,Yes,1,7,True
+R-2070,M-2126,Employment Issue,Low,No,2,7,True
+R-2071,M-3019,NDA,Medium,Yes,1,3,True
+R-2072,M-3796,NDA,Medium,No,5,7,True
+R-2073,M-1946,Employment Issue,High,Yes,6,5,False
+R-2074,M-3054,Regulatory Review,Medium,Yes,3,5,True
+R-2075,M-3201,Regulatory Review,Low,No,10,7,False
+R-2076,M-1483,Employment Issue,Medium,No,2,5,True
+R-2077,M-1309,Employment Issue,Low,No,10,3,False
+R-2078,M-3504,Regulatory Review,Low,Yes,5,3,False
+R-2079,M-2771,Regulatory Review,Low,Yes,6,7,True
+R-2080,M-1239,Vendor Contract,Low,No,2,7,True
+R-2081,M-3119,NDA,High,Yes,3,3,True
+R-2082,M-3607,Regulatory Review,Low,Yes,5,7,True
+R-2083,M-2542,NDA,High,Yes,6,7,True
+R-2084,M-3834,NDA,Medium,No,5,3,False
+R-2085,M-1085,Vendor Contract,High,Yes,1,7,True
+R-2086,M-3666,Vendor Contract,Medium,Yes,2,5,True
+R-2087,M-3450,Employment Issue,Low,No,5,5,True
+R-2088,M-3505,NDA,Medium,Yes,5,5,True
+R-2089,M-2731,Employment Issue,Medium,Yes,3,7,True
+R-2090,M-2653,Regulatory Review,Medium,No,10,7,False
+R-2091,M-2980,Regulatory Review,Low,Yes,3,3,True
+R-2092,M-1350,Vendor Contract,Medium,Yes,5,5,True
+R-2093,M-3617,Regulatory Review,High,Yes,1,7,True
+R-2094,M-1572,NDA,Low,Yes,1,3,True
+R-2095,M-2886,Regulatory Review,High,Yes,6,3,False
+R-2096,M-3227,Employment Issue,High,No,10,5,False
+R-2097,M-1891,Vendor Contract,Medium,No,5,3,False
+R-2098,M-3366,Employment Issue,High,Yes,2,3,True
+R-2099,M-2122,Vendor Contract,Medium,No,10,5,False
+R-2100,M-1844,NDA,Medium,Yes,3,7,True
+R-2101,M-1345,Employment Issue,High,No,10,7,False
+R-2102,M-2328,Regulatory Review,Medium,No,2,7,True
+R-2103,M-3008,Employment Issue,High,Yes,1,7,True
+R-2104,M-2810,Vendor Contract,Medium,Yes,1,7,True
+R-2105,M-1937,NDA,Medium,No,2,3,True
+R-2106,M-3970,Regulatory Review,Low,No,5,5,True
+R-2107,M-1765,Vendor Contract,Low,Yes,1,5,True
+R-2108,M-2377,NDA,Low,No,5,5,True
+R-2109,M-2293,Regulatory Review,Low,Yes,1,5,True
+R-2110,M-2091,Regulatory Review,Medium,No,10,7,False
+R-2111,M-2466,Regulatory Review,High,No,5,7,True
+R-2112,M-2718,NDA,Low,No,2,7,True
+R-2113,M-3632,NDA,Medium,No,10,3,False
+R-2114,M-2192,Vendor Contract,Medium,No,5,5,True
+R-2115,M-1709,Employment Issue,High,Yes,7,3,False
+R-2116,M-3194,Employment Issue,Medium,Yes,6,3,False
+R-2117,M-2723,Employment Issue,High,No,5,7,True
+R-2118,M-1483,NDA,High,Yes,2,7,True
+R-2119,M-1840,Vendor Contract,Low,Yes,1,3,True
+R-2120,M-1974,Vendor Contract,Low,Yes,1,7,True
+R-2121,M-1777,Employment Issue,Medium,No,5,3,False
+R-2122,M-1030,Vendor Contract,Medium,Yes,2,5,True
+R-2123,M-3553,NDA,High,No,10,3,False
+R-2124,M-1656,Vendor Contract,High,No,5,5,True
+R-2125,M-1906,NDA,Medium,Yes,1,3,True
+R-2126,M-2728,Employment Issue,Medium,No,5,7,True
+R-2127,M-3073,Regulatory Review,High,Yes,1,3,True
+R-2128,M-3862,Regulatory Review,Medium,No,5,5,True
+R-2129,M-2978,Regulatory Review,High,Yes,2,3,True
+R-2130,M-1587,Vendor Contract,Medium,Yes,6,5,False
+R-2131,M-3926,Employment Issue,Medium,Yes,3,5,True
+R-2132,M-2691,Regulatory Review,Low,No,2,7,True
+R-2133,M-3535,Vendor Contract,High,Yes,2,5,True
+R-2134,M-2203,Regulatory Review,Low,Yes,2,3,True
+R-2135,M-2851,NDA,High,Yes,7,3,False
+R-2136,M-1823,NDA,Medium,No,2,5,True
+R-2137,M-3390,Employment Issue,Medium,Yes,1,7,True
+R-2138,M-2430,Regulatory Review,High,No,5,3,False
+R-2139,M-1026,Vendor Contract,Low,No,2,5,True
+R-2140,M-1568,Regulatory Review,High,Yes,2,7,True
+R-2141,M-1031,Vendor Contract,Medium,Yes,2,5,True
+R-2142,M-2989,Regulatory Review,High,No,10,5,False
+R-2143,M-3018,Vendor Contract,High,No,10,5,False
+R-2144,M-3810,Employment Issue,High,Yes,2,5,True
+R-2145,M-2744,Vendor Contract,Medium,Yes,5,5,True
+R-2146,M-2881,Regulatory Review,Medium,No,2,5,True
+R-2147,M-2174,Regulatory Review,High,No,2,3,True
+R-2148,M-2308,Regulatory Review,Medium,Yes,7,3,False
+R-2149,M-2873,Employment Issue,Low,No,5,7,True
+R-2150,M-3437,Regulatory Review,Medium,Yes,5,7,True
+R-2151,M-2232,Regulatory Review,Low,Yes,7,7,True
+R-2152,M-1034,Regulatory Review,Low,Yes,1,7,True
+R-2153,M-1784,Regulatory Review,Medium,Yes,3,7,True
+R-2154,M-1681,Regulatory Review,Medium,No,10,3,False
+R-2155,M-3284,Employment Issue,Low,Yes,3,5,True
+R-2156,M-3788,Employment Issue,Medium,No,2,7,True
+R-2157,M-1480,NDA,High,Yes,2,7,True
+R-2158,M-2035,NDA,Medium,Yes,1,5,True
+R-2159,M-2505,NDA,Low,Yes,2,3,True
+R-2160,M-1375,NDA,Low,No,10,5,False
+R-2161,M-3631,Employment Issue,High,Yes,5,3,False
+R-2162,M-1603,NDA,Medium,No,10,3,False
+R-2163,M-2892,NDA,High,Yes,5,3,False
+R-2164,M-1850,Vendor Contract,High,No,10,5,False
+R-2165,M-3575,Vendor Contract,Low,Yes,1,7,True
+R-2166,M-3120,Regulatory Review,Low,Yes,3,3,True
+R-2167,M-2276,NDA,Medium,Yes,7,5,False
+R-2168,M-2342,Vendor Contract,High,No,10,3,False
+R-2169,M-3508,Employment Issue,High,No,10,5,False
+R-2170,M-2550,Regulatory Review,Low,Yes,3,5,True
+R-2171,M-2165,Regulatory Review,High,Yes,5,5,True
+R-2172,M-1631,Vendor Contract,Medium,No,10,7,False
+R-2173,M-3880,Regulatory Review,High,Yes,2,7,True
+R-2174,M-2949,Regulatory Review,High,No,2,7,True
+R-2175,M-3770,Regulatory Review,Low,Yes,7,3,False
+R-2176,M-1845,Employment Issue,High,No,5,5,True
+R-2177,M-3861,NDA,High,Yes,7,5,False
+R-2178,M-1186,NDA,Medium,Yes,3,3,True
+R-2179,M-2819,NDA,Medium,No,2,3,True
+R-2180,M-1121,Employment Issue,Low,No,5,7,True
+R-2181,M-2014,Employment Issue,High,Yes,3,5,True
+R-2182,M-1304,Regulatory Review,Low,Yes,1,5,True
+R-2183,M-3107,Employment Issue,Medium,Yes,7,7,True
+R-2184,M-2703,Employment Issue,Medium,Yes,5,7,True
+R-2185,M-3202,Employment Issue,High,Yes,3,7,True
+R-2186,M-2715,NDA,Low,No,2,7,True
+R-2187,M-1482,Regulatory Review,Medium,Yes,1,5,True
+R-2188,M-1478,Regulatory Review,High,No,2,7,True
+R-2189,M-3595,Employment Issue,Low,No,2,3,True
+R-2190,M-2880,Vendor Contract,Low,Yes,1,5,True
+R-2191,M-3853,Regulatory Review,Medium,Yes,6,5,False
+R-2192,M-1138,Vendor Contract,Low,No,5,3,False
+R-2193,M-1449,Employment Issue,Low,Yes,1,7,True
+R-2194,M-3310,Regulatory Review,High,Yes,1,7,True
+R-2195,M-3283,NDA,High,Yes,3,3,True
+R-2196,M-3277,Regulatory Review,High,Yes,1,7,True
+R-2197,M-3409,Employment Issue,High,No,10,3,False
+R-2198,M-2997,NDA,Medium,No,5,3,False
+R-2199,M-2142,NDA,Low,Yes,3,3,True
+R-2200,M-3147,Regulatory Review,High,Yes,3,7,True
+R-2201,M-2237,Employment Issue,High,Yes,1,3,True
+R-2202,M-1984,Vendor Contract,High,Yes,6,3,False
+R-2203,M-3594,Regulatory Review,Medium,No,10,7,False
+R-2204,M-1508,Employment Issue,Low,No,2,5,True
+R-2205,M-3110,Regulatory Review,High,No,2,5,True
+R-2206,M-1650,NDA,Low,No,5,3,False
+R-2207,M-3724,Vendor Contract,Low,No,10,3,False
+R-2208,M-3408,Employment Issue,Low,Yes,1,7,True
+R-2209,M-1618,NDA,Low,No,2,3,True
+R-2210,M-2308,Regulatory Review,Low,No,10,3,False
+R-2211,M-3340,Regulatory Review,Low,Yes,1,7,True
+R-2212,M-3263,Regulatory Review,High,No,5,7,True
+R-2213,M-2410,NDA,High,No,5,7,True
+R-2214,M-2981,NDA,High,No,5,7,True
+R-2215,M-1879,Employment Issue,Medium,Yes,3,7,True
+R-2216,M-3106,Employment Issue,High,Yes,3,5,True
+R-2217,M-3073,Regulatory Review,Low,No,10,3,False
+R-2218,M-2263,Vendor Contract,High,No,10,3,False
+R-2219,M-1985,Vendor Contract,Low,No,5,7,True
+R-2220,M-1775,Vendor Contract,Low,Yes,3,3,True
+R-2221,M-3653,Vendor Contract,Medium,Yes,5,7,True
+R-2222,M-1975,NDA,Medium,No,2,7,True
+R-2223,M-2404,Employment Issue,High,No,5,5,True
+R-2224,M-3912,Vendor Contract,High,Yes,6,5,False
+R-2225,M-2690,Regulatory Review,High,No,5,5,True
+R-2226,M-3434,Regulatory Review,Medium,Yes,2,5,True
+R-2227,M-1875,Vendor Contract,High,No,5,3,False
+R-2228,M-3657,NDA,Medium,No,2,3,True
+R-2229,M-3062,Regulatory Review,Low,Yes,1,3,True
+R-2230,M-1452,Regulatory Review,Low,Yes,6,7,True
+R-2231,M-2068,NDA,Medium,No,5,3,False
+R-2232,M-3248,Vendor Contract,High,No,5,7,True
+R-2233,M-2519,Vendor Contract,Medium,No,2,5,True
+R-2234,M-1265,Regulatory Review,High,Yes,1,5,True
+R-2235,M-3243,NDA,Low,No,2,3,True
+R-2236,M-2554,Employment Issue,Medium,Yes,1,7,True
+R-2237,M-1481,NDA,Low,No,5,5,True
+R-2238,M-1787,Employment Issue,Medium,No,10,3,False
+R-2239,M-2099,Regulatory Review,Medium,No,2,5,True
+R-2240,M-2144,Regulatory Review,High,No,5,7,True
+R-2241,M-3500,Employment Issue,Medium,Yes,1,7,True
+R-2242,M-3017,NDA,Medium,Yes,7,3,False
+R-2243,M-2339,Employment Issue,Medium,No,5,3,False
+R-2244,M-3576,Vendor Contract,Medium,No,2,7,True
+R-2245,M-2735,Employment Issue,High,Yes,1,5,True
+R-2246,M-1206,Regulatory Review,Low,Yes,3,7,True
+R-2247,M-3535,Employment Issue,High,Yes,2,3,True
+R-2248,M-1851,NDA,High,No,2,5,True
+R-2249,M-2158,NDA,High,Yes,5,3,False
+R-2250,M-3334,Regulatory Review,Medium,No,10,3,False
+R-2251,M-3023,Regulatory Review,High,Yes,2,5,True
+R-2252,M-2917,Employment Issue,Medium,No,2,7,True
+R-2253,M-2949,Regulatory Review,High,No,5,7,True
+R-2254,M-1490,NDA,Low,No,5,3,False
+R-2255,M-2904,Vendor Contract,Medium,No,10,7,False
+R-2256,M-1630,Employment Issue,Low,Yes,6,5,False
+R-2257,M-1868,Employment Issue,High,No,2,5,True
+R-2258,M-2431,NDA,High,No,5,3,False
+R-2259,M-3166,Regulatory Review,High,No,2,5,True
+R-2260,M-3755,Employment Issue,High,Yes,7,7,True
+R-2261,M-3425,NDA,Medium,No,10,3,False
+R-2262,M-1475,Regulatory Review,Medium,Yes,1,3,True
+R-2263,M-2757,NDA,Low,Yes,1,3,True
+R-2264,M-2264,Vendor Contract,Medium,No,2,5,True
+R-2265,M-3512,NDA,High,Yes,3,7,True
+R-2266,M-2434,Vendor Contract,High,Yes,3,7,True
+R-2267,M-2708,NDA,High,No,5,7,True
+R-2268,M-1336,Regulatory Review,Low,No,5,5,True
+R-2269,M-2521,Vendor Contract,High,No,2,7,True
+R-2270,M-2720,Regulatory Review,High,No,2,7,True
+R-2271,M-3254,Employment Issue,Medium,No,10,7,False
+R-2272,M-3448,NDA,Low,No,10,3,False
+R-2273,M-1158,NDA,Medium,No,2,7,True
+R-2274,M-1206,Employment Issue,Low,No,5,7,True
+R-2275,M-3387,NDA,Low,No,2,7,True
+R-2276,M-1496,Vendor Contract,Medium,No,5,3,False
+R-2277,M-2307,NDA,Medium,No,5,5,True
+R-2278,M-3087,Employment Issue,Low,No,2,3,True
+R-2279,M-3591,Vendor Contract,Medium,No,5,5,True
+R-2280,M-1406,Employment Issue,High,Yes,1,5,True
+R-2281,M-3424,Vendor Contract,High,No,5,5,True
+R-2282,M-2965,Vendor Contract,High,Yes,5,7,True
+R-2283,M-3296,NDA,Medium,No,5,5,True
+R-2284,M-3238,Vendor Contract,Medium,Yes,6,3,False
+R-2285,M-1406,Vendor Contract,Low,Yes,2,7,True
+R-2286,M-3138,Regulatory Review,Medium,No,2,7,True
+R-2287,M-2528,NDA,High,Yes,1,5,True
+R-2288,M-2281,Regulatory Review,Medium,No,2,7,True
+R-2289,M-3326,Regulatory Review,Medium,No,2,5,True
+R-2290,M-1825,Regulatory Review,Medium,No,5,3,False
+R-2291,M-3758,Vendor Contract,Low,No,5,5,True
+R-2292,M-3683,Employment Issue,High,Yes,7,7,True
+R-2293,M-2219,Regulatory Review,Medium,No,10,5,False
+R-2294,M-3307,Vendor Contract,High,No,2,3,True
+R-2295,M-2391,NDA,High,Yes,1,7,True
+R-2296,M-2059,Employment Issue,Low,Yes,3,3,True
+R-2297,M-2707,NDA,Medium,Yes,5,3,False
+R-2298,M-3411,NDA,Medium,No,5,3,False
+R-2299,M-2907,Regulatory Review,High,No,2,5,True
+R-2300,M-2768,Regulatory Review,Medium,No,5,7,True
+R-2301,M-1545,NDA,Low,No,2,3,True
+R-2302,M-2110,Regulatory Review,High,No,5,5,True
+R-2303,M-1200,Vendor Contract,Medium,No,10,5,False
+R-2304,M-1814,Regulatory Review,Low,No,5,3,False
+R-2305,M-2231,NDA,Low,Yes,3,5,True
+R-2306,M-3780,Vendor Contract,High,No,10,5,False
+R-2307,M-1293,Vendor Contract,High,Yes,3,3,True
+R-2308,M-3863,Employment Issue,High,No,5,5,True
+R-2309,M-3875,Employment Issue,High,No,10,7,False
+R-2310,M-3747,Employment Issue,Low,No,2,5,True
+R-2311,M-3545,NDA,Medium,Yes,2,3,True
+R-2312,M-1479,NDA,High,No,2,5,True
+R-2313,M-2560,NDA,Low,No,2,7,True
+R-2314,M-2498,Vendor Contract,Medium,No,5,7,True
+R-2315,M-2785,Employment Issue,High,No,10,3,False
+R-2316,M-1361,Employment Issue,Low,Yes,7,7,True
+R-2317,M-1025,Employment Issue,Medium,Yes,5,7,True
+R-2318,M-3089,Employment Issue,Medium,Yes,1,3,True
+R-2319,M-3941,NDA,Low,Yes,7,7,True
+R-2320,M-2228,NDA,Low,No,10,5,False
+R-2321,M-2773,Regulatory Review,Medium,Yes,7,5,False
+R-2322,M-2632,Regulatory Review,Low,Yes,3,7,True
+R-2323,M-2329,Regulatory Review,High,No,10,5,False
+R-2324,M-2000,Vendor Contract,Low,Yes,5,5,True
+R-2325,M-3622,Vendor Contract,Low,Yes,3,5,True
+R-2326,M-1576,Vendor Contract,High,Yes,1,3,True
+R-2327,M-2476,NDA,High,No,10,3,False
+R-2328,M-3770,NDA,Medium,No,10,7,False
+R-2329,M-3810,Regulatory Review,High,Yes,6,5,False
+R-2330,M-3687,Regulatory Review,Medium,No,5,7,True
+R-2331,M-2344,Regulatory Review,Medium,Yes,6,5,False
+R-2332,M-1587,Regulatory Review,Low,No,5,3,False
+R-2333,M-2835,Vendor Contract,High,No,10,3,False
+R-2334,M-1207,Employment Issue,Medium,Yes,1,7,True
+R-2335,M-3372,Vendor Contract,Low,Yes,7,3,False
+R-2336,M-1100,NDA,High,Yes,6,5,False
+R-2337,M-3993,Employment Issue,Medium,No,2,5,True
+R-2338,M-3990,Regulatory Review,Medium,Yes,1,3,True
+R-2339,M-2620,Employment Issue,Medium,No,5,5,True
+R-2340,M-2369,NDA,Medium,Yes,1,5,True
+R-2341,M-2629,NDA,Medium,Yes,2,3,True
+R-2342,M-1908,Employment Issue,High,Yes,7,3,False
+R-2343,M-1360,Regulatory Review,Low,No,2,7,True
+R-2344,M-3194,Vendor Contract,Medium,No,2,3,True
+R-2345,M-1378,Regulatory Review,High,Yes,6,3,False
+R-2346,M-1980,Employment Issue,Medium,No,5,7,True
+R-2347,M-2111,Vendor Contract,Low,No,2,3,True
+R-2348,M-2679,Regulatory Review,High,No,5,5,True
+R-2349,M-3605,Vendor Contract,High,No,10,7,False
+R-2350,M-1909,Regulatory Review,Medium,No,5,7,True
+R-2351,M-3985,Employment Issue,Medium,No,10,7,False
+R-2352,M-1765,Regulatory Review,High,No,10,3,False
+R-2353,M-1741,Employment Issue,Low,No,10,3,False
+R-2354,M-3855,NDA,Low,Yes,2,3,True
+R-2355,M-2879,Employment Issue,High,No,10,5,False
+R-2356,M-3753,Employment Issue,Low,No,5,5,True
+R-2357,M-1846,Employment Issue,Medium,No,10,7,False
+R-2358,M-1738,NDA,Medium,Yes,1,7,True
+R-2359,M-1209,Vendor Contract,Low,Yes,3,7,True
+R-2360,M-2610,NDA,Medium,Yes,5,7,True
+R-2361,M-3022,Regulatory Review,Medium,No,2,3,True
+R-2362,M-3072,NDA,Low,No,10,5,False
+R-2363,M-1263,Employment Issue,Low,No,2,7,True
+R-2364,M-2646,Employment Issue,High,No,2,5,True
+R-2365,M-2568,Regulatory Review,Medium,Yes,1,5,True
+R-2366,M-1408,NDA,High,Yes,3,5,True
+R-2367,M-3430,Employment Issue,Medium,Yes,3,7,True
+R-2368,M-3071,NDA,High,No,5,3,False
+R-2369,M-1009,Employment Issue,Medium,No,10,7,False
+R-2370,M-3737,Regulatory Review,Low,Yes,6,7,True
+R-2371,M-3842,Vendor Contract,Medium,No,5,7,True
+R-2372,M-2482,Regulatory Review,Medium,Yes,5,5,True
+R-2373,M-2405,Employment Issue,Low,Yes,3,7,True
+R-2374,M-1132,Vendor Contract,Low,Yes,3,3,True
+R-2375,M-3138,Regulatory Review,Low,Yes,6,3,False
+R-2376,M-1201,NDA,High,No,2,7,True
+R-2377,M-1201,NDA,High,No,5,7,True
+R-2378,M-1051,Vendor Contract,Medium,No,2,7,True
+R-2379,M-2968,Vendor Contract,Low,No,2,3,True
+R-2380,M-3350,Regulatory Review,Medium,Yes,2,3,True
+R-2381,M-1797,NDA,Low,Yes,5,7,True
+R-2382,M-3002,Vendor Contract,Medium,No,10,5,False
+R-2383,M-3883,Vendor Contract,Medium,No,2,7,True
+R-2384,M-3344,Vendor Contract,Medium,Yes,1,7,True
+R-2385,M-3981,Regulatory Review,High,No,5,5,True
+R-2386,M-3271,Regulatory Review,Low,Yes,6,5,False
+R-2387,M-1514,Employment Issue,Low,Yes,1,7,True
+R-2388,M-1788,NDA,Low,Yes,3,7,True
+R-2389,M-2747,Employment Issue,Medium,No,10,5,False
+R-2390,M-3689,Vendor Contract,Medium,No,2,7,True
+R-2391,M-2943,Employment Issue,Medium,Yes,1,5,True
+R-2392,M-2054,Vendor Contract,Medium,Yes,2,3,True
+R-2393,M-1509,NDA,High,No,10,7,False
+R-2394,M-2120,Regulatory Review,Low,Yes,5,5,True
+R-2395,M-3579,Regulatory Review,Low,No,10,7,False
+R-2396,M-3561,Vendor Contract,High,No,10,7,False
+R-2397,M-1393,Vendor Contract,Medium,Yes,7,7,True
+R-2398,M-1158,Regulatory Review,High,Yes,5,5,True
+R-2399,M-3356,NDA,High,Yes,3,5,True
+R-2400,M-3072,NDA,High,Yes,6,5,False
+R-2401,M-3388,NDA,Low,Yes,1,5,True
+R-2402,M-2888,Vendor Contract,Low,No,10,3,False
+R-2403,M-1113,Vendor Contract,Low,No,2,7,True
+R-2404,M-2058,Employment Issue,High,Yes,1,3,True
+R-2405,M-2325,Regulatory Review,High,No,10,5,False
+R-2406,M-3135,Vendor Contract,Medium,No,10,5,False
+R-2407,M-2189,Vendor Contract,Low,Yes,5,3,False
+R-2408,M-1936,Vendor Contract,High,No,5,7,True
+R-2409,M-2239,Vendor Contract,Low,No,2,7,True
+R-2410,M-1873,Regulatory Review,Medium,No,5,5,True
+R-2411,M-1784,NDA,Medium,Yes,2,7,True
+R-2412,M-1525,Employment Issue,High,Yes,3,5,True
+R-2413,M-1436,NDA,Medium,Yes,5,5,True
+R-2414,M-2058,NDA,High,Yes,1,5,True
+R-2415,M-3438,NDA,Medium,Yes,3,7,True
+R-2416,M-3253,Employment Issue,Medium,Yes,6,5,False
+R-2417,M-1329,Employment Issue,Medium,No,10,5,False
+R-2418,M-3365,Vendor Contract,Low,No,2,7,True
+R-2419,M-2334,NDA,High,Yes,1,7,True
+R-2420,M-1542,NDA,High,No,10,5,False
+R-2421,M-2001,NDA,Medium,No,5,7,True
+R-2422,M-2024,Employment Issue,High,Yes,6,7,True
+R-2423,M-1269,Regulatory Review,High,Yes,1,7,True
+R-2424,M-2143,NDA,Medium,No,10,7,False
+R-2425,M-2969,Employment Issue,Low,No,2,5,True
+R-2426,M-2014,Employment Issue,Low,No,2,5,True
+R-2427,M-3792,Vendor Contract,Medium,Yes,2,3,True
+R-2428,M-3638,Employment Issue,Low,Yes,2,3,True
+R-2429,M-1122,NDA,Low,Yes,2,7,True
+R-2430,M-3979,Employment Issue,Medium,Yes,6,5,False
+R-2431,M-1785,Regulatory Review,Low,No,5,7,True
+R-2432,M-2258,Employment Issue,Low,Yes,5,3,False
+R-2433,M-1304,Regulatory Review,Low,No,5,7,True
+R-2434,M-3066,NDA,High,Yes,3,5,True
+R-2435,M-3069,NDA,Low,No,2,7,True
+R-2436,M-3007,Regulatory Review,Medium,No,2,7,True
+R-2437,M-1609,Vendor Contract,Low,No,5,7,True
+R-2438,M-2525,NDA,Low,No,2,3,True
+R-2439,M-2957,Employment Issue,Low,Yes,1,5,True
+R-2440,M-3678,Vendor Contract,High,No,5,3,False
+R-2441,M-2408,Regulatory Review,High,No,2,5,True
+R-2442,M-2549,NDA,Medium,No,5,3,False
+R-2443,M-3668,Employment Issue,Medium,No,10,5,False
+R-2444,M-3193,Vendor Contract,High,Yes,5,7,True
+R-2445,M-2148,Regulatory Review,High,Yes,5,5,True
+R-2446,M-1826,Employment Issue,Low,No,5,3,False
+R-2447,M-3944,Regulatory Review,High,Yes,6,5,False
+R-2448,M-2346,Regulatory Review,Low,No,10,5,False
+R-2449,M-3113,Vendor Contract,Medium,No,2,7,True
+R-2450,M-2385,Regulatory Review,High,Yes,6,5,False
+R-2451,M-3230,Vendor Contract,High,Yes,7,5,False
+R-2452,M-3692,Vendor Contract,Medium,Yes,2,7,True
+R-2453,M-3639,Employment Issue,Low,No,2,3,True
+R-2454,M-2172,NDA,High,No,5,3,False
+R-2455,M-1690,Employment Issue,Medium,Yes,1,5,True
+R-2456,M-3149,Regulatory Review,Low,Yes,6,5,False
+R-2457,M-1059,Vendor Contract,Medium,Yes,1,5,True
+R-2458,M-2440,Employment Issue,High,Yes,6,7,True
+R-2459,M-2808,Vendor Contract,High,Yes,3,7,True
+R-2460,M-3762,Employment Issue,Low,Yes,7,5,False
+R-2461,M-1921,Employment Issue,Medium,Yes,2,3,True
+R-2462,M-3940,Regulatory Review,High,Yes,3,3,True
+R-2463,M-3539,Vendor Contract,Low,No,2,5,True
+R-2464,M-1475,Vendor Contract,Low,No,2,7,True
+R-2465,M-2606,NDA,Medium,Yes,1,7,True
+R-2466,M-3962,Regulatory Review,Medium,Yes,1,5,True
+R-2467,M-1119,NDA,High,Yes,7,7,True
+R-2468,M-1330,Vendor Contract,High,Yes,6,7,True
+R-2469,M-2013,NDA,Medium,Yes,5,7,True
+R-2470,M-1847,Regulatory Review,Medium,Yes,1,5,True
+R-2471,M-1372,Regulatory Review,Low,Yes,1,5,True
+R-2472,M-1787,Vendor Contract,Low,No,5,3,False
+R-2473,M-1063,NDA,High,Yes,7,7,True
+R-2474,M-3302,NDA,Medium,No,5,5,True
+R-2475,M-3729,Employment Issue,Medium,No,5,3,False
+R-2476,M-3848,Regulatory Review,Medium,Yes,1,7,True
+R-2477,M-3000,Vendor Contract,Low,Yes,7,7,True
+R-2478,M-2042,Vendor Contract,Low,Yes,6,5,False
+R-2479,M-2275,Regulatory Review,Low,Yes,5,5,True
+R-2480,M-1548,Regulatory Review,Medium,No,10,5,False
+R-2481,M-1435,NDA,High,No,5,5,True
+R-2482,M-1111,Employment Issue,Medium,Yes,1,5,True
+R-2483,M-1307,Employment Issue,Low,Yes,1,7,True
+R-2484,M-3410,Employment Issue,High,Yes,3,7,True
+R-2485,M-3249,Employment Issue,Medium,Yes,6,5,False
+R-2486,M-2700,NDA,Low,Yes,5,7,True
+R-2487,M-1715,Vendor Contract,Low,Yes,3,3,True
+R-2488,M-1949,Employment Issue,Medium,No,5,5,True
+R-2489,M-3904,Employment Issue,High,No,10,5,False
+R-2490,M-2672,Employment Issue,Medium,Yes,7,3,False
+R-2491,M-3744,Regulatory Review,High,No,10,7,False
+R-2492,M-2686,NDA,High,Yes,1,7,True
+R-2493,M-2988,NDA,Low,No,10,7,False
+R-2494,M-2230,Vendor Contract,Low,Yes,1,5,True
+R-2495,M-3088,Employment Issue,High,No,2,5,True
+R-2496,M-2623,Vendor Contract,Low,No,2,3,True
+R-2497,M-3747,NDA,High,Yes,7,5,False
+R-2498,M-3209,Regulatory Review,Medium,Yes,7,3,False
+R-2499,M-2417,Regulatory Review,Low,Yes,1,5,True
+R-2500,M-1046,Vendor Contract,High,No,10,7,False
+R-2501,M-2234,Vendor Contract,Low,No,5,5,True
+R-2502,M-2744,Regulatory Review,Medium,No,10,7,False
+R-2503,M-2227,Vendor Contract,Low,No,5,7,True
+R-2504,M-2313,NDA,Medium,No,2,7,True
+R-2505,M-1972,Employment Issue,Low,Yes,1,3,True
+R-2506,M-3555,Regulatory Review,Medium,No,10,7,False
+R-2507,M-2084,Regulatory Review,Medium,Yes,1,7,True
+R-2508,M-1233,Employment Issue,Low,Yes,1,7,True
+R-2509,M-3946,Vendor Contract,Low,No,10,3,False
+R-2510,M-3786,NDA,Low,No,5,7,True
+R-2511,M-3150,Vendor Contract,Low,Yes,3,3,True
+R-2512,M-1103,Vendor Contract,Medium,Yes,1,5,True
+R-2513,M-2286,NDA,High,No,2,3,True
+R-2514,M-1535,NDA,Low,Yes,1,3,True
+R-2515,M-2000,Regulatory Review,Low,No,10,7,False
+R-2516,M-3673,Employment Issue,High,No,2,7,True
+R-2517,M-3379,Vendor Contract,High,No,10,7,False
+R-2518,M-3543,Regulatory Review,Medium,No,10,3,False
+R-2519,M-3265,Employment Issue,Medium,Yes,2,5,True
+R-2520,M-1214,Employment Issue,Medium,Yes,1,3,True
+R-2521,M-3989,Employment Issue,High,No,2,5,True
+R-2522,M-3588,Employment Issue,Medium,Yes,2,7,True
+R-2523,M-2767,Employment Issue,Low,No,10,3,False
+R-2524,M-1502,Regulatory Review,Medium,Yes,3,3,True
+R-2525,M-1273,Employment Issue,Low,No,5,5,True
+R-2526,M-1372,Vendor Contract,Low,Yes,5,3,False
+R-2527,M-1295,Vendor Contract,Low,No,2,5,True
+R-2528,M-3049,NDA,Low,No,2,5,True
+R-2529,M-2186,Employment Issue,Low,Yes,7,5,False
+R-2530,M-3534,NDA,High,Yes,1,3,True
+R-2531,M-3246,NDA,Low,Yes,7,3,False
+R-2532,M-1617,NDA,High,No,10,7,False
+R-2533,M-2965,Employment Issue,High,No,5,5,True
+R-2534,M-1184,Regulatory Review,Medium,No,2,5,True
+R-2535,M-2347,Regulatory Review,Medium,No,10,7,False
+R-2536,M-3882,Employment Issue,Low,No,2,5,True
+R-2537,M-3553,Vendor Contract,Low,Yes,3,5,True
+R-2538,M-3807,Regulatory Review,Low,Yes,6,5,False
+R-2539,M-1227,Vendor Contract,Low,Yes,1,7,True
+R-2540,M-3834,Regulatory Review,Low,No,10,3,False
+R-2541,M-2351,Vendor Contract,High,Yes,1,3,True
+R-2542,M-1122,Regulatory Review,Medium,Yes,1,5,True
+R-2543,M-1344,Employment Issue,Low,Yes,6,5,False
+R-2544,M-2399,Employment Issue,Medium,Yes,6,5,False
+R-2545,M-1344,Vendor Contract,Low,Yes,3,3,True
+R-2546,M-2167,Vendor Contract,Low,Yes,1,3,True
+R-2547,M-2913,Vendor Contract,Low,Yes,3,3,True
+R-2548,M-2802,Employment Issue,Medium,Yes,6,5,False
+R-2549,M-2134,Regulatory Review,High,Yes,1,5,True
+R-2550,M-1084,Regulatory Review,Low,Yes,1,7,True
+R-2551,M-3875,Employment Issue,High,Yes,1,7,True
+R-2552,M-2844,NDA,Low,Yes,3,3,True
+R-2553,M-2482,Regulatory Review,Low,Yes,1,3,True
+R-2554,M-2691,Vendor Contract,High,No,5,3,False
+R-2555,M-1414,Regulatory Review,High,Yes,7,7,True
+R-2556,M-3312,Employment Issue,Low,No,2,5,True
+R-2557,M-2899,Employment Issue,High,No,5,7,True
+R-2558,M-1032,Employment Issue,Low,No,10,7,False
+R-2559,M-2225,Regulatory Review,Low,No,2,3,True
+R-2560,M-2147,Vendor Contract,Low,No,5,7,True
+R-2561,M-3872,Vendor Contract,Low,Yes,7,5,False
+R-2562,M-1672,Vendor Contract,Medium,Yes,1,5,True
+R-2563,M-2096,Employment Issue,Low,No,2,3,True
+R-2564,M-3438,NDA,Low,Yes,7,5,False
+R-2565,M-1443,NDA,Low,No,5,7,True
+R-2566,M-3110,Vendor Contract,Low,Yes,1,3,True
+R-2567,M-1868,Employment Issue,Medium,No,2,3,True
+R-2568,M-2318,Employment Issue,Low,Yes,6,7,True
+R-2569,M-1700,NDA,High,No,2,7,True
+R-2570,M-3691,Vendor Contract,Medium,Yes,2,5,True
+R-2571,M-3551,Vendor Contract,Medium,Yes,3,5,True
+R-2572,M-1478,Vendor Contract,High,Yes,2,3,True
+R-2573,M-2616,Regulatory Review,High,No,10,5,False
+R-2574,M-2365,Vendor Contract,Medium,No,10,3,False
+R-2575,M-2222,Employment Issue,Low,No,2,7,True
+R-2576,M-1082,Vendor Contract,Low,Yes,1,5,True
+R-2577,M-3222,Regulatory Review,High,No,10,3,False
+R-2578,M-1497,Employment Issue,High,No,5,3,False
+R-2579,M-1101,Employment Issue,Low,Yes,3,5,True
+R-2580,M-2195,Vendor Contract,Medium,No,2,3,True
+R-2581,M-2520,Vendor Contract,High,No,2,7,True
+R-2582,M-3893,Vendor Contract,High,No,10,5,False
+R-2583,M-3893,NDA,Low,Yes,1,7,True
+R-2584,M-3568,Vendor Contract,Medium,No,2,3,True
+R-2585,M-1645,Vendor Contract,Medium,Yes,1,7,True
+R-2586,M-1985,Vendor Contract,Medium,Yes,6,3,False
+R-2587,M-3934,Regulatory Review,Low,Yes,1,7,True
+R-2588,M-2028,Employment Issue,High,Yes,3,5,True
+R-2589,M-3081,Vendor Contract,Low,Yes,5,5,True
+R-2590,M-1809,NDA,High,Yes,3,7,True
+R-2591,M-2070,Vendor Contract,Medium,No,10,3,False
+R-2592,M-3648,NDA,Medium,Yes,1,7,True
+R-2593,M-3999,Employment Issue,Medium,Yes,3,5,True
+R-2594,M-2266,Employment Issue,High,No,2,7,True
+R-2595,M-3005,Vendor Contract,Low,Yes,2,5,True
+R-2596,M-1763,Vendor Contract,High,Yes,2,5,True
+R-2597,M-2270,Employment Issue,Medium,No,10,3,False
+R-2598,M-1423,NDA,High,Yes,6,3,False
+R-2599,M-1699,NDA,High,Yes,1,5,True
+R-2600,M-2976,Employment Issue,High,No,10,3,False
+R-2601,M-3622,Employment Issue,Medium,No,5,5,True
+R-2602,M-2220,NDA,Medium,Yes,5,7,True
+R-2603,M-1483,Vendor Contract,Low,No,5,7,True
+R-2604,M-2721,NDA,Medium,No,2,3,True
+R-2605,M-2176,Vendor Contract,Medium,Yes,7,7,True
+R-2606,M-2550,Regulatory Review,High,No,5,3,False
+R-2607,M-1611,NDA,Low,No,2,7,True
+R-2608,M-1304,Employment Issue,Medium,Yes,1,7,True
+R-2609,M-3408,NDA,Low,No,5,7,True
+R-2610,M-3358,Employment Issue,Low,No,5,5,True
+R-2611,M-2270,Vendor Contract,Medium,Yes,3,3,True
+R-2612,M-1456,Regulatory Review,Medium,Yes,2,3,True
+R-2613,M-1298,NDA,Medium,Yes,1,7,True
+R-2614,M-1969,Vendor Contract,Medium,Yes,5,3,False
+R-2615,M-2646,Regulatory Review,Low,Yes,5,3,False
+R-2616,M-1893,Employment Issue,Medium,No,2,3,True
+R-2617,M-2177,NDA,Medium,No,5,3,False
+R-2618,M-2800,Regulatory Review,Low,No,2,5,True
+R-2619,M-3132,Regulatory Review,Low,No,10,7,False
+R-2620,M-1832,Regulatory Review,Medium,No,5,5,True
+R-2621,M-3285,Employment Issue,Medium,Yes,3,7,True
+R-2622,M-2800,Vendor Contract,High,Yes,1,5,True
+R-2623,M-2610,Employment Issue,Medium,Yes,1,3,True
+R-2624,M-2482,Vendor Contract,High,Yes,7,5,False
+R-2625,M-1349,Vendor Contract,Medium,Yes,1,3,True
+R-2626,M-2258,NDA,Low,No,2,5,True
+R-2627,M-3365,Employment Issue,Medium,Yes,3,3,True
+R-2628,M-2423,NDA,Medium,Yes,3,3,True
+R-2629,M-1822,Employment Issue,Low,No,10,7,False
+R-2630,M-2798,Regulatory Review,High,No,5,5,True
+R-2631,M-1598,Vendor Contract,Low,Yes,1,7,True
+R-2632,M-2867,Employment Issue,Medium,No,10,7,False
+R-2633,M-1961,Employment Issue,Medium,No,10,3,False
+R-2634,M-3396,Vendor Contract,High,Yes,1,3,True
+R-2635,M-2214,NDA,High,No,2,3,True
+R-2636,M-1356,Vendor Contract,High,No,2,5,True
+R-2637,M-2275,Regulatory Review,High,No,2,7,True
+R-2638,M-2726,Employment Issue,High,No,5,7,True
+R-2639,M-1538,Employment Issue,High,No,10,3,False
+R-2640,M-1339,Employment Issue,High,Yes,7,5,False
+R-2641,M-1446,Regulatory Review,Medium,No,10,7,False
+R-2642,M-2218,Vendor Contract,High,No,2,5,True
+R-2643,M-1837,Employment Issue,Low,No,10,5,False
+R-2644,M-3906,Vendor Contract,Medium,Yes,3,3,True
+R-2645,M-3023,Regulatory Review,Low,No,5,5,True
+R-2646,M-1502,Employment Issue,Medium,Yes,7,5,False
+R-2647,M-1290,Regulatory Review,High,No,10,5,False
+R-2648,M-3558,Vendor Contract,Low,Yes,5,5,True
+R-2649,M-2431,Regulatory Review,High,Yes,2,3,True
+R-2650,M-2991,Vendor Contract,Medium,No,5,7,True
+R-2651,M-1058,Employment Issue,Low,Yes,3,3,True
+R-2652,M-1929,Regulatory Review,High,Yes,7,7,True
+R-2653,M-2940,Employment Issue,Low,Yes,2,3,True
+R-2654,M-3159,Vendor Contract,High,Yes,1,3,True
+R-2655,M-2779,Vendor Contract,Medium,Yes,1,3,True
+R-2656,M-1723,Vendor Contract,High,Yes,1,5,True
+R-2657,M-2835,Regulatory Review,Medium,No,10,3,False
+R-2658,M-2303,Regulatory Review,Low,Yes,6,5,False
+R-2659,M-2141,Regulatory Review,Medium,Yes,1,3,True
+R-2660,M-2864,NDA,High,Yes,3,3,True
+R-2661,M-1701,Vendor Contract,Low,Yes,3,5,True
+R-2662,M-2498,Employment Issue,High,No,10,7,False
+R-2663,M-2869,Regulatory Review,Low,Yes,1,7,True
+R-2664,M-1272,Vendor Contract,Low,No,5,7,True
+R-2665,M-3036,Regulatory Review,Medium,No,10,5,False
+R-2666,M-1288,Vendor Contract,Medium,Yes,6,7,True
+R-2667,M-3967,Employment Issue,Medium,Yes,1,7,True
+R-2668,M-3600,Regulatory Review,Medium,No,2,7,True
+R-2669,M-1964,Regulatory Review,Medium,No,2,7,True
+R-2670,M-3425,Regulatory Review,High,No,5,3,False
+R-2671,M-3514,NDA,Medium,No,10,5,False
+R-2672,M-3517,NDA,High,No,10,3,False
+R-2673,M-2859,NDA,High,No,2,5,True
+R-2674,M-2587,Regulatory Review,Medium,Yes,3,5,True
+R-2675,M-2530,Vendor Contract,Low,Yes,1,5,True
+R-2676,M-2352,Employment Issue,High,Yes,2,5,True
+R-2677,M-2993,NDA,Medium,Yes,3,5,True
+R-2678,M-1101,Employment Issue,Medium,Yes,5,5,True
+R-2679,M-1681,NDA,Medium,Yes,1,5,True
+R-2680,M-2806,NDA,Medium,Yes,3,5,True
+R-2681,M-2123,Regulatory Review,High,No,5,3,False
+R-2682,M-2412,Regulatory Review,Medium,Yes,1,3,True
+R-2683,M-3681,Regulatory Review,High,Yes,6,3,False
+R-2684,M-3832,NDA,Low,No,5,5,True
+R-2685,M-2464,NDA,Low,Yes,2,7,True
+R-2686,M-3532,NDA,Low,Yes,2,3,True
+R-2687,M-2732,Vendor Contract,Low,No,10,3,False
+R-2688,M-3087,Regulatory Review,Low,No,10,7,False
+R-2689,M-2366,Vendor Contract,Low,No,5,5,True
+R-2690,M-1474,Vendor Contract,High,No,5,5,True
+R-2691,M-1000,NDA,Low,No,10,5,False
+R-2692,M-1492,Regulatory Review,Low,Yes,1,5,True
+R-2693,M-2628,Vendor Contract,Medium,No,5,7,True
+R-2694,M-1774,Vendor Contract,Medium,No,5,7,True
+R-2695,M-1176,Vendor Contract,High,No,5,3,False
+R-2696,M-2874,NDA,High,No,5,7,True
+R-2697,M-2011,Employment Issue,Medium,Yes,3,5,True
+R-2698,M-2611,Vendor Contract,High,No,5,3,False
+R-2699,M-3277,Employment Issue,Low,Yes,1,7,True
+R-2700,M-3557,NDA,High,Yes,7,5,False
+R-2701,M-1269,NDA,Low,Yes,1,7,True
+R-2702,M-3168,NDA,Low,Yes,3,3,True
+R-2703,M-1402,Vendor Contract,Low,No,5,5,True
+R-2704,M-1194,Vendor Contract,Medium,Yes,7,3,False
+R-2705,M-1312,Employment Issue,High,No,10,7,False
+R-2706,M-2248,Regulatory Review,High,No,2,7,True
+R-2707,M-3810,Employment Issue,Medium,No,10,5,False
+R-2708,M-1548,Regulatory Review,High,Yes,2,7,True
+R-2709,M-3541,NDA,Medium,No,2,5,True
+R-2710,M-1076,Employment Issue,High,Yes,1,7,True
+R-2711,M-3863,Vendor Contract,Low,Yes,3,7,True
+R-2712,M-1040,Regulatory Review,Low,No,2,7,True
+R-2713,M-1443,NDA,High,No,2,5,True
+R-2714,M-2111,Vendor Contract,Low,Yes,1,5,True
+R-2715,M-1037,Vendor Contract,Medium,Yes,1,3,True
+R-2716,M-1643,NDA,Medium,No,5,7,True
+R-2717,M-3940,Employment Issue,Medium,No,10,5,False
+R-2718,M-2067,NDA,High,No,10,5,False
+R-2719,M-2853,Employment Issue,Low,No,2,5,True
+R-2720,M-2241,Vendor Contract,High,No,10,3,False
+R-2721,M-1985,Regulatory Review,Low,No,5,5,True
+R-2722,M-3088,NDA,Low,Yes,1,5,True
+R-2723,M-1808,NDA,High,Yes,6,3,False
+R-2724,M-2081,Vendor Contract,Medium,Yes,6,3,False
+R-2725,M-3820,Vendor Contract,Low,No,10,3,False
+R-2726,M-1284,Regulatory Review,High,No,5,5,True
+R-2727,M-1104,Regulatory Review,Medium,No,10,7,False
+R-2728,M-2556,Employment Issue,High,No,2,7,True
+R-2729,M-2721,Employment Issue,Medium,No,5,5,True
+R-2730,M-3841,NDA,Medium,Yes,1,3,True
+R-2731,M-3135,NDA,Medium,Yes,3,3,True
+R-2732,M-1800,NDA,Medium,No,5,3,False
+R-2733,M-1539,Regulatory Review,Medium,Yes,3,3,True
+R-2734,M-2175,NDA,Low,Yes,3,3,True
+R-2735,M-3974,Regulatory Review,High,No,2,3,True
+R-2736,M-2349,Regulatory Review,Low,Yes,7,5,False
+R-2737,M-3797,Employment Issue,High,Yes,2,3,True
+R-2738,M-3745,Vendor Contract,Medium,No,2,5,True
+R-2739,M-2430,Regulatory Review,Low,No,5,3,False
+R-2740,M-1590,Regulatory Review,Medium,Yes,3,7,True
+R-2741,M-3031,Regulatory Review,Medium,Yes,1,5,True
+R-2742,M-3414,Regulatory Review,Medium,No,2,3,True
+R-2743,M-1242,NDA,High,No,5,3,False
+R-2744,M-2569,Vendor Contract,Medium,No,10,7,False
+R-2745,M-1532,NDA,High,Yes,1,3,True
+R-2746,M-3033,Regulatory Review,Medium,No,5,7,True
+R-2747,M-1627,Vendor Contract,High,No,5,3,False
+R-2748,M-1308,Vendor Contract,High,No,5,3,False
+R-2749,M-2177,Employment Issue,Low,Yes,1,5,True
+R-2750,M-3877,Regulatory Review,Low,Yes,1,7,True
+R-2751,M-2475,Employment Issue,High,No,2,3,True
+R-2752,M-3468,Vendor Contract,High,Yes,5,3,False
+R-2753,M-3501,Employment Issue,Low,No,5,3,False
+R-2754,M-1420,Regulatory Review,Low,Yes,7,5,False
+R-2755,M-1441,Employment Issue,Low,No,2,5,True
+R-2756,M-1644,Vendor Contract,Medium,Yes,1,5,True
+R-2757,M-1732,NDA,Medium,Yes,5,7,True
+R-2758,M-2509,Regulatory Review,Low,No,5,3,False
+R-2759,M-1908,Vendor Contract,Medium,No,2,5,True
+R-2760,M-1331,Employment Issue,High,No,10,3,False
+R-2761,M-3905,NDA,High,No,5,7,True
+R-2762,M-3257,NDA,Medium,No,10,7,False
+R-2763,M-3994,Regulatory Review,High,Yes,5,3,False
+R-2764,M-3558,Regulatory Review,Medium,Yes,1,5,True
+R-2765,M-3697,NDA,Low,No,10,5,False
+R-2766,M-1364,Employment Issue,Medium,No,10,7,False
+R-2767,M-1647,Employment Issue,Low,No,2,7,True
+R-2768,M-2575,Vendor Contract,Low,Yes,7,3,False
+R-2769,M-1577,Regulatory Review,High,No,5,7,True
+R-2770,M-3214,Employment Issue,Low,No,10,5,False
+R-2771,M-1002,Vendor Contract,Low,No,2,5,True
+R-2772,M-2666,Employment Issue,Low,No,5,7,True
+R-2773,M-2294,Vendor Contract,Medium,No,5,7,True
+R-2774,M-2187,Vendor Contract,High,No,5,7,True
+R-2775,M-1368,Employment Issue,High,No,5,7,True
+R-2776,M-2780,Employment Issue,High,Yes,1,7,True
+R-2777,M-3326,Regulatory Review,Medium,No,2,3,True
+R-2778,M-2677,Vendor Contract,Low,No,5,3,False
+R-2779,M-1263,NDA,Medium,No,5,3,False
+R-2780,M-2318,NDA,Medium,Yes,5,3,False
+R-2781,M-2891,Regulatory Review,Low,No,10,5,False
+R-2782,M-2829,Employment Issue,Medium,Yes,5,7,True
+R-2783,M-1545,Employment Issue,Medium,Yes,1,3,True
+R-2784,M-3373,NDA,High,No,5,5,True
+R-2785,M-3324,NDA,Medium,No,5,7,True
+R-2786,M-2779,Regulatory Review,Medium,No,10,5,False
+R-2787,M-3596,Regulatory Review,Low,No,10,7,False
+R-2788,M-3332,Employment Issue,High,No,10,7,False
+R-2789,M-2605,Vendor Contract,Low,Yes,7,3,False
+R-2790,M-2493,Vendor Contract,Medium,Yes,2,7,True
+R-2791,M-2021,Vendor Contract,Medium,No,2,3,True
+R-2792,M-2569,Regulatory Review,High,Yes,1,5,True
+R-2793,M-3462,NDA,High,No,2,3,True
+R-2794,M-1742,Regulatory Review,Medium,Yes,1,7,True
+R-2795,M-2278,Vendor Contract,High,No,2,3,True
+R-2796,M-2745,Regulatory Review,Low,No,10,3,False
+R-2797,M-1877,Regulatory Review,High,Yes,1,5,True
+R-2798,M-1099,Employment Issue,High,No,5,7,True
+R-2799,M-3199,Vendor Contract,High,No,10,3,False
+R-2800,M-3603,Regulatory Review,High,No,5,5,True
+R-2801,M-2352,NDA,Low,No,10,3,False
+R-2802,M-3719,Employment Issue,Low,Yes,5,3,False
+R-2803,M-1862,Regulatory Review,Medium,No,2,3,True
+R-2804,M-3396,Regulatory Review,High,Yes,1,5,True
+R-2805,M-2348,Vendor Contract,High,Yes,3,7,True
+R-2806,M-3471,Regulatory Review,Medium,Yes,6,3,False
+R-2807,M-1647,Employment Issue,Medium,Yes,2,7,True
+R-2808,M-3697,Employment Issue,Low,Yes,5,7,True
+R-2809,M-2910,Employment Issue,Medium,No,10,7,False
+R-2810,M-1851,Employment Issue,Medium,No,2,3,True
+R-2811,M-1043,Vendor Contract,Medium,No,2,5,True
+R-2812,M-2825,Regulatory Review,Medium,No,2,3,True
+R-2813,M-2966,Vendor Contract,Low,No,2,7,True
+R-2814,M-1067,Employment Issue,Low,No,5,7,True
+R-2815,M-2297,Employment Issue,High,Yes,1,7,True
+R-2816,M-2619,Vendor Contract,High,Yes,1,3,True
+R-2817,M-3447,Vendor Contract,High,Yes,3,3,True
+R-2818,M-2075,Regulatory Review,Medium,No,10,5,False
+R-2819,M-1961,Vendor Contract,Medium,Yes,7,3,False
+R-2820,M-2797,Regulatory Review,Low,No,2,3,True
+R-2821,M-1511,NDA,Low,No,10,3,False
+R-2822,M-3918,NDA,High,No,5,3,False
+R-2823,M-2092,Vendor Contract,Low,Yes,1,3,True
+R-2824,M-1186,Vendor Contract,Medium,Yes,5,3,False
+R-2825,M-1628,Regulatory Review,Medium,No,2,5,True
+R-2826,M-1058,Regulatory Review,Low,Yes,7,7,True
+R-2827,M-3344,Vendor Contract,Medium,Yes,6,3,False
+R-2828,M-3050,Regulatory Review,High,Yes,6,7,True
+R-2829,M-2621,Vendor Contract,Medium,No,2,5,True
+R-2830,M-2445,Employment Issue,Medium,No,5,3,False
+R-2831,M-3811,Regulatory Review,High,No,2,3,True
+R-2832,M-1688,Regulatory Review,Low,No,2,7,True
+R-2833,M-1051,Vendor Contract,Low,Yes,2,3,True
+R-2834,M-2426,Regulatory Review,Low,Yes,7,3,False
+R-2835,M-3756,Vendor Contract,High,Yes,7,5,False
+R-2836,M-1477,Employment Issue,Medium,Yes,6,7,True
+R-2837,M-1430,NDA,High,Yes,3,5,True
+R-2838,M-3333,Vendor Contract,Low,Yes,3,7,True
+R-2839,M-2996,Vendor Contract,High,Yes,1,7,True
+R-2840,M-1464,Vendor Contract,Low,No,5,5,True
+R-2841,M-2638,Vendor Contract,High,Yes,1,5,True
+R-2842,M-1508,Regulatory Review,Medium,Yes,1,5,True
+R-2843,M-2236,Vendor Contract,Medium,Yes,1,5,True
+R-2844,M-1068,Employment Issue,Medium,No,2,7,True
+R-2845,M-2421,NDA,High,No,2,7,True
+R-2846,M-2455,NDA,High,No,5,5,True
+R-2847,M-1831,Regulatory Review,Low,Yes,1,5,True
+R-2848,M-2009,Vendor Contract,Low,No,2,7,True
+R-2849,M-2976,NDA,High,Yes,2,3,True
+R-2850,M-3365,Regulatory Review,Medium,Yes,6,7,True
+R-2851,M-3571,Employment Issue,High,Yes,3,5,True
+R-2852,M-1005,Regulatory Review,Low,No,2,3,True
+R-2853,M-2758,Employment Issue,Medium,No,10,5,False
+R-2854,M-1379,NDA,Low,No,2,5,True
+R-2855,M-1771,Regulatory Review,Medium,Yes,2,7,True
+R-2856,M-3925,Vendor Contract,Medium,Yes,5,7,True
+R-2857,M-3433,Vendor Contract,High,No,5,5,True
+R-2858,M-3035,Regulatory Review,High,Yes,3,5,True
+R-2859,M-1694,Employment Issue,Low,No,10,3,False
+R-2860,M-2739,Employment Issue,Low,No,5,3,False
+R-2861,M-1075,Regulatory Review,High,No,10,3,False
+R-2862,M-2851,Regulatory Review,High,No,5,5,True
+R-2863,M-1624,Employment Issue,Low,No,2,7,True
+R-2864,M-2034,NDA,High,Yes,1,7,True
+R-2865,M-1270,Vendor Contract,High,Yes,3,5,True
+R-2866,M-1145,Regulatory Review,Medium,No,5,5,True
+R-2867,M-3421,Regulatory Review,High,No,2,3,True
+R-2868,M-1552,Employment Issue,High,Yes,5,7,True
+R-2869,M-2189,Employment Issue,High,Yes,1,5,True
+R-2870,M-2325,Regulatory Review,Low,Yes,5,3,False
+R-2871,M-2148,Vendor Contract,Medium,Yes,3,5,True
+R-2872,M-1726,Employment Issue,Medium,No,2,5,True
+R-2873,M-3142,Regulatory Review,Low,No,5,3,False
+R-2874,M-1785,Vendor Contract,Medium,Yes,7,5,False
+R-2875,M-2577,Vendor Contract,High,Yes,1,5,True
+R-2876,M-2444,NDA,Low,No,2,5,True
+R-2877,M-2873,Employment Issue,High,No,5,5,True
+R-2878,M-3840,Regulatory Review,Low,Yes,3,7,True
+R-2879,M-3502,Regulatory Review,Low,Yes,3,7,True
+R-2880,M-3383,Regulatory Review,High,Yes,3,7,True
+R-2881,M-2232,Employment Issue,Low,Yes,6,3,False
+R-2882,M-3822,Employment Issue,Low,No,2,7,True
+R-2883,M-3321,NDA,Medium,No,10,3,False
+R-2884,M-2756,Employment Issue,Medium,Yes,3,7,True
+R-2885,M-3232,Vendor Contract,High,No,2,3,True
+R-2886,M-2567,Regulatory Review,High,Yes,2,7,True
+R-2887,M-2747,Vendor Contract,High,No,2,3,True
+R-2888,M-1475,Vendor Contract,High,Yes,1,3,True
+R-2889,M-1233,NDA,High,Yes,5,5,True
+R-2890,M-1467,Employment Issue,High,No,5,3,False
+R-2891,M-1871,Employment Issue,Medium,No,2,5,True
+R-2892,M-1428,Regulatory Review,Low,Yes,1,7,True
+R-2893,M-3806,Employment Issue,Low,No,10,5,False
+R-2894,M-2403,Vendor Contract,High,Yes,6,5,False
+R-2895,M-2433,Regulatory Review,Medium,No,10,7,False
+R-2896,M-3849,NDA,Medium,Yes,5,3,False
+R-2897,M-2783,Regulatory Review,High,No,2,7,True
+R-2898,M-2979,Regulatory Review,High,Yes,5,3,False
+R-2899,M-2119,NDA,High,No,10,7,False
+R-2900,M-1295,NDA,Medium,Yes,5,7,True
+R-2901,M-3330,Regulatory Review,Medium,No,5,5,True
+R-2902,M-3888,Regulatory Review,High,No,5,3,False
+R-2903,M-2633,Employment Issue,Low,No,2,5,True
+R-2904,M-2150,Vendor Contract,High,No,10,3,False
+R-2905,M-3333,Regulatory Review,Low,No,10,3,False
+R-2906,M-2975,NDA,Medium,Yes,5,3,False
+R-2907,M-2272,Employment Issue,Low,No,10,5,False
+R-2908,M-3463,Employment Issue,High,No,2,7,True
+R-2909,M-3511,Vendor Contract,Medium,No,5,5,True
+R-2910,M-2096,NDA,Medium,Yes,1,5,True
+R-2911,M-1441,Employment Issue,Low,No,10,7,False
+R-2912,M-2046,Regulatory Review,Low,Yes,1,3,True
+R-2913,M-2167,Employment Issue,Medium,No,2,7,True
+R-2914,M-1943,Employment Issue,Low,No,2,7,True
+R-2915,M-1778,NDA,High,No,5,3,False
+R-2916,M-1486,Employment Issue,Low,No,2,3,True
+R-2917,M-2420,Regulatory Review,Medium,Yes,1,5,True
+R-2918,M-1084,Regulatory Review,High,No,2,7,True
+R-2919,M-3218,NDA,Low,Yes,2,3,True
+R-2920,M-1214,NDA,High,Yes,1,5,True
+R-2921,M-1587,Vendor Contract,Medium,No,2,5,True
+R-2922,M-3407,Employment Issue,Low,No,5,3,False
+R-2923,M-1623,NDA,Low,No,5,5,True
+R-2924,M-3684,Employment Issue,High,Yes,1,5,True
+R-2925,M-3954,Regulatory Review,High,No,10,7,False
+R-2926,M-2464,Employment Issue,High,Yes,1,7,True
+R-2927,M-3635,NDA,Medium,No,10,7,False
+R-2928,M-1720,Regulatory Review,Medium,Yes,6,3,False
+R-2929,M-1572,NDA,Low,No,5,3,False
+R-2930,M-2236,Vendor Contract,High,Yes,1,5,True
+R-2931,M-2493,Employment Issue,Medium,No,10,5,False
+R-2932,M-2603,Regulatory Review,Low,No,10,5,False
+R-2933,M-2897,Employment Issue,Medium,Yes,3,3,True
+R-2934,M-3834,Vendor Contract,Low,No,5,7,True
+R-2935,M-2900,Employment Issue,High,No,10,5,False
+R-2936,M-2161,Regulatory Review,High,Yes,3,5,True
+R-2937,M-2027,Regulatory Review,High,No,2,5,True
+R-2938,M-2236,Vendor Contract,High,Yes,1,3,True
+R-2939,M-2251,NDA,High,Yes,3,3,True
+R-2940,M-3301,Vendor Contract,High,No,10,5,False
+R-2941,M-2692,NDA,Low,No,5,7,True
+R-2942,M-2576,Employment Issue,High,No,5,3,False
+R-2943,M-1055,Employment Issue,Low,Yes,3,3,True
+R-2944,M-1144,Employment Issue,Medium,No,2,5,True
+R-2945,M-1779,Vendor Contract,Low,No,10,5,False
+R-2946,M-1503,NDA,High,No,2,3,True
+R-2947,M-3585,NDA,Low,No,5,7,True
+R-2948,M-3637,Vendor Contract,Low,Yes,2,7,True
+R-2949,M-1839,Regulatory Review,Medium,Yes,3,5,True
+R-2950,M-1787,Vendor Contract,High,No,2,3,True
+R-2951,M-3340,Vendor Contract,High,Yes,2,5,True
+R-2952,M-2682,Vendor Contract,High,No,10,3,False
+R-2953,M-3113,Vendor Contract,High,No,5,3,False
+R-2954,M-3900,Regulatory Review,High,Yes,5,7,True
+R-2955,M-1242,Employment Issue,Low,No,10,5,False
+R-2956,M-1513,Regulatory Review,High,Yes,1,3,True
+R-2957,M-1355,Vendor Contract,High,No,2,5,True
+R-2958,M-3329,Vendor Contract,High,No,5,3,False
+R-2959,M-1545,NDA,High,Yes,1,7,True
+R-2960,M-3019,NDA,Low,No,5,7,True
+R-2961,M-2815,Vendor Contract,High,Yes,5,3,False
+R-2962,M-3196,Regulatory Review,Medium,Yes,3,5,True
+R-2963,M-1831,NDA,Medium,No,5,3,False
+R-2964,M-1666,Regulatory Review,Low,No,10,3,False
+R-2965,M-3108,NDA,High,Yes,2,7,True
+R-2966,M-2312,Vendor Contract,Low,Yes,6,3,False
+R-2967,M-2359,Vendor Contract,High,Yes,3,7,True
+R-2968,M-3574,Vendor Contract,Low,No,5,7,True
+R-2969,M-2509,Employment Issue,Low,No,5,5,True
+R-2970,M-1554,Vendor Contract,Low,Yes,7,3,False
+R-2971,M-2243,NDA,Medium,No,5,5,True
+R-2972,M-3211,Employment Issue,Low,No,5,3,False
+R-2973,M-1423,Regulatory Review,Low,No,10,5,False
+R-2974,M-1372,Regulatory Review,Low,No,10,3,False
+R-2975,M-1393,NDA,Low,Yes,3,3,True
+R-2976,M-2759,Regulatory Review,High,Yes,3,7,True
+R-2977,M-3637,NDA,Low,Yes,5,7,True
+R-2978,M-1251,Employment Issue,Low,No,10,3,False
+R-2979,M-2798,NDA,Low,Yes,3,5,True
+R-2980,M-3349,Employment Issue,Medium,Yes,5,7,True
+R-2981,M-3459,NDA,Medium,Yes,1,7,True
+R-2982,M-1015,NDA,Low,Yes,1,5,True
+R-2983,M-3838,Employment Issue,Low,Yes,1,7,True
+R-2984,M-2467,Regulatory Review,High,Yes,3,3,True
+R-2985,M-1822,NDA,High,No,10,5,False
+R-2986,M-3438,Employment Issue,High,No,10,3,False
+R-2987,M-3752,Regulatory Review,Medium,Yes,1,5,True
+R-2988,M-2517,Employment Issue,High,No,10,5,False
+R-2989,M-1156,Vendor Contract,Low,Yes,3,7,True
+R-2990,M-1227,Employment Issue,Medium,No,10,7,False
+R-2991,M-3085,Vendor Contract,Medium,No,10,3,False
+R-2992,M-2995,Regulatory Review,Low,No,2,3,True
+R-2993,M-3766,Employment Issue,Low,Yes,3,3,True
+R-2994,M-1388,Vendor Contract,High,Yes,1,5,True
+R-2995,M-3187,NDA,Medium,Yes,7,3,False
+R-2996,M-1612,Employment Issue,Low,Yes,1,5,True
+R-2997,M-1891,Vendor Contract,High,Yes,3,3,True
+R-2998,M-2319,Employment Issue,Medium,No,10,3,False
+R-2999,M-2632,Vendor Contract,Medium,Yes,3,3,True
+R-3000,M-3775,Regulatory Review,Medium,No,2,5,True
+R-3001,M-3150,Regulatory Review,Low,No,2,7,True
+R-3002,M-2083,NDA,High,Yes,6,5,False
+R-3003,M-3610,Employment Issue,Medium,Yes,7,5,False
+R-3004,M-3433,Vendor Contract,High,No,5,7,True
+R-3005,M-2493,Regulatory Review,Low,Yes,2,5,True
+R-3006,M-2870,NDA,Low,No,10,3,False
+R-3007,M-3143,NDA,Medium,Yes,2,7,True
+R-3008,M-1320,Regulatory Review,Medium,Yes,5,3,False
+R-3009,M-2653,Vendor Contract,Low,Yes,5,5,True
+R-3010,M-2615,NDA,Medium,Yes,6,3,False
+R-3011,M-2355,Regulatory Review,Low,No,2,7,True
+R-3012,M-2627,Employment Issue,High,Yes,1,3,True
+R-3013,M-1387,Regulatory Review,High,No,2,5,True
+R-3014,M-3630,Vendor Contract,High,No,2,7,True
+R-3015,M-3387,Vendor Contract,High,No,10,7,False
+R-3016,M-3955,NDA,High,No,5,5,True
+R-3017,M-3859,Vendor Contract,Low,No,2,7,True
+R-3018,M-3096,Vendor Contract,Low,Yes,1,7,True
+R-3019,M-1169,Employment Issue,High,Yes,1,3,True
+R-3020,M-3373,Vendor Contract,Low,Yes,5,5,True
+R-3021,M-1268,Regulatory Review,Medium,Yes,7,5,False
+R-3022,M-2567,Employment Issue,Medium,No,5,5,True
+R-3023,M-2963,NDA,Medium,No,2,5,True
+R-3024,M-2084,Employment Issue,Medium,No,2,5,True
+R-3025,M-1632,Vendor Contract,High,Yes,1,5,True
+R-3026,M-1120,Vendor Contract,High,No,10,5,False
+R-3027,M-3831,Employment Issue,High,Yes,6,5,False
+R-3028,M-1590,NDA,Low,Yes,1,7,True
+R-3029,M-3026,NDA,Low,Yes,1,7,True
+R-3030,M-3326,Regulatory Review,High,No,2,5,True
+R-3031,M-1166,Regulatory Review,Low,Yes,1,7,True
+R-3032,M-2125,Vendor Contract,High,Yes,2,3,True
+R-3033,M-1335,NDA,Medium,No,5,3,False
+R-3034,M-3241,NDA,Low,No,2,7,True
+R-3035,M-2112,Regulatory Review,High,No,10,5,False
+R-3036,M-1469,Employment Issue,Low,No,10,3,False
+R-3037,M-3570,Employment Issue,High,No,5,7,True
+R-3038,M-2643,NDA,High,No,5,3,False
+R-3039,M-1955,Vendor Contract,High,No,5,3,False
+R-3040,M-3135,Vendor Contract,Low,Yes,3,3,True
+R-3041,M-2190,NDA,Low,Yes,1,3,True
+R-3042,M-1401,Vendor Contract,Medium,Yes,1,7,True
+R-3043,M-2866,Employment Issue,Medium,Yes,3,7,True
+R-3044,M-1672,Regulatory Review,Low,Yes,2,5,True
+R-3045,M-3407,Vendor Contract,Medium,No,10,3,False
+R-3046,M-2907,Employment Issue,Low,Yes,5,3,False
+R-3047,M-2180,NDA,Low,No,10,7,False
+R-3048,M-2498,NDA,High,No,10,5,False
+R-3049,M-1173,Vendor Contract,Low,No,10,5,False
+R-3050,M-2526,Vendor Contract,Medium,No,10,3,False
+R-3051,M-3255,Vendor Contract,Low,No,2,5,True
+R-3052,M-3396,Vendor Contract,Medium,No,2,7,True
+R-3053,M-1251,Employment Issue,Medium,No,5,5,True
+R-3054,M-1112,Employment Issue,High,Yes,1,7,True
+R-3055,M-2332,Vendor Contract,Medium,Yes,3,3,True
+R-3056,M-2895,Vendor Contract,High,Yes,1,5,True
+R-3057,M-2067,NDA,Low,Yes,3,5,True
+R-3058,M-1520,NDA,Medium,No,2,7,True
+R-3059,M-1994,Vendor Contract,Medium,Yes,1,5,True
+R-3060,M-2092,Regulatory Review,Low,Yes,3,7,True
+R-3061,M-2161,Regulatory Review,Low,Yes,3,3,True
+R-3062,M-2766,Vendor Contract,Low,No,5,5,True
+R-3063,M-3462,Employment Issue,Medium,Yes,7,7,True
+R-3064,M-2970,Employment Issue,High,No,10,5,False
+R-3065,M-3993,Vendor Contract,High,No,2,3,True
+R-3066,M-3425,Vendor Contract,Low,No,10,5,False
+R-3067,M-2630,Employment Issue,Low,No,2,5,True
+R-3068,M-3494,Vendor Contract,Low,Yes,3,5,True
+R-3069,M-3437,Regulatory Review,Medium,No,10,7,False
+R-3070,M-3566,NDA,High,Yes,3,5,True
+R-3071,M-2762,Vendor Contract,Medium,No,2,5,True
+R-3072,M-1569,NDA,Low,No,5,3,False
+R-3073,M-3886,Regulatory Review,Low,No,2,5,True
+R-3074,M-3198,Regulatory Review,High,No,10,7,False
+R-3075,M-1747,Employment Issue,Medium,Yes,7,3,False
+R-3076,M-2401,Regulatory Review,High,No,2,3,True
+R-3077,M-3628,Regulatory Review,Low,No,5,7,True
+R-3078,M-1868,Regulatory Review,Medium,No,10,3,False
+R-3079,M-3388,Vendor Contract,High,No,5,3,False
+R-3080,M-3401,NDA,Medium,Yes,3,7,True
+R-3081,M-3005,NDA,Medium,Yes,1,7,True
+R-3082,M-1979,NDA,High,No,10,3,False
+R-3083,M-2090,Employment Issue,Medium,Yes,3,7,True
+R-3084,M-1246,NDA,High,No,5,5,True
+R-3085,M-1159,Vendor Contract,Low,No,2,3,True
+R-3086,M-1911,Regulatory Review,High,Yes,7,5,False
+R-3087,M-3387,Regulatory Review,Low,No,10,7,False
+R-3088,M-3410,Employment Issue,Low,Yes,1,7,True
+R-3089,M-2406,Employment Issue,Low,Yes,3,5,True
+R-3090,M-1246,Employment Issue,Low,Yes,1,7,True
+R-3091,M-1338,Employment Issue,Low,Yes,7,7,True
+R-3092,M-1910,Vendor Contract,Medium,Yes,7,7,True
+R-3093,M-1032,Vendor Contract,Medium,Yes,3,7,True
+R-3094,M-1158,NDA,Medium,No,10,3,False
+R-3095,M-1841,Employment Issue,Medium,Yes,7,7,True
+R-3096,M-2723,Vendor Contract,Medium,Yes,5,5,True
+R-3097,M-3769,Employment Issue,Medium,No,10,5,False
+R-3098,M-1658,NDA,Medium,No,10,5,False
+R-3099,M-1051,Vendor Contract,Medium,No,10,3,False
+R-3100,M-1923,Employment Issue,High,Yes,6,3,False
+R-3101,M-3140,Vendor Contract,Medium,Yes,3,7,True
+R-3102,M-2126,NDA,Medium,No,5,3,False
+R-3103,M-1287,Employment Issue,High,Yes,1,5,True
+R-3104,M-3040,Regulatory Review,Medium,No,5,7,True
+R-3105,M-3995,Regulatory Review,Low,No,5,5,True
+R-3106,M-1856,NDA,High,Yes,3,7,True
+R-3107,M-3891,Vendor Contract,High,Yes,1,3,True
+R-3108,M-3419,Vendor Contract,High,No,10,7,False
+R-3109,M-1037,Employment Issue,High,Yes,5,5,True
+R-3110,M-3611,NDA,Low,Yes,1,3,True
+R-3111,M-2897,Vendor Contract,High,No,2,3,True
+R-3112,M-3610,Regulatory Review,High,No,10,3,False
+R-3113,M-3959,Regulatory Review,Medium,Yes,6,5,False
+R-3114,M-1497,Employment Issue,Medium,Yes,2,7,True
+R-3115,M-1456,Employment Issue,Medium,No,2,7,True
+R-3116,M-1345,Vendor Contract,High,Yes,5,7,True
+R-3117,M-1750,Vendor Contract,Medium,No,10,7,False
+R-3118,M-1778,Regulatory Review,High,Yes,1,5,True
+R-3119,M-3345,Regulatory Review,Low,Yes,7,7,True
+R-3120,M-3830,Regulatory Review,High,No,5,3,False
+R-3121,M-2000,Vendor Contract,Medium,Yes,1,7,True
+R-3122,M-2082,Vendor Contract,Low,Yes,5,7,True
+R-3123,M-1326,Vendor Contract,Medium,Yes,5,3,False
+R-3124,M-2876,Employment Issue,Medium,Yes,1,5,True
+R-3125,M-1418,NDA,High,No,2,7,True
+R-3126,M-1971,Regulatory Review,Low,No,5,7,True
+R-3127,M-2590,NDA,High,Yes,3,3,True
+R-3128,M-2996,Regulatory Review,Low,Yes,6,3,False
+R-3129,M-1062,Vendor Contract,Medium,Yes,3,7,True
+R-3130,M-1616,Vendor Contract,Low,Yes,1,5,True
+R-3131,M-1974,NDA,Medium,No,2,7,True
+R-3132,M-2574,Vendor Contract,Low,Yes,1,7,True
+R-3133,M-2363,Regulatory Review,High,No,2,5,True
+R-3134,M-3890,Regulatory Review,Low,Yes,1,5,True
+R-3135,M-3593,Employment Issue,Medium,Yes,1,7,True
+R-3136,M-3182,Vendor Contract,Low,Yes,5,7,True
+R-3137,M-2256,Regulatory Review,High,Yes,3,3,True
+R-3138,M-3335,NDA,Low,No,10,3,False
+R-3139,M-3759,NDA,Low,No,2,5,True
+R-3140,M-2093,Employment Issue,Medium,No,10,5,False
+R-3141,M-1116,Vendor Contract,Medium,No,5,5,True
+R-3142,M-3642,NDA,High,No,5,3,False
+R-3143,M-3128,Employment Issue,High,No,10,7,False
+R-3144,M-1231,Regulatory Review,Low,No,10,5,False
+R-3145,M-2687,Regulatory Review,Medium,No,10,5,False
+R-3146,M-3040,Employment Issue,High,No,5,7,True
+R-3147,M-1756,Vendor Contract,High,No,2,3,True
+R-3148,M-3390,Regulatory Review,Low,No,10,5,False
+R-3149,M-1951,NDA,Low,Yes,1,7,True
+R-3150,M-2531,Regulatory Review,High,No,10,5,False
+R-3151,M-1765,Regulatory Review,Low,No,2,3,True
+R-3152,M-3929,Regulatory Review,Medium,Yes,5,3,False
+R-3153,M-2056,Employment Issue,Medium,Yes,3,3,True
+R-3154,M-2007,Regulatory Review,High,Yes,1,7,True
+R-3155,M-1323,Employment Issue,Low,Yes,7,7,True
+R-3156,M-2088,NDA,Low,Yes,7,7,True
+R-3157,M-2705,Regulatory Review,Medium,Yes,5,5,True
+R-3158,M-2897,NDA,Medium,Yes,1,7,True
+R-3159,M-2648,NDA,Medium,No,2,3,True
+R-3160,M-2172,Vendor Contract,Low,Yes,1,5,True
+R-3161,M-3834,Regulatory Review,High,Yes,7,7,True
+R-3162,M-3720,Regulatory Review,Medium,No,2,7,True
+R-3163,M-1754,Regulatory Review,High,No,10,5,False
+R-3164,M-2386,Regulatory Review,Low,No,2,7,True
+R-3165,M-3133,NDA,High,Yes,5,3,False
+R-3166,M-3006,NDA,Low,Yes,1,3,True
+R-3167,M-3758,Vendor Contract,Medium,Yes,6,7,True
+R-3168,M-3809,Vendor Contract,High,Yes,3,5,True
+R-3169,M-3933,Regulatory Review,Medium,Yes,6,7,True
+R-3170,M-3765,Vendor Contract,Medium,Yes,1,5,True
+R-3171,M-1909,Employment Issue,Medium,Yes,3,3,True
+R-3172,M-3457,Vendor Contract,High,Yes,2,5,True
+R-3173,M-3160,NDA,Medium,Yes,3,3,True
+R-3174,M-1764,Employment Issue,Low,Yes,1,3,True
+R-3175,M-1547,Regulatory Review,Medium,Yes,3,5,True
+R-3176,M-2103,Employment Issue,High,No,10,7,False
+R-3177,M-1675,Regulatory Review,Medium,No,5,7,True
+R-3178,M-2876,Regulatory Review,Medium,Yes,1,3,True
+R-3179,M-1679,Vendor Contract,High,Yes,1,7,True
+R-3180,M-2532,Vendor Contract,High,No,2,5,True
+R-3181,M-3993,Vendor Contract,High,No,10,3,False
+R-3182,M-2757,Regulatory Review,Low,Yes,1,3,True
+R-3183,M-3906,Vendor Contract,High,Yes,1,5,True
+R-3184,M-3974,NDA,Medium,Yes,6,3,False
+R-3185,M-1084,NDA,High,Yes,3,5,True
+R-3186,M-3864,NDA,Medium,Yes,3,7,True
+R-3187,M-2656,Vendor Contract,High,No,2,7,True
+R-3188,M-1698,NDA,Medium,Yes,1,3,True
+R-3189,M-1724,NDA,High,Yes,7,7,True
+R-3190,M-2316,NDA,High,No,5,5,True
+R-3191,M-1695,Regulatory Review,Medium,No,5,7,True
+R-3192,M-2124,Regulatory Review,Medium,Yes,1,7,True
+R-3193,M-3354,Vendor Contract,Low,Yes,3,7,True
+R-3194,M-2085,Vendor Contract,High,No,10,5,False
+R-3195,M-2828,NDA,Low,No,10,3,False
+R-3196,M-1871,Regulatory Review,Low,Yes,1,5,True
+R-3197,M-2602,Employment Issue,Low,Yes,1,5,True
+R-3198,M-2877,NDA,High,No,2,7,True
+R-3199,M-3735,Regulatory Review,Low,No,5,7,True
+R-3200,M-1876,Regulatory Review,High,Yes,1,7,True
+R-3201,M-3992,Regulatory Review,Low,No,5,5,True
+R-3202,M-1896,NDA,Medium,No,5,7,True
+R-3203,M-3099,Regulatory Review,Medium,Yes,1,5,True
+R-3204,M-3238,Vendor Contract,Low,No,2,5,True
+R-3205,M-1216,Employment Issue,Medium,Yes,1,3,True
+R-3206,M-3788,Vendor Contract,High,Yes,5,3,False
+R-3207,M-3547,Regulatory Review,High,No,10,3,False
+R-3208,M-1879,Regulatory Review,Medium,No,5,7,True
+R-3209,M-1686,Employment Issue,Medium,No,10,7,False
+R-3210,M-2525,Employment Issue,High,Yes,5,3,False
+R-3211,M-1471,Vendor Contract,Low,Yes,1,3,True
+R-3212,M-3162,Vendor Contract,Low,No,10,3,False
+R-3213,M-3131,Vendor Contract,Medium,No,5,7,True
+R-3214,M-1608,Employment Issue,High,Yes,1,3,True
+R-3215,M-3028,Vendor Contract,Low,Yes,3,3,True
+R-3216,M-3871,NDA,Medium,Yes,7,3,False
+R-3217,M-3889,Vendor Contract,Low,Yes,6,3,False
+R-3218,M-2261,NDA,High,No,2,3,True
+R-3219,M-3100,NDA,High,Yes,1,3,True
+R-3220,M-3344,Employment Issue,Low,Yes,1,7,True
+R-3221,M-3115,Employment Issue,Medium,No,10,3,False
+R-3222,M-1970,Vendor Contract,Medium,No,2,3,True
+R-3223,M-2620,Vendor Contract,Low,No,10,5,False
+R-3224,M-2117,Vendor Contract,Medium,No,5,5,True
+R-3225,M-2002,Regulatory Review,Medium,No,2,3,True
+R-3226,M-1339,NDA,Medium,No,2,5,True
+R-3227,M-1265,Regulatory Review,Medium,Yes,3,7,True
+R-3228,M-2683,Vendor Contract,Medium,Yes,1,7,True
+R-3229,M-2181,Employment Issue,High,Yes,2,5,True
+R-3230,M-2192,Regulatory Review,High,No,10,3,False
+R-3231,M-1870,NDA,Low,No,2,7,True
+R-3232,M-3503,Regulatory Review,Medium,Yes,6,3,False
+R-3233,M-3015,Vendor Contract,Medium,No,5,5,True
+R-3234,M-3658,Regulatory Review,Low,No,10,7,False
+R-3235,M-2083,Regulatory Review,Medium,Yes,6,5,False
+R-3236,M-2234,Vendor Contract,Medium,Yes,1,3,True
+R-3237,M-1074,NDA,Low,Yes,1,3,True
+R-3238,M-2555,Vendor Contract,Medium,No,5,7,True
+R-3239,M-2610,NDA,High,Yes,3,5,True
+R-3240,M-3615,Vendor Contract,Medium,No,5,7,True
+R-3241,M-1769,Employment Issue,Medium,Yes,1,5,True
+R-3242,M-3483,Employment Issue,High,No,10,3,False
+R-3243,M-1852,Employment Issue,Low,No,5,3,False
+R-3244,M-3306,Regulatory Review,Medium,No,10,5,False
+R-3245,M-3094,Vendor Contract,Low,Yes,3,7,True
+R-3246,M-3205,Vendor Contract,Low,Yes,7,5,False
+R-3247,M-3990,Employment Issue,Low,Yes,2,7,True
+R-3248,M-1594,Vendor Contract,Medium,Yes,1,5,True
+R-3249,M-3694,Vendor Contract,High,No,10,5,False
+R-3250,M-3448,Employment Issue,High,Yes,7,5,False
+R-3251,M-2814,NDA,Low,No,5,7,True
+R-3252,M-2827,NDA,High,Yes,2,3,True
+R-3253,M-1065,Employment Issue,High,Yes,1,3,True
+R-3254,M-2384,Regulatory Review,High,Yes,1,7,True
+R-3255,M-3807,NDA,Medium,Yes,3,7,True
+R-3256,M-2429,Employment Issue,High,Yes,7,3,False
+R-3257,M-2589,Regulatory Review,Low,Yes,6,5,False
+R-3258,M-3997,Regulatory Review,Medium,Yes,3,7,True
+R-3259,M-3504,Regulatory Review,Medium,No,10,3,False
+R-3260,M-3915,Employment Issue,Medium,No,10,7,False
+R-3261,M-1643,Vendor Contract,Medium,No,10,3,False
+R-3262,M-2225,Vendor Contract,High,No,5,5,True
+R-3263,M-1520,NDA,High,No,5,5,True
+R-3264,M-2896,Vendor Contract,High,No,2,7,True
+R-3265,M-2706,Employment Issue,Medium,No,5,3,False
+R-3266,M-1078,Vendor Contract,High,Yes,1,3,True
+R-3267,M-2896,Regulatory Review,Low,Yes,7,7,True
+R-3268,M-2383,Employment Issue,Low,Yes,3,7,True
+R-3269,M-2459,Regulatory Review,Medium,Yes,5,5,True
+R-3270,M-1939,Vendor Contract,Medium,Yes,3,5,True
+R-3271,M-3184,Regulatory Review,Medium,No,5,5,True
+R-3272,M-3505,Regulatory Review,High,No,10,3,False
+R-3273,M-3241,Regulatory Review,High,Yes,2,5,True
+R-3274,M-2909,NDA,Low,No,2,5,True
+R-3275,M-1552,Regulatory Review,Low,No,5,3,False
+R-3276,M-3096,Vendor Contract,High,No,10,7,False
+R-3277,M-1630,Regulatory Review,Medium,Yes,3,5,True
+R-3278,M-2279,Regulatory Review,Low,Yes,3,3,True
+R-3279,M-1315,Regulatory Review,Medium,Yes,5,3,False
+R-3280,M-3248,NDA,High,No,2,5,True
+R-3281,M-2488,Employment Issue,Low,No,5,5,True
+R-3282,M-3708,Regulatory Review,Low,No,5,5,True
+R-3283,M-2773,NDA,Low,Yes,3,3,True
+R-3284,M-2216,Vendor Contract,Low,No,5,7,True
+R-3285,M-3748,Regulatory Review,High,Yes,7,3,False
+R-3286,M-3878,Regulatory Review,Medium,No,10,5,False
+R-3287,M-3783,Employment Issue,High,Yes,1,3,True
+R-3288,M-3323,Regulatory Review,High,No,10,5,False
+R-3289,M-2315,Regulatory Review,Medium,Yes,1,5,True
+R-3290,M-2368,Regulatory Review,High,No,2,5,True
+R-3291,M-1886,Employment Issue,High,Yes,1,7,True
+R-3292,M-1797,NDA,Low,Yes,1,3,True
+R-3293,M-3051,Regulatory Review,Medium,No,5,7,True
+R-3294,M-2708,Regulatory Review,Low,Yes,3,7,True
+R-3295,M-1189,Vendor Contract,Medium,Yes,1,5,True
+R-3296,M-2649,Vendor Contract,Low,Yes,1,3,True
+R-3297,M-1193,Employment Issue,Low,No,2,7,True
+R-3298,M-2312,Regulatory Review,Medium,Yes,2,5,True
+R-3299,M-3324,Employment Issue,Medium,No,2,7,True
+R-3300,M-3795,Employment Issue,Low,Yes,6,5,False
+R-3301,M-3314,Regulatory Review,Low,Yes,1,7,True
+R-3302,M-2082,NDA,Medium,Yes,5,7,True
+R-3303,M-2930,NDA,High,Yes,7,7,True
+R-3304,M-3030,Employment Issue,Medium,Yes,7,5,False
+R-3305,M-2863,Vendor Contract,Medium,Yes,7,7,True
+R-3306,M-1994,Vendor Contract,High,No,2,7,True
+R-3307,M-1551,Regulatory Review,Medium,Yes,1,7,True
+R-3308,M-2270,NDA,Medium,Yes,2,3,True
+R-3309,M-3246,Vendor Contract,Medium,Yes,1,7,True
+R-3310,M-1505,Regulatory Review,High,No,10,7,False
+R-3311,M-2448,NDA,Medium,Yes,1,7,True
+R-3312,M-2581,NDA,Medium,Yes,1,5,True
+R-3313,M-2186,Employment Issue,Low,No,10,5,False
+R-3314,M-2193,Vendor Contract,Medium,Yes,3,7,True
+R-3315,M-3044,Vendor Contract,High,Yes,1,3,True
+R-3316,M-3721,Regulatory Review,High,Yes,1,5,True
+R-3317,M-1555,NDA,High,No,10,5,False
+R-3318,M-1020,Vendor Contract,High,No,10,3,False
+R-3319,M-3161,Vendor Contract,High,No,2,5,True
+R-3320,M-2777,Vendor Contract,Low,No,5,5,True
+R-3321,M-3430,Vendor Contract,Medium,No,5,3,False
+R-3322,M-2962,Vendor Contract,Low,Yes,6,5,False
+R-3323,M-3509,Regulatory Review,Medium,No,5,3,False
+R-3324,M-3856,NDA,Medium,No,10,5,False
+R-3325,M-2659,Employment Issue,High,No,2,3,True
+R-3326,M-3775,Employment Issue,Medium,No,10,3,False
+R-3327,M-2352,NDA,Low,Yes,6,3,False
+R-3328,M-2735,Vendor Contract,Low,No,10,3,False
+R-3329,M-2721,Regulatory Review,Low,Yes,1,7,True
+R-3330,M-1130,Vendor Contract,High,No,10,3,False
+R-3331,M-2842,Vendor Contract,Low,Yes,1,3,True
+R-3332,M-1043,Employment Issue,Low,No,5,3,False
+R-3333,M-3894,Employment Issue,Medium,No,2,7,True
+R-3334,M-1203,NDA,High,Yes,1,3,True
+R-3335,M-1733,NDA,High,No,2,3,True
+R-3336,M-1902,Vendor Contract,Low,Yes,1,3,True
+R-3337,M-1798,Vendor Contract,Low,Yes,1,3,True
+R-3338,M-2763,Regulatory Review,Low,No,2,7,True
+R-3339,M-3130,NDA,High,No,5,3,False
+R-3340,M-1727,Employment Issue,Medium,No,5,5,True
+R-3341,M-3238,Employment Issue,Low,No,5,5,True
+R-3342,M-1726,Vendor Contract,Medium,No,5,7,True
+R-3343,M-1169,Employment Issue,High,No,5,7,True
+R-3344,M-2989,Regulatory Review,Low,Yes,3,3,True
+R-3345,M-1819,Vendor Contract,Medium,No,2,5,True
+R-3346,M-1287,Regulatory Review,Low,Yes,6,5,False
+R-3347,M-1446,Regulatory Review,Medium,No,2,5,True
+R-3348,M-3408,Regulatory Review,High,Yes,6,7,True
+R-3349,M-3955,Regulatory Review,Medium,No,2,7,True
+R-3350,M-3032,Regulatory Review,High,Yes,5,5,True
+R-3351,M-3038,Employment Issue,Low,Yes,1,7,True
+R-3352,M-1921,Vendor Contract,Medium,Yes,1,7,True
+R-3353,M-2530,Employment Issue,Low,Yes,3,3,True
+R-3354,M-1518,NDA,High,Yes,7,7,True
+R-3355,M-2611,Regulatory Review,High,Yes,1,7,True
+R-3356,M-1985,NDA,Low,No,2,5,True
+R-3357,M-3367,Employment Issue,High,Yes,1,7,True
+R-3358,M-1906,Vendor Contract,Medium,Yes,1,7,True
+R-3359,M-3992,Vendor Contract,Low,Yes,2,5,True
+R-3360,M-1608,Employment Issue,Low,Yes,1,3,True
+R-3361,M-1736,Regulatory Review,Medium,No,10,3,False
+R-3362,M-1909,Vendor Contract,Low,No,10,5,False
+R-3363,M-1153,NDA,High,Yes,3,5,True
+R-3364,M-3702,Regulatory Review,Medium,Yes,3,7,True
+R-3365,M-3804,Employment Issue,Medium,Yes,1,7,True
+R-3366,M-3179,Employment Issue,Low,No,10,3,False
+R-3367,M-1711,Vendor Contract,Medium,Yes,1,3,True
+R-3368,M-1724,Employment Issue,Medium,No,5,3,False
+R-3369,M-3525,Regulatory Review,Low,Yes,5,7,True
+R-3370,M-1399,Regulatory Review,Medium,No,10,5,False
+R-3371,M-3451,Vendor Contract,Low,Yes,1,7,True
+R-3372,M-2428,Regulatory Review,Medium,No,5,3,False
+R-3373,M-2218,Employment Issue,High,No,10,5,False
+R-3374,M-3938,Vendor Contract,Medium,Yes,5,5,True
+R-3375,M-3227,Regulatory Review,High,Yes,3,7,True
+R-3376,M-3519,Vendor Contract,Medium,Yes,6,7,True
+R-3377,M-1089,Employment Issue,High,Yes,1,5,True
+R-3378,M-2780,Employment Issue,Low,No,2,5,True
+R-3379,M-2256,NDA,Medium,Yes,2,5,True
+R-3380,M-2826,Employment Issue,High,No,5,5,True
+R-3381,M-2564,NDA,Medium,No,2,3,True
+R-3382,M-1463,Employment Issue,High,Yes,1,3,True
+R-3383,M-2477,NDA,Low,No,10,3,False
+R-3384,M-2896,Employment Issue,Low,Yes,7,7,True
+R-3385,M-2848,NDA,Medium,Yes,2,3,True
+R-3386,M-3717,NDA,Low,Yes,5,5,True
+R-3387,M-2157,Regulatory Review,High,No,5,3,False
+R-3388,M-1875,Employment Issue,High,Yes,5,7,True
+R-3389,M-2252,Regulatory Review,High,No,5,3,False
+R-3390,M-1238,NDA,High,Yes,2,5,True
+R-3391,M-2903,NDA,High,Yes,3,5,True
+R-3392,M-2801,NDA,High,No,2,3,True
+R-3393,M-3720,NDA,Medium,No,2,7,True
+R-3394,M-2680,Employment Issue,Low,No,5,3,False
+R-3395,M-1955,Regulatory Review,Medium,Yes,3,7,True
+R-3396,M-1942,Employment Issue,High,No,5,5,True
+R-3397,M-3587,NDA,High,Yes,5,3,False
+R-3398,M-1493,NDA,Low,Yes,1,7,True
+R-3399,M-2049,Vendor Contract,Low,Yes,2,3,True
+R-3400,M-1202,Employment Issue,Medium,No,5,5,True
+R-3401,M-2444,Regulatory Review,Low,No,5,7,True
+R-3402,M-1556,NDA,Low,Yes,1,7,True
+R-3403,M-3368,Vendor Contract,Medium,Yes,1,5,True
+R-3404,M-1892,Vendor Contract,Low,Yes,3,3,True
+R-3405,M-1226,Vendor Contract,Low,No,5,7,True
+R-3406,M-1524,Employment Issue,Medium,No,10,3,False
+R-3407,M-2942,Employment Issue,Medium,Yes,6,5,False
+R-3408,M-3061,Employment Issue,Medium,No,10,5,False
+R-3409,M-3131,Vendor Contract,Medium,Yes,2,5,True
+R-3410,M-1916,Vendor Contract,Medium,No,2,3,True
+R-3411,M-2996,Vendor Contract,Low,No,5,3,False
+R-3412,M-1346,NDA,Medium,No,5,7,True
+R-3413,M-2406,NDA,Medium,Yes,3,5,True
+R-3414,M-1588,Regulatory Review,High,No,10,7,False
+R-3415,M-3154,NDA,Medium,Yes,1,7,True
+R-3416,M-3650,NDA,High,Yes,3,7,True
+R-3417,M-1258,Employment Issue,High,Yes,7,3,False
+R-3418,M-1880,Regulatory Review,High,Yes,3,5,True
+R-3419,M-1810,Regulatory Review,Medium,Yes,1,7,True
+R-3420,M-3020,NDA,Low,Yes,7,5,False
+R-3421,M-3426,Vendor Contract,High,No,10,5,False
+R-3422,M-3334,Vendor Contract,Medium,No,5,5,True
+R-3423,M-2125,Employment Issue,Low,No,2,5,True
+R-3424,M-1402,Vendor Contract,Low,Yes,5,3,False
+R-3425,M-2105,Regulatory Review,High,No,2,5,True
+R-3426,M-1495,Vendor Contract,Medium,Yes,3,5,True
+R-3427,M-2747,Regulatory Review,Low,No,5,7,True
+R-3428,M-3716,NDA,High,No,10,7,False
+R-3429,M-2428,Regulatory Review,Medium,Yes,1,7,True
+R-3430,M-1476,NDA,Medium,Yes,3,3,True
+R-3431,M-1622,Employment Issue,High,Yes,2,3,True
+R-3432,M-3283,Employment Issue,High,No,2,7,True
+R-3433,M-1211,Regulatory Review,Low,Yes,7,3,False
+R-3434,M-1443,Employment Issue,High,Yes,2,3,True
+R-3435,M-2419,Regulatory Review,Medium,No,5,7,True
+R-3436,M-1752,Vendor Contract,Low,Yes,1,5,True
+R-3437,M-2909,Employment Issue,High,No,5,5,True
+R-3438,M-3055,Regulatory Review,Medium,No,2,7,True
+R-3439,M-1051,Vendor Contract,High,Yes,1,5,True
+R-3440,M-3284,Employment Issue,Medium,No,10,5,False
+R-3441,M-2291,Vendor Contract,High,No,5,7,True
+R-3442,M-3618,NDA,Medium,No,5,3,False
+R-3443,M-3225,NDA,Low,No,2,7,True
+R-3444,M-2861,Regulatory Review,High,No,2,5,True
+R-3445,M-3858,NDA,High,Yes,7,3,False
+R-3446,M-1680,NDA,Medium,No,5,5,True
+R-3447,M-3644,Employment Issue,Low,Yes,6,5,False
+R-3448,M-1077,NDA,High,No,10,3,False
+R-3449,M-2590,NDA,High,No,5,7,True
+R-3450,M-1720,Vendor Contract,Medium,No,10,3,False
+R-3451,M-3195,Employment Issue,Medium,No,5,5,True
+R-3452,M-1099,Vendor Contract,Medium,Yes,6,3,False
+R-3453,M-3774,Vendor Contract,Low,No,5,5,True
+R-3454,M-2473,Regulatory Review,High,Yes,7,3,False
+R-3455,M-2402,Vendor Contract,Medium,Yes,2,5,True
+R-3456,M-2674,Vendor Contract,High,Yes,3,3,True
+R-3457,M-1340,Vendor Contract,High,No,10,3,False
+R-3458,M-2669,NDA,High,Yes,3,7,True
+R-3459,M-2047,NDA,Medium,No,10,7,False
+R-3460,M-2985,Regulatory Review,High,Yes,3,7,True
+R-3461,M-1449,NDA,Medium,Yes,2,3,True
+R-3462,M-1672,Vendor Contract,Low,Yes,7,3,False
+R-3463,M-2416,Regulatory Review,Medium,Yes,1,7,True
+R-3464,M-1917,Vendor Contract,Medium,No,2,3,True
+R-3465,M-3536,Employment Issue,High,No,2,5,True
+R-3466,M-3442,NDA,Low,No,10,5,False
+R-3467,M-2435,NDA,Low,Yes,1,5,True
+R-3468,M-1781,Regulatory Review,Low,No,2,5,True
+R-3469,M-1094,NDA,High,Yes,1,7,True
+R-3470,M-3829,NDA,Low,No,10,7,False
+R-3471,M-1009,Vendor Contract,High,No,5,5,True
+R-3472,M-3451,NDA,Low,No,2,3,True
+R-3473,M-2414,Regulatory Review,High,No,10,3,False
+R-3474,M-1043,Employment Issue,High,No,2,7,True
+R-3475,M-3272,NDA,Medium,Yes,5,7,True
+R-3476,M-2138,Vendor Contract,Low,Yes,5,3,False
+R-3477,M-1919,NDA,Low,Yes,1,3,True
+R-3478,M-3656,Employment Issue,Low,No,5,5,True
+R-3479,M-2233,Regulatory Review,High,No,5,5,True
+R-3480,M-1057,Regulatory Review,High,Yes,6,7,True
+R-3481,M-2800,Vendor Contract,High,No,10,3,False
+R-3482,M-3404,Vendor Contract,High,Yes,1,7,True
+R-3483,M-3742,Employment Issue,High,No,2,5,True
+R-3484,M-3340,NDA,Medium,No,5,3,False
+R-3485,M-2638,Employment Issue,High,No,2,3,True
+R-3486,M-1293,Employment Issue,Medium,No,2,3,True
+R-3487,M-3365,Employment Issue,Low,No,5,3,False
+R-3488,M-1151,Regulatory Review,Low,Yes,1,7,True
+R-3489,M-3077,Regulatory Review,Low,No,5,7,True
+R-3490,M-2892,Employment Issue,High,Yes,1,3,True
+R-3491,M-2792,Vendor Contract,Low,No,10,3,False
+R-3492,M-2216,Regulatory Review,High,No,5,7,True
+R-3493,M-3499,Employment Issue,Low,No,2,7,True
+R-3494,M-1033,Employment Issue,Medium,Yes,1,5,True
+R-3495,M-2409,NDA,Medium,No,5,7,True
+R-3496,M-1808,NDA,High,No,5,3,False
+R-3497,M-2151,NDA,Low,Yes,5,5,True
+R-3498,M-1172,NDA,High,No,5,7,True
+R-3499,M-1198,NDA,High,No,5,5,True
+R-3500,M-3501,Employment Issue,High,No,10,3,False
+R-3501,M-1475,Regulatory Review,Medium,Yes,1,3,True
+R-3502,M-3077,Vendor Contract,High,No,2,5,True
+R-3503,M-2717,Employment Issue,Medium,No,2,5,True
+R-3504,M-1521,Employment Issue,Low,No,10,7,False
+R-3505,M-3902,NDA,Medium,Yes,3,7,True
+R-3506,M-3926,NDA,High,No,5,3,False
+R-3507,M-3575,NDA,Medium,No,2,7,True
+R-3508,M-1603,Regulatory Review,Low,No,2,3,True
+R-3509,M-2225,NDA,Low,Yes,6,7,True
+R-3510,M-1295,NDA,Medium,Yes,5,5,True
+R-3511,M-1814,Regulatory Review,Medium,Yes,7,7,True
+R-3512,M-2102,Vendor Contract,Low,Yes,1,5,True
+R-3513,M-3216,Employment Issue,Low,No,5,7,True
+R-3514,M-3435,Vendor Contract,Low,Yes,1,7,True
+R-3515,M-2315,NDA,Medium,No,5,3,False
+R-3516,M-2580,NDA,Medium,No,2,3,True
+R-3517,M-3865,Regulatory Review,Low,Yes,7,7,True
+R-3518,M-3194,Employment Issue,Low,Yes,2,7,True
+R-3519,M-3650,NDA,High,No,10,5,False
+R-3520,M-2866,Employment Issue,Medium,Yes,7,5,False
+R-3521,M-2240,NDA,Low,No,10,3,False
+R-3522,M-1061,Regulatory Review,Medium,Yes,1,3,True
+R-3523,M-3624,NDA,High,Yes,7,3,False
+R-3524,M-1363,Regulatory Review,Medium,No,5,3,False
+R-3525,M-1560,NDA,High,No,5,7,True
+R-3526,M-3809,NDA,Medium,Yes,3,7,True
+R-3527,M-2047,Employment Issue,Low,No,10,7,False
+R-3528,M-2360,Regulatory Review,Low,Yes,1,3,True
+R-3529,M-1756,Employment Issue,Medium,Yes,7,5,False
+R-3530,M-2310,Employment Issue,Medium,No,2,3,True
+R-3531,M-1399,NDA,Medium,Yes,2,5,True
+R-3532,M-3346,Regulatory Review,Low,Yes,7,7,True
+R-3533,M-1163,Employment Issue,Medium,Yes,7,5,False
+R-3534,M-2013,NDA,High,No,10,7,False
+R-3535,M-3051,Vendor Contract,High,Yes,7,5,False
+R-3536,M-3947,NDA,Low,No,2,7,True
+R-3537,M-1461,NDA,Low,Yes,5,3,False
+R-3538,M-2461,Employment Issue,Low,Yes,1,7,True
+R-3539,M-1356,Employment Issue,Medium,Yes,5,3,False
+R-3540,M-3164,Regulatory Review,Medium,No,10,3,False
+R-3541,M-1661,Regulatory Review,High,Yes,3,3,True
+R-3542,M-2679,Vendor Contract,High,No,10,5,False
+R-3543,M-2778,Regulatory Review,High,Yes,3,7,True
+R-3544,M-1030,Employment Issue,Low,Yes,7,7,True
+R-3545,M-1910,Regulatory Review,Medium,No,10,3,False
+R-3546,M-3930,Vendor Contract,High,Yes,6,3,False
+R-3547,M-1695,NDA,Medium,Yes,3,5,True
+R-3548,M-2123,Employment Issue,Medium,Yes,1,5,True
+R-3549,M-2426,Employment Issue,Medium,Yes,6,7,True
+R-3550,M-1074,Regulatory Review,High,No,5,7,True
+R-3551,M-3922,NDA,Low,Yes,1,5,True
+R-3552,M-2906,NDA,High,Yes,1,5,True
+R-3553,M-1714,Regulatory Review,High,Yes,2,3,True
+R-3554,M-3820,Employment Issue,Low,No,2,5,True
+R-3555,M-3634,Regulatory Review,High,No,10,3,False
+R-3556,M-3244,NDA,Low,No,10,7,False
+R-3557,M-2028,Vendor Contract,Medium,No,5,3,False
+R-3558,M-1730,NDA,Low,Yes,2,7,True
+R-3559,M-1784,Employment Issue,Medium,No,2,3,True
+R-3560,M-1977,NDA,High,No,10,3,False
+R-3561,M-3880,Regulatory Review,Medium,No,10,3,False
+R-3562,M-3934,NDA,Low,Yes,6,3,False
+R-3563,M-1560,Regulatory Review,Low,Yes,7,3,False
+R-3564,M-1198,Employment Issue,Medium,No,10,7,False
+R-3565,M-3442,NDA,Medium,No,10,5,False
+R-3566,M-3936,NDA,High,No,10,3,False
+R-3567,M-1503,Regulatory Review,Low,No,2,5,True
+R-3568,M-3488,Employment Issue,Low,Yes,1,3,True
+R-3569,M-3013,NDA,Medium,No,10,3,False
+R-3570,M-2546,Vendor Contract,Low,No,10,3,False
+R-3571,M-2563,NDA,Low,No,2,3,True
+R-3572,M-1339,Vendor Contract,Low,No,5,3,False
+R-3573,M-2108,Employment Issue,Medium,No,2,5,True
+R-3574,M-2201,Employment Issue,Low,No,2,3,True
+R-3575,M-2573,NDA,Medium,Yes,1,3,True
+R-3576,M-1799,Regulatory Review,High,No,2,5,True
+R-3577,M-3089,Regulatory Review,High,No,2,5,True
+R-3578,M-1614,Regulatory Review,Low,No,5,3,False
+R-3579,M-3545,NDA,Low,No,10,5,False
+R-3580,M-2883,Vendor Contract,Medium,Yes,2,3,True
+R-3581,M-1718,Employment Issue,Low,No,2,5,True
+R-3582,M-3937,Vendor Contract,Medium,No,5,5,True
+R-3583,M-3107,Vendor Contract,Medium,No,10,5,False
+R-3584,M-3254,Regulatory Review,Medium,Yes,1,3,True
+R-3585,M-1685,NDA,Low,Yes,3,7,True
+R-3586,M-1314,NDA,High,Yes,1,5,True
+R-3587,M-1662,Vendor Contract,Low,Yes,1,7,True
+R-3588,M-2960,NDA,Medium,Yes,1,5,True
+R-3589,M-1599,Vendor Contract,Medium,No,5,3,False
+R-3590,M-3943,Employment Issue,Low,Yes,1,5,True
+R-3591,M-1106,Vendor Contract,Medium,Yes,2,3,True
+R-3592,M-3278,NDA,Low,Yes,3,3,True
+R-3593,M-3646,NDA,Medium,No,10,7,False
+R-3594,M-3083,Regulatory Review,Low,Yes,6,7,True
+R-3595,M-1526,Regulatory Review,Low,No,5,3,False
+R-3596,M-1691,Vendor Contract,High,Yes,7,7,True
+R-3597,M-1818,Employment Issue,Medium,No,5,7,True
+R-3598,M-2907,Regulatory Review,Low,Yes,1,3,True
+R-3599,M-1490,Vendor Contract,Low,No,2,7,True
+R-3600,M-3374,Employment Issue,Medium,Yes,6,7,True
+R-3601,M-3819,NDA,High,Yes,5,3,False
+R-3602,M-2647,Regulatory Review,High,No,10,3,False
+R-3603,M-3055,Regulatory Review,Medium,No,2,7,True
+R-3604,M-3972,Vendor Contract,High,No,2,3,True
+R-3605,M-2168,Regulatory Review,Medium,No,5,7,True
+R-3606,M-2614,Regulatory Review,Low,No,10,5,False
+R-3607,M-3338,Vendor Contract,Low,No,10,5,False
+R-3608,M-3508,Regulatory Review,High,No,10,7,False
+R-3609,M-3086,Vendor Contract,Medium,No,10,3,False
+R-3610,M-1275,NDA,High,Yes,7,7,True
+R-3611,M-1980,Employment Issue,Medium,No,2,5,True
+R-3612,M-2934,Employment Issue,Medium,No,2,7,True
+R-3613,M-2035,NDA,High,No,10,7,False
+R-3614,M-1934,Regulatory Review,High,No,2,5,True
+R-3615,M-2471,Vendor Contract,High,Yes,1,7,True
+R-3616,M-2656,Regulatory Review,Low,No,10,5,False
+R-3617,M-2488,Vendor Contract,High,Yes,3,7,True
+R-3618,M-1941,Vendor Contract,Medium,No,10,5,False
+R-3619,M-3085,NDA,Medium,No,2,7,True
+R-3620,M-1857,Employment Issue,High,Yes,3,7,True
+R-3621,M-2256,NDA,Medium,No,2,3,True
+R-3622,M-2344,NDA,Medium,No,10,3,False
+R-3623,M-2186,Vendor Contract,Low,No,2,7,True
+R-3624,M-1837,NDA,Low,Yes,3,5,True
+R-3625,M-1250,NDA,Medium,No,10,3,False
+R-3626,M-3871,Vendor Contract,Low,Yes,1,7,True
+R-3627,M-1124,Regulatory Review,Low,No,10,5,False
+R-3628,M-1703,Employment Issue,High,Yes,6,7,True
+R-3629,M-3766,Vendor Contract,High,Yes,3,5,True
+R-3630,M-1745,NDA,Low,No,5,5,True
+R-3631,M-1948,Regulatory Review,Low,No,2,3,True
+R-3632,M-2493,Vendor Contract,Medium,No,10,3,False
+R-3633,M-1080,Regulatory Review,High,Yes,2,5,True
+R-3634,M-3122,Regulatory Review,High,No,10,3,False
+R-3635,M-1428,Employment Issue,Low,No,2,5,True
+R-3636,M-2254,NDA,Medium,No,5,5,True
+R-3637,M-2673,Employment Issue,High,Yes,3,3,True
+R-3638,M-1926,NDA,Low,Yes,5,3,False
+R-3639,M-2280,Regulatory Review,Medium,No,2,5,True
+R-3640,M-1287,NDA,Low,Yes,2,5,True
+R-3641,M-1519,Vendor Contract,High,No,2,5,True
+R-3642,M-2241,Vendor Contract,High,No,2,7,True
+R-3643,M-3510,NDA,Low,Yes,2,3,True
+R-3644,M-2474,Regulatory Review,Medium,No,2,7,True
+R-3645,M-3154,Employment Issue,Medium,Yes,3,3,True
+R-3646,M-1289,Employment Issue,High,No,10,7,False
+R-3647,M-3149,Vendor Contract,Medium,No,10,3,False
+R-3648,M-1250,Regulatory Review,Low,Yes,1,3,True
+R-3649,M-3960,Employment Issue,Low,Yes,1,3,True
+R-3650,M-3189,NDA,High,No,2,7,True
+R-3651,M-1806,Employment Issue,Low,No,2,5,True
+R-3652,M-1036,Vendor Contract,High,Yes,6,7,True
+R-3653,M-3476,Vendor Contract,Medium,No,10,3,False
+R-3654,M-3504,Employment Issue,Low,Yes,1,3,True
+R-3655,M-1185,Regulatory Review,High,Yes,2,3,True
+R-3656,M-2288,Employment Issue,High,Yes,2,5,True
+R-3657,M-1966,Regulatory Review,Low,Yes,3,3,True
+R-3658,M-2534,Vendor Contract,Low,Yes,2,5,True
+R-3659,M-3097,Regulatory Review,Medium,No,5,5,True
+R-3660,M-3197,Vendor Contract,Medium,Yes,7,3,False
+R-3661,M-3749,NDA,High,Yes,7,5,False
+R-3662,M-1848,Employment Issue,Medium,Yes,6,5,False
+R-3663,M-1588,NDA,Low,No,2,7,True
+R-3664,M-3125,Regulatory Review,High,Yes,2,7,True
+R-3665,M-2121,Employment Issue,Low,No,10,3,False
+R-3666,M-3295,Regulatory Review,Medium,No,2,5,True
+R-3667,M-3811,Vendor Contract,Medium,Yes,5,3,False
+R-3668,M-2052,Vendor Contract,Medium,Yes,2,7,True
+R-3669,M-1302,Regulatory Review,Low,No,10,7,False
+R-3670,M-3755,NDA,Low,Yes,1,3,True
+R-3671,M-1746,Vendor Contract,Low,Yes,3,5,True
+R-3672,M-3612,NDA,Low,Yes,2,5,True
+R-3673,M-1028,Employment Issue,Medium,Yes,1,5,True
+R-3674,M-2504,Regulatory Review,Low,Yes,1,7,True
+R-3675,M-2079,Regulatory Review,High,No,5,5,True
+R-3676,M-1676,NDA,Medium,Yes,1,3,True
+R-3677,M-3197,Vendor Contract,Medium,Yes,1,5,True
+R-3678,M-2783,Employment Issue,Medium,No,5,7,True
+R-3679,M-3032,Regulatory Review,High,No,5,3,False
+R-3680,M-3217,Regulatory Review,High,Yes,6,3,False
+R-3681,M-3389,Employment Issue,High,Yes,3,7,True
+R-3682,M-1843,Vendor Contract,Low,No,10,3,False
+R-3683,M-2247,Vendor Contract,Low,No,5,3,False
+R-3684,M-3338,Employment Issue,Medium,No,5,5,True
+R-3685,M-3914,Employment Issue,High,No,5,7,True
+R-3686,M-1993,NDA,Medium,Yes,2,3,True
+R-3687,M-3822,Regulatory Review,High,Yes,3,3,True
+R-3688,M-1223,Regulatory Review,High,Yes,1,3,True
+R-3689,M-2413,Employment Issue,High,No,10,3,False
+R-3690,M-3805,Employment Issue,Medium,No,2,7,True
+R-3691,M-1965,Regulatory Review,High,Yes,3,3,True
+R-3692,M-1446,Vendor Contract,Low,No,2,7,True
+R-3693,M-2713,NDA,Medium,No,5,7,True
+R-3694,M-1710,Vendor Contract,Medium,No,10,5,False
+R-3695,M-3172,Employment Issue,Medium,No,5,7,True
+R-3696,M-1616,Employment Issue,Medium,No,5,5,True
+R-3697,M-2798,NDA,Medium,Yes,2,5,True
+R-3698,M-3782,NDA,High,Yes,2,7,True
+R-3699,M-1814,Employment Issue,High,Yes,6,7,True
+R-3700,M-3818,NDA,High,Yes,3,7,True
+R-3701,M-1770,NDA,Low,No,2,5,True
+R-3702,M-2629,Employment Issue,Low,No,5,3,False
+R-3703,M-2341,NDA,Medium,No,5,3,False
+R-3704,M-3490,Vendor Contract,Medium,Yes,7,7,True
+R-3705,M-2466,Vendor Contract,Low,No,10,5,False
+R-3706,M-1673,Regulatory Review,Low,No,10,5,False
+R-3707,M-2331,Regulatory Review,Medium,No,5,3,False
+R-3708,M-1484,NDA,Low,Yes,1,5,True
+R-3709,M-1042,Vendor Contract,Medium,Yes,1,7,True
+R-3710,M-3464,Regulatory Review,High,No,10,7,False
+R-3711,M-3179,Employment Issue,Low,Yes,3,3,True
+R-3712,M-1207,Regulatory Review,Low,Yes,3,5,True
+R-3713,M-2841,Employment Issue,Medium,No,2,3,True
+R-3714,M-1045,Employment Issue,Low,Yes,5,7,True
+R-3715,M-2319,Vendor Contract,Low,No,5,7,True
+R-3716,M-1967,Regulatory Review,Medium,Yes,6,7,True
+R-3717,M-2394,Employment Issue,Low,No,10,5,False
+R-3718,M-3972,NDA,High,No,10,5,False
+R-3719,M-1133,Vendor Contract,High,No,10,3,False
+R-3720,M-1390,Employment Issue,Medium,No,10,7,False
+R-3721,M-1322,Regulatory Review,Medium,No,10,3,False
+R-3722,M-1151,Employment Issue,Medium,No,10,5,False
+R-3723,M-2093,NDA,Medium,Yes,1,7,True
+R-3724,M-1998,Vendor Contract,Low,No,5,7,True
+R-3725,M-3051,Vendor Contract,Low,No,5,3,False
+R-3726,M-2695,Vendor Contract,Low,No,2,5,True
+R-3727,M-3643,Employment Issue,High,No,5,7,True
+R-3728,M-3516,Employment Issue,Medium,No,2,5,True
+R-3729,M-2268,NDA,High,No,5,3,False
+R-3730,M-3679,Vendor Contract,Low,No,2,7,True
+R-3731,M-1693,Employment Issue,High,No,10,5,False
+R-3732,M-3134,Employment Issue,Low,Yes,1,5,True
+R-3733,M-2843,Vendor Contract,Low,No,2,5,True
+R-3734,M-3258,Regulatory Review,High,Yes,1,7,True
+R-3735,M-3307,Vendor Contract,Low,No,10,5,False
+R-3736,M-2256,Employment Issue,High,No,2,7,True
+R-3737,M-2448,Vendor Contract,High,No,2,3,True
+R-3738,M-2424,Regulatory Review,Low,No,10,7,False
+R-3739,M-1801,NDA,Low,Yes,1,7,True
+R-3740,M-1195,Employment Issue,Low,No,2,7,True
+R-3741,M-2378,NDA,High,No,5,7,True
+R-3742,M-2298,Regulatory Review,Medium,No,10,7,False
+R-3743,M-2092,NDA,Low,No,5,5,True
+R-3744,M-3599,Regulatory Review,Low,No,5,7,True
+R-3745,M-3676,Regulatory Review,Low,Yes,7,7,True
+R-3746,M-3898,NDA,Medium,Yes,6,7,True
+R-3747,M-1513,Employment Issue,Low,No,5,5,True
+R-3748,M-3793,Vendor Contract,Medium,Yes,1,3,True
+R-3749,M-1428,Vendor Contract,Medium,No,10,7,False
+R-3750,M-3199,Regulatory Review,Low,Yes,1,5,True
+R-3751,M-2900,Employment Issue,Medium,No,2,3,True
+R-3752,M-3256,Vendor Contract,High,Yes,7,3,False
+R-3753,M-1897,Regulatory Review,Medium,No,10,3,False
+R-3754,M-1226,NDA,Medium,No,10,3,False
+R-3755,M-3915,Vendor Contract,High,Yes,2,3,True
+R-3756,M-2331,NDA,Medium,Yes,1,7,True
+R-3757,M-3944,Vendor Contract,Low,No,10,5,False
+R-3758,M-3982,Vendor Contract,High,Yes,1,3,True
+R-3759,M-2012,Vendor Contract,Medium,No,5,3,False
+R-3760,M-1263,Employment Issue,Low,Yes,5,3,False
+R-3761,M-2111,NDA,Low,Yes,7,5,False
+R-3762,M-3880,Vendor Contract,High,No,10,7,False
+R-3763,M-3879,Vendor Contract,Medium,Yes,7,5,False
+R-3764,M-2926,NDA,High,No,5,3,False
+R-3765,M-2357,Employment Issue,Low,Yes,6,5,False
+R-3766,M-1726,Vendor Contract,Medium,No,5,3,False
+R-3767,M-2216,Employment Issue,Medium,Yes,6,7,True
+R-3768,M-2512,Employment Issue,Low,Yes,7,5,False
+R-3769,M-1414,Regulatory Review,Low,Yes,5,5,True
+R-3770,M-2750,Vendor Contract,Medium,Yes,3,7,True
+R-3771,M-3004,Regulatory Review,High,Yes,3,3,True
+R-3772,M-2884,Vendor Contract,Medium,Yes,3,7,True
+R-3773,M-2006,Employment Issue,High,Yes,1,5,True
+R-3774,M-3164,Vendor Contract,Medium,Yes,2,5,True
+R-3775,M-2646,Regulatory Review,High,No,5,7,True
+R-3776,M-2203,Vendor Contract,High,No,5,7,True
+R-3777,M-2651,Employment Issue,Low,Yes,2,5,True
+R-3778,M-3542,Regulatory Review,Medium,Yes,6,5,False
+R-3779,M-3368,Vendor Contract,Low,Yes,5,7,True
+R-3780,M-1633,Employment Issue,Medium,No,2,7,True
+R-3781,M-3348,Vendor Contract,Low,No,2,3,True
+R-3782,M-2522,Vendor Contract,Low,Yes,2,5,True
+R-3783,M-1365,NDA,Medium,Yes,2,3,True
+R-3784,M-2655,Vendor Contract,Medium,Yes,1,5,True
+R-3785,M-3580,Vendor Contract,Low,No,2,5,True
+R-3786,M-1693,Employment Issue,Medium,No,2,7,True
+R-3787,M-1172,Vendor Contract,High,Yes,7,7,True
+R-3788,M-3098,Vendor Contract,Low,Yes,1,7,True
+R-3789,M-2971,Vendor Contract,Medium,Yes,5,3,False
+R-3790,M-1758,Vendor Contract,Low,No,10,5,False
+R-3791,M-2888,Employment Issue,Medium,No,5,7,True
+R-3792,M-3109,NDA,Medium,No,10,7,False
+R-3793,M-2951,Vendor Contract,Low,No,2,3,True
+R-3794,M-3360,Employment Issue,Low,Yes,3,3,True
+R-3795,M-2114,NDA,Medium,No,10,3,False
+R-3796,M-2942,NDA,Low,Yes,3,5,True
+R-3797,M-2704,Regulatory Review,Low,Yes,2,3,True
+R-3798,M-3787,Employment Issue,High,Yes,1,5,True
+R-3799,M-3428,Regulatory Review,High,No,5,3,False
+R-3800,M-2768,Employment Issue,High,Yes,7,7,True
+R-3801,M-3544,Regulatory Review,High,No,2,5,True
+R-3802,M-2293,Vendor Contract,Low,No,5,5,True
+R-3803,M-3649,Vendor Contract,High,Yes,2,5,True
+R-3804,M-3482,NDA,Medium,No,2,7,True
+R-3805,M-2549,Vendor Contract,High,Yes,2,7,True
+R-3806,M-3576,Vendor Contract,High,Yes,3,3,True
+R-3807,M-3038,Employment Issue,Medium,No,10,5,False
+R-3808,M-2308,Vendor Contract,Medium,No,10,3,False
+R-3809,M-2240,Regulatory Review,High,Yes,2,3,True
+R-3810,M-3706,Employment Issue,Medium,Yes,2,5,True
+R-3811,M-1007,NDA,High,No,5,7,True
+R-3812,M-1502,Vendor Contract,Low,Yes,1,5,True
+R-3813,M-2723,NDA,Low,Yes,1,5,True
+R-3814,M-3518,Vendor Contract,Low,No,10,3,False
+R-3815,M-2413,Employment Issue,Low,No,5,7,True
+R-3816,M-1332,Regulatory Review,Medium,Yes,2,3,True
+R-3817,M-2407,Employment Issue,Medium,No,5,5,True
+R-3818,M-3017,Vendor Contract,High,No,10,3,False
+R-3819,M-3393,Employment Issue,Medium,Yes,3,3,True
+R-3820,M-3145,Regulatory Review,Medium,No,5,7,True
+R-3821,M-2829,Regulatory Review,Medium,No,10,7,False
+R-3822,M-3581,Employment Issue,High,No,5,5,True
+R-3823,M-2737,Vendor Contract,Medium,Yes,5,5,True
+R-3824,M-1746,Vendor Contract,High,No,2,5,True
+R-3825,M-2347,Regulatory Review,Medium,Yes,1,7,True
+R-3826,M-1108,Regulatory Review,Medium,Yes,1,7,True
+R-3827,M-2230,Regulatory Review,High,Yes,1,3,True
+R-3828,M-2469,Regulatory Review,High,Yes,1,3,True
+R-3829,M-3522,Employment Issue,High,No,2,3,True
+R-3830,M-2647,NDA,Low,Yes,1,7,True
+R-3831,M-3605,Vendor Contract,Low,No,2,5,True
+R-3832,M-2890,Employment Issue,Medium,Yes,6,7,True
+R-3833,M-1220,NDA,Low,No,2,5,True
+R-3834,M-1277,Vendor Contract,Medium,Yes,1,3,True
+R-3835,M-2483,NDA,Low,No,10,5,False
+R-3836,M-1593,Vendor Contract,Low,Yes,3,7,True
+R-3837,M-1387,Regulatory Review,Medium,Yes,3,5,True
+R-3838,M-2060,Vendor Contract,Low,No,2,5,True
+R-3839,M-1059,Regulatory Review,High,No,10,5,False
+R-3840,M-1047,Vendor Contract,Medium,Yes,3,5,True
+R-3841,M-1884,Regulatory Review,High,No,10,5,False
+R-3842,M-2794,Employment Issue,High,Yes,6,5,False
+R-3843,M-3129,Vendor Contract,Low,No,5,3,False
+R-3844,M-1964,Regulatory Review,Low,Yes,2,3,True
+R-3845,M-3376,NDA,Low,No,10,3,False
+R-3846,M-1110,NDA,Medium,No,5,5,True
+R-3847,M-1480,Employment Issue,Low,Yes,1,5,True
+R-3848,M-3607,Regulatory Review,Medium,No,2,7,True
+R-3849,M-3988,Employment Issue,Low,No,2,3,True
+R-3850,M-2387,Vendor Contract,High,Yes,1,3,True
+R-3851,M-3816,Vendor Contract,Medium,No,2,7,True
+R-3852,M-3311,NDA,Medium,No,5,7,True
+R-3853,M-2095,NDA,Medium,Yes,1,3,True
+R-3854,M-1459,Regulatory Review,Low,No,2,5,True
+R-3855,M-1851,Employment Issue,Medium,Yes,1,3,True
+R-3856,M-2732,Vendor Contract,Medium,Yes,3,3,True
+R-3857,M-2612,Employment Issue,Low,No,2,5,True
+R-3858,M-2139,Regulatory Review,Low,No,2,5,True
+R-3859,M-3680,Regulatory Review,Medium,No,5,7,True
+R-3860,M-1115,Regulatory Review,High,Yes,3,7,True
+R-3861,M-1421,Vendor Contract,Medium,Yes,1,7,True
+R-3862,M-1094,Vendor Contract,Low,Yes,7,3,False
+R-3863,M-2092,Regulatory Review,High,No,2,3,True
+R-3864,M-3105,Regulatory Review,Medium,No,10,7,False
+R-3865,M-1204,NDA,High,No,10,5,False
+R-3866,M-2469,Regulatory Review,Medium,No,5,7,True
+R-3867,M-3575,NDA,Medium,Yes,6,7,True
+R-3868,M-3105,NDA,High,Yes,7,5,False
+R-3869,M-1075,NDA,High,Yes,6,3,False
+R-3870,M-1841,Regulatory Review,High,Yes,3,7,True
+R-3871,M-3003,NDA,High,No,5,5,True
+R-3872,M-3524,Regulatory Review,Low,Yes,7,3,False
+R-3873,M-3947,Regulatory Review,High,Yes,5,3,False
+R-3874,M-1006,Regulatory Review,Low,No,2,3,True
+R-3875,M-2691,NDA,Low,Yes,7,3,False
+R-3876,M-2288,Employment Issue,High,Yes,7,7,True
+R-3877,M-2418,Employment Issue,Low,Yes,1,5,True
+R-3878,M-3809,Employment Issue,High,Yes,1,7,True
+R-3879,M-3007,Employment Issue,Medium,Yes,3,7,True
+R-3880,M-3300,NDA,Low,No,5,5,True
+R-3881,M-1039,Employment Issue,Medium,No,2,3,True
+R-3882,M-1113,Regulatory Review,Medium,No,2,7,True
+R-3883,M-2062,Regulatory Review,Medium,Yes,3,5,True
+R-3884,M-1883,NDA,Medium,No,2,3,True
+R-3885,M-1084,Regulatory Review,Low,No,5,3,False
+R-3886,M-1239,NDA,Low,Yes,2,5,True
+R-3887,M-1720,Vendor Contract,Low,Yes,3,7,True
+R-3888,M-1865,Employment Issue,High,No,10,3,False
+R-3889,M-3532,Vendor Contract,High,No,10,5,False
+R-3890,M-3294,NDA,High,Yes,1,7,True
+R-3891,M-1311,Regulatory Review,Medium,Yes,3,3,True
+R-3892,M-2391,Regulatory Review,High,Yes,3,5,True
+R-3893,M-1995,NDA,High,No,10,5,False
+R-3894,M-1891,Employment Issue,Low,Yes,5,3,False
+R-3895,M-1071,Vendor Contract,Low,Yes,6,5,False
+R-3896,M-1906,Regulatory Review,High,No,2,3,True
+R-3897,M-3427,NDA,High,Yes,1,5,True
+R-3898,M-2017,Regulatory Review,Low,Yes,2,3,True
+R-3899,M-1067,Regulatory Review,High,Yes,7,7,True
+R-3900,M-3959,Employment Issue,Medium,Yes,3,5,True
+R-3901,M-3906,Employment Issue,Medium,Yes,3,7,True
+R-3902,M-2897,Regulatory Review,High,Yes,5,3,False
+R-3903,M-1844,Regulatory Review,Low,Yes,1,7,True
+R-3904,M-3061,NDA,Medium,Yes,1,3,True
+R-3905,M-2969,Regulatory Review,High,No,5,7,True
+R-3906,M-1615,Employment Issue,Low,No,5,3,False
+R-3907,M-1340,Vendor Contract,High,No,2,3,True
+R-3908,M-2632,Vendor Contract,Medium,No,5,5,True
+R-3909,M-3909,NDA,Low,No,2,3,True
+R-3910,M-1306,Employment Issue,Low,Yes,3,5,True
+R-3911,M-2075,NDA,Low,Yes,2,5,True
+R-3912,M-1753,Employment Issue,Low,Yes,7,5,False
+R-3913,M-1306,Vendor Contract,Medium,Yes,7,7,True
+R-3914,M-1898,Employment Issue,Low,Yes,1,3,True
+R-3915,M-2170,NDA,Medium,No,2,7,True
+R-3916,M-1350,Employment Issue,High,Yes,7,3,False
+R-3917,M-2656,Employment Issue,High,No,10,5,False
+R-3918,M-2776,Regulatory Review,High,Yes,6,3,False
+R-3919,M-3846,Vendor Contract,Medium,No,2,3,True
+R-3920,M-3925,Vendor Contract,High,No,2,5,True
+R-3921,M-1376,Regulatory Review,Medium,No,10,5,False
+R-3922,M-2001,Regulatory Review,High,No,5,5,True
+R-3923,M-2550,Employment Issue,Medium,Yes,1,3,True
+R-3924,M-1269,Employment Issue,Low,No,5,3,False
+R-3925,M-3278,Employment Issue,Low,Yes,2,7,True
+R-3926,M-1290,Vendor Contract,Medium,No,2,7,True
+R-3927,M-3599,Employment Issue,High,No,2,5,True
+R-3928,M-3420,NDA,Low,No,5,3,False
+R-3929,M-2316,Regulatory Review,Medium,Yes,1,3,True
+R-3930,M-2428,Regulatory Review,Low,No,5,7,True
+R-3931,M-1855,Employment Issue,Medium,Yes,1,3,True
+R-3932,M-1854,NDA,Medium,Yes,3,3,True
+R-3933,M-2930,Employment Issue,High,No,10,5,False
+R-3934,M-1300,NDA,High,No,10,7,False
+R-3935,M-3913,Regulatory Review,Low,No,10,7,False
+R-3936,M-2463,Regulatory Review,Medium,No,5,5,True
+R-3937,M-2711,Regulatory Review,Low,No,5,7,True
+R-3938,M-1628,Regulatory Review,Low,No,2,3,True
+R-3939,M-1838,Employment Issue,Low,Yes,5,3,False
+R-3940,M-1848,Vendor Contract,Low,Yes,1,7,True
+R-3941,M-2692,Vendor Contract,Medium,No,2,5,True
+R-3942,M-2577,NDA,Low,No,10,5,False
+R-3943,M-3865,NDA,High,Yes,5,7,True
+R-3944,M-3681,Regulatory Review,Medium,No,2,7,True
+R-3945,M-1648,Vendor Contract,Medium,Yes,3,5,True
+R-3946,M-1690,NDA,Low,Yes,3,5,True
+R-3947,M-1739,Vendor Contract,Medium,Yes,1,5,True
+R-3948,M-3762,Employment Issue,Medium,No,10,7,False
+R-3949,M-1449,Regulatory Review,High,Yes,7,5,False
+R-3950,M-1748,Regulatory Review,High,No,2,5,True
+R-3951,M-1144,Vendor Contract,High,Yes,1,3,True
+R-3952,M-2592,Employment Issue,Low,Yes,6,3,False
+R-3953,M-1705,Regulatory Review,High,Yes,3,7,True
+R-3954,M-3189,NDA,Medium,No,10,5,False
+R-3955,M-2127,Regulatory Review,Low,Yes,1,3,True
+R-3956,M-3756,NDA,High,Yes,1,7,True
+R-3957,M-3585,NDA,Low,No,5,7,True
+R-3958,M-2534,Vendor Contract,Low,Yes,1,7,True
+R-3959,M-1495,Regulatory Review,High,No,10,5,False
+R-3960,M-3519,Employment Issue,Low,Yes,6,7,True
+R-3961,M-3101,NDA,High,Yes,2,5,True
+R-3962,M-1485,NDA,High,No,2,3,True
+R-3963,M-2665,Employment Issue,High,Yes,3,7,True
+R-3964,M-3527,Vendor Contract,Low,Yes,3,7,True
+R-3965,M-2466,NDA,Medium,No,10,7,False
+R-3966,M-3973,NDA,Low,No,5,7,True
+R-3967,M-3451,Vendor Contract,Low,No,2,5,True
+R-3968,M-2877,Employment Issue,Medium,Yes,1,3,True
+R-3969,M-2185,Vendor Contract,High,No,10,3,False
+R-3970,M-3354,Employment Issue,High,No,2,5,True
+R-3971,M-1772,Regulatory Review,Medium,No,2,5,True
+R-3972,M-3500,NDA,Medium,Yes,2,7,True
+R-3973,M-1962,Employment Issue,Medium,No,2,7,True
+R-3974,M-2969,NDA,Medium,Yes,2,3,True
+R-3975,M-2417,Vendor Contract,High,No,5,5,True
+R-3976,M-1402,Vendor Contract,Low,No,10,5,False
+R-3977,M-2703,Regulatory Review,Low,Yes,3,7,True
+R-3978,M-3424,Vendor Contract,Medium,Yes,3,3,True
+R-3979,M-3634,NDA,High,Yes,1,5,True
+R-3980,M-2825,NDA,High,No,5,7,True
+R-3981,M-2759,NDA,Low,Yes,7,3,False
+R-3982,M-3354,Regulatory Review,Medium,Yes,3,7,True
+R-3983,M-3968,Regulatory Review,High,No,10,5,False
+R-3984,M-2198,NDA,Medium,No,5,3,False
+R-3985,M-1364,NDA,Medium,Yes,2,5,True
+R-3986,M-1045,Vendor Contract,High,Yes,1,7,True
+R-3987,M-1129,Employment Issue,Low,No,5,7,True
+R-3988,M-1867,NDA,Medium,No,10,7,False
+R-3989,M-2968,Employment Issue,Medium,Yes,6,5,False
+R-3990,M-1646,Vendor Contract,Low,No,5,5,True
+R-3991,M-3500,Regulatory Review,Low,No,10,3,False
+R-3992,M-3943,Employment Issue,High,No,5,7,True
+R-3993,M-3145,Vendor Contract,Low,Yes,5,7,True
+R-3994,M-1883,Employment Issue,Low,Yes,5,5,True
+R-3995,M-2229,NDA,High,No,5,7,True
+R-3996,M-2225,Regulatory Review,High,No,5,7,True
+R-3997,M-1454,Employment Issue,High,Yes,6,7,True
+R-3998,M-2888,Employment Issue,Medium,Yes,1,5,True
+R-3999,M-3604,NDA,Medium,No,2,7,True
+R-4000,M-3477,Employment Issue,High,No,2,5,True
+R-4001,M-1217,NDA,Medium,Yes,2,3,True
+R-4002,M-1770,Regulatory Review,Medium,No,5,5,True
+R-4003,M-2138,Vendor Contract,Medium,Yes,1,5,True
+R-4004,M-2897,Regulatory Review,High,No,5,5,True
+R-4005,M-2420,Employment Issue,Medium,No,5,3,False
+R-4006,M-3744,Vendor Contract,Medium,Yes,2,5,True
+R-4007,M-3818,Vendor Contract,High,Yes,1,7,True
+R-4008,M-1209,Vendor Contract,Medium,No,2,5,True
+R-4009,M-1362,Vendor Contract,Medium,No,2,3,True
+R-4010,M-3541,Regulatory Review,High,Yes,1,7,True
+R-4011,M-2605,Vendor Contract,Low,Yes,7,3,False
+R-4012,M-1281,Employment Issue,High,Yes,7,7,True
+R-4013,M-1061,Vendor Contract,Medium,No,10,5,False
+R-4014,M-2166,NDA,Low,No,10,5,False
+R-4015,M-1844,Vendor Contract,Medium,No,5,3,False
+R-4016,M-1358,Employment Issue,High,No,2,5,True
+R-4017,M-2660,Vendor Contract,High,Yes,3,3,True
+R-4018,M-1169,Vendor Contract,Low,No,10,7,False
+R-4019,M-3224,Employment Issue,Medium,No,2,5,True
+R-4020,M-2000,NDA,Medium,Yes,7,7,True
+R-4021,M-2409,Vendor Contract,Medium,Yes,5,7,True
+R-4022,M-3740,Regulatory Review,High,No,5,7,True
+R-4023,M-1469,NDA,High,Yes,2,5,True
+R-4024,M-1496,Vendor Contract,Low,No,5,5,True
+R-4025,M-3600,Regulatory Review,Medium,Yes,5,7,True
+R-4026,M-3477,NDA,High,Yes,6,3,False
+R-4027,M-3014,Employment Issue,Low,No,5,7,True
+R-4028,M-3906,Regulatory Review,Low,No,2,5,True
+R-4029,M-3843,Vendor Contract,Low,Yes,3,3,True
+R-4030,M-2195,Vendor Contract,High,No,10,3,False
+R-4031,M-2101,Regulatory Review,Medium,No,5,7,True
+R-4032,M-1375,Employment Issue,High,No,5,5,True
+R-4033,M-3262,Regulatory Review,Low,Yes,7,7,True
+R-4034,M-2641,Vendor Contract,High,Yes,3,7,True
+R-4035,M-1716,Vendor Contract,Low,Yes,1,3,True
+R-4036,M-2583,Regulatory Review,High,No,5,3,False
+R-4037,M-1076,Regulatory Review,Low,No,5,5,True
+R-4038,M-3227,Vendor Contract,Medium,Yes,3,5,True
+R-4039,M-3242,Employment Issue,Medium,Yes,5,5,True
+R-4040,M-2809,Vendor Contract,High,Yes,3,3,True
+R-4041,M-1177,Employment Issue,High,No,2,3,True
+R-4042,M-1160,NDA,High,No,10,3,False
+R-4043,M-3498,Employment Issue,Low,No,5,7,True
+R-4044,M-3348,NDA,Low,No,2,3,True
+R-4045,M-3118,NDA,Low,Yes,3,3,True
+R-4046,M-2028,Regulatory Review,High,No,5,3,False
+R-4047,M-2488,NDA,Low,No,5,5,True
+R-4048,M-1154,Regulatory Review,Low,Yes,1,5,True
+R-4049,M-1292,Regulatory Review,Low,No,2,5,True
+R-4050,M-1685,Regulatory Review,Medium,Yes,5,5,True
+R-4051,M-3536,Employment Issue,Low,Yes,5,3,False
+R-4052,M-1858,Employment Issue,Medium,No,2,3,True
+R-4053,M-1507,Employment Issue,Low,No,10,3,False
+R-4054,M-3625,NDA,High,No,2,7,True
+R-4055,M-2118,Vendor Contract,Low,Yes,3,3,True
+R-4056,M-1230,Regulatory Review,Low,Yes,2,5,True
+R-4057,M-1852,Vendor Contract,Medium,No,5,5,True
+R-4058,M-2031,Vendor Contract,Low,Yes,5,7,True
+R-4059,M-2605,Employment Issue,Low,No,10,3,False
+R-4060,M-1405,Employment Issue,Medium,No,2,5,True
+R-4061,M-3864,Vendor Contract,Low,Yes,1,5,True
+R-4062,M-3187,Employment Issue,Low,Yes,5,7,True
+R-4063,M-3044,Vendor Contract,Medium,Yes,3,7,True
+R-4064,M-3853,Vendor Contract,High,No,10,7,False
+R-4065,M-3260,Vendor Contract,Low,Yes,6,5,False
+R-4066,M-2856,Regulatory Review,High,No,2,3,True
+R-4067,M-1252,Regulatory Review,Low,No,2,7,True
+R-4068,M-3401,Vendor Contract,High,Yes,3,7,True
+R-4069,M-1653,Regulatory Review,Low,No,5,3,False
+R-4070,M-1592,Employment Issue,Medium,Yes,1,5,True
+R-4071,M-1056,Employment Issue,Low,Yes,3,3,True
+R-4072,M-2298,Regulatory Review,Medium,No,5,7,True
+R-4073,M-1909,Vendor Contract,Low,Yes,6,3,False
+R-4074,M-1616,NDA,High,No,5,5,True
+R-4075,M-2084,Employment Issue,Low,No,2,5,True
+R-4076,M-3933,Employment Issue,Medium,No,10,3,False
+R-4077,M-1109,Employment Issue,Low,No,5,3,False
+R-4078,M-1174,NDA,High,Yes,7,5,False
+R-4079,M-3594,Regulatory Review,Medium,Yes,2,7,True
+R-4080,M-1645,Vendor Contract,Low,Yes,5,3,False
+R-4081,M-3079,Employment Issue,Low,No,5,5,True
+R-4082,M-3643,NDA,Low,No,2,3,True
+R-4083,M-1326,Vendor Contract,Medium,Yes,1,3,True
+R-4084,M-1218,Regulatory Review,Medium,No,2,5,True
+R-4085,M-1517,Regulatory Review,High,Yes,1,5,True
+R-4086,M-3011,NDA,Low,Yes,3,7,True
+R-4087,M-3266,Employment Issue,High,Yes,1,7,True
+R-4088,M-2318,Vendor Contract,Low,No,5,7,True
+R-4089,M-2058,Regulatory Review,High,No,10,5,False
+R-4090,M-2438,Employment Issue,High,No,5,3,False
+R-4091,M-1593,Regulatory Review,Low,Yes,7,5,False
+R-4092,M-1418,NDA,High,Yes,3,7,True
+R-4093,M-2184,Employment Issue,Medium,Yes,1,5,True
+R-4094,M-3709,Vendor Contract,High,No,2,7,True
+R-4095,M-2512,Employment Issue,High,Yes,2,7,True
+R-4096,M-3033,Vendor Contract,Low,Yes,7,3,False
+R-4097,M-2792,NDA,Low,Yes,6,3,False
+R-4098,M-1960,Employment Issue,High,No,5,5,True
+R-4099,M-2243,NDA,Low,Yes,3,7,True
+R-4100,M-1903,Regulatory Review,Low,No,10,5,False
+R-4101,M-3112,Regulatory Review,Low,No,2,7,True
+R-4102,M-1804,Regulatory Review,Low,No,2,3,True
+R-4103,M-2590,NDA,High,No,10,3,False
+R-4104,M-3949,NDA,High,No,10,3,False
+R-4105,M-2485,NDA,Medium,No,2,7,True
+R-4106,M-2620,Regulatory Review,High,Yes,5,7,True
+R-4107,M-3308,Employment Issue,Medium,Yes,1,7,True
+R-4108,M-1363,Employment Issue,High,No,5,7,True
+R-4109,M-3667,Employment Issue,High,Yes,1,5,True
+R-4110,M-2683,Regulatory Review,High,No,10,3,False
+R-4111,M-2902,Vendor Contract,Medium,Yes,1,3,True
+R-4112,M-3247,Vendor Contract,Medium,No,10,5,False
+R-4113,M-2726,Employment Issue,Medium,Yes,7,3,False
+R-4114,M-2901,Employment Issue,Medium,Yes,1,5,True
+R-4115,M-1163,Vendor Contract,High,Yes,6,5,False
+R-4116,M-2179,Vendor Contract,Low,Yes,5,3,False
+R-4117,M-3162,Employment Issue,Low,No,5,5,True
+R-4118,M-2649,NDA,Medium,No,10,5,False
+R-4119,M-1892,Vendor Contract,Medium,Yes,1,5,True
+R-4120,M-2129,Regulatory Review,High,Yes,2,5,True
+R-4121,M-3928,NDA,High,Yes,1,7,True
+R-4122,M-3491,Regulatory Review,Low,Yes,2,5,True
+R-4123,M-2346,Vendor Contract,Low,Yes,1,3,True
+R-4124,M-2656,NDA,Medium,No,10,7,False
+R-4125,M-1660,NDA,Medium,No,5,5,True
+R-4126,M-2305,NDA,Low,No,5,7,True
+R-4127,M-2959,Employment Issue,Medium,Yes,1,5,True
+R-4128,M-3433,Vendor Contract,Medium,No,2,7,True
+R-4129,M-2772,Regulatory Review,High,No,5,5,True
+R-4130,M-2722,Regulatory Review,Low,Yes,5,5,True
+R-4131,M-3370,Regulatory Review,Medium,Yes,6,3,False
+R-4132,M-3320,Employment Issue,High,No,5,7,True
+R-4133,M-3856,Vendor Contract,Low,Yes,3,5,True
+R-4134,M-1195,Regulatory Review,High,Yes,3,5,True
+R-4135,M-2045,Vendor Contract,Low,No,10,3,False
+R-4136,M-3034,NDA,High,Yes,1,5,True
+R-4137,M-3390,Employment Issue,High,No,5,7,True
+R-4138,M-2741,NDA,Medium,No,2,3,True
+R-4139,M-3047,Vendor Contract,High,No,2,3,True
+R-4140,M-1638,Employment Issue,Medium,No,5,7,True
+R-4141,M-1203,Employment Issue,High,No,10,5,False
+R-4142,M-3057,NDA,Low,No,2,7,True
+R-4143,M-1700,Regulatory Review,Low,Yes,1,5,True
+R-4144,M-3553,Vendor Contract,Low,Yes,1,5,True
+R-4145,M-2054,NDA,Medium,Yes,1,5,True
+R-4146,M-2706,Vendor Contract,Low,No,10,7,False
+R-4147,M-3027,Vendor Contract,Medium,No,10,3,False
+R-4148,M-1500,Employment Issue,Low,Yes,3,3,True
+R-4149,M-3089,Employment Issue,Low,No,2,5,True
+R-4150,M-3535,NDA,Low,No,10,7,False
+R-4151,M-2630,Vendor Contract,Low,No,5,7,True
+R-4152,M-3765,Employment Issue,Medium,No,2,7,True
+R-4153,M-3699,Regulatory Review,Medium,No,5,5,True
+R-4154,M-1981,Vendor Contract,Medium,Yes,5,5,True
+R-4155,M-1022,Regulatory Review,Low,Yes,2,3,True
+R-4156,M-3011,Regulatory Review,High,Yes,1,5,True
+R-4157,M-3426,Vendor Contract,Medium,Yes,1,5,True
+R-4158,M-2272,Vendor Contract,High,No,5,3,False
+R-4159,M-2418,Employment Issue,Medium,Yes,1,7,True
+R-4160,M-3517,NDA,Low,Yes,1,3,True
+R-4161,M-1899,Regulatory Review,Medium,Yes,3,3,True
+R-4162,M-2860,Employment Issue,Low,No,10,3,False
+R-4163,M-2796,Vendor Contract,High,No,10,5,False
+R-4164,M-2428,Employment Issue,High,Yes,1,7,True
+R-4165,M-1380,Vendor Contract,Low,No,10,7,False
+R-4166,M-2909,Vendor Contract,Medium,No,5,3,False
+R-4167,M-3867,NDA,Medium,No,10,3,False
+R-4168,M-3852,Regulatory Review,High,No,5,5,True
+R-4169,M-1995,Regulatory Review,Medium,No,2,5,True
+R-4170,M-2240,Regulatory Review,High,Yes,6,5,False
+R-4171,M-2959,Vendor Contract,Low,Yes,7,7,True
+R-4172,M-2299,Regulatory Review,Low,No,10,3,False
+R-4173,M-2299,Vendor Contract,High,Yes,5,3,False
+R-4174,M-3186,NDA,Medium,No,2,5,True
+R-4175,M-3810,Employment Issue,Medium,Yes,5,7,True
+R-4176,M-1855,NDA,High,No,2,7,True
+R-4177,M-3878,Vendor Contract,Medium,Yes,5,3,False
+R-4178,M-3835,Vendor Contract,Medium,Yes,3,3,True
+R-4179,M-2195,Vendor Contract,Low,No,5,5,True
+R-4180,M-2462,Vendor Contract,Low,No,10,5,False
+R-4181,M-1402,Employment Issue,Medium,No,10,5,False
+R-4182,M-3743,Vendor Contract,High,No,2,5,True
+R-4183,M-3966,Vendor Contract,High,Yes,6,3,False
+R-4184,M-1314,NDA,Medium,Yes,7,3,False
+R-4185,M-3729,Employment Issue,High,Yes,1,7,True
+R-4186,M-3762,Regulatory Review,High,Yes,5,5,True
+R-4187,M-3009,Vendor Contract,Low,No,2,7,True
+R-4188,M-1544,Vendor Contract,Low,No,2,3,True
+R-4189,M-2477,NDA,Medium,No,5,5,True
+R-4190,M-2615,Employment Issue,Low,Yes,6,3,False
+R-4191,M-3060,Employment Issue,Medium,Yes,1,7,True
+R-4192,M-2951,NDA,Medium,No,10,5,False
+R-4193,M-3116,Employment Issue,High,No,2,3,True
+R-4194,M-1913,Vendor Contract,Low,Yes,3,3,True
+R-4195,M-1464,Vendor Contract,Low,No,5,3,False
+R-4196,M-3731,Vendor Contract,High,Yes,1,5,True
+R-4197,M-2743,Vendor Contract,Medium,No,2,7,True
+R-4198,M-3202,Vendor Contract,High,Yes,3,7,True
+R-4199,M-3322,NDA,High,No,2,5,True
+R-4200,M-3107,Regulatory Review,Medium,Yes,1,7,True
+R-4201,M-2774,Vendor Contract,Medium,Yes,7,3,False
+R-4202,M-1776,Employment Issue,Medium,Yes,5,3,False
+R-4203,M-1336,Vendor Contract,Low,Yes,2,3,True
+R-4204,M-2505,NDA,Medium,Yes,3,7,True
+R-4205,M-2678,Vendor Contract,High,Yes,3,3,True
+R-4206,M-1218,Employment Issue,High,Yes,3,7,True
+R-4207,M-1372,Employment Issue,Medium,Yes,1,7,True
+R-4208,M-2265,Vendor Contract,Medium,Yes,1,7,True
+R-4209,M-1341,NDA,Low,Yes,3,7,True
+R-4210,M-2291,Vendor Contract,Medium,No,5,5,True
+R-4211,M-2578,Regulatory Review,Low,Yes,1,7,True
+R-4212,M-1773,NDA,High,Yes,6,7,True
+R-4213,M-3690,Vendor Contract,Low,No,5,3,False
+R-4214,M-1777,NDA,High,No,10,3,False
+R-4215,M-2165,Employment Issue,Medium,Yes,1,7,True
+R-4216,M-2984,Employment Issue,High,Yes,1,7,True
+R-4217,M-1396,NDA,Low,Yes,6,7,True
+R-4218,M-2480,NDA,Low,Yes,3,3,True
+R-4219,M-3354,Employment Issue,Low,Yes,6,3,False
+R-4220,M-1895,Regulatory Review,High,No,5,3,False
+R-4221,M-1885,Employment Issue,Medium,Yes,1,3,True
+R-4222,M-3163,Vendor Contract,Low,No,2,5,True
+R-4223,M-3409,Regulatory Review,High,No,10,7,False
+R-4224,M-1236,NDA,High,Yes,1,5,True
+R-4225,M-1962,Regulatory Review,Low,No,2,3,True
+R-4226,M-1452,NDA,High,Yes,6,7,True
+R-4227,M-1583,NDA,Medium,No,2,3,True
+R-4228,M-3311,Regulatory Review,Medium,No,2,3,True
+R-4229,M-1207,Regulatory Review,Low,No,10,5,False
+R-4230,M-3173,NDA,High,No,5,3,False
+R-4231,M-1075,Regulatory Review,Medium,No,2,5,True
+R-4232,M-3625,NDA,Medium,No,10,3,False
+R-4233,M-2907,Employment Issue,Medium,Yes,1,5,True
+R-4234,M-3991,Employment Issue,High,Yes,6,3,False
+R-4235,M-1099,Regulatory Review,High,Yes,1,7,True
+R-4236,M-3630,Employment Issue,Low,No,10,5,False
+R-4237,M-1904,Employment Issue,Low,No,2,7,True
+R-4238,M-2535,Regulatory Review,High,Yes,6,3,False
+R-4239,M-1761,Employment Issue,High,No,5,5,True
+R-4240,M-3922,NDA,Medium,No,10,3,False
+R-4241,M-3811,NDA,Medium,No,5,3,False
+R-4242,M-2995,NDA,High,Yes,2,3,True
+R-4243,M-2100,Regulatory Review,Medium,Yes,3,3,True
+R-4244,M-1296,Regulatory Review,Low,Yes,1,3,True
+R-4245,M-3196,Employment Issue,High,No,10,5,False
+R-4246,M-3453,Vendor Contract,High,Yes,1,5,True
+R-4247,M-3416,Regulatory Review,High,No,5,5,True
+R-4248,M-3783,Employment Issue,Medium,Yes,7,5,False
+R-4249,M-1701,Vendor Contract,High,No,5,5,True
+R-4250,M-1186,Regulatory Review,Medium,Yes,7,7,True
+R-4251,M-1178,Regulatory Review,Medium,Yes,1,7,True
+R-4252,M-3577,Regulatory Review,Low,No,10,3,False
+R-4253,M-2612,Vendor Contract,Low,Yes,7,5,False
+R-4254,M-1872,NDA,Medium,No,5,5,True
+R-4255,M-1720,Regulatory Review,High,No,2,5,True
+R-4256,M-2936,Vendor Contract,Medium,Yes,3,7,True
+R-4257,M-2629,Regulatory Review,Low,No,5,7,True
+R-4258,M-3902,Employment Issue,Medium,No,10,7,False
+R-4259,M-3064,Vendor Contract,Low,Yes,6,5,False
+R-4260,M-3778,Vendor Contract,Medium,No,10,3,False
+R-4261,M-1865,Regulatory Review,Low,No,5,7,True
+R-4262,M-3644,NDA,Medium,Yes,1,3,True
+R-4263,M-2904,Vendor Contract,Medium,No,5,3,False
+R-4264,M-2548,Employment Issue,Low,Yes,1,3,True
+R-4265,M-1250,Regulatory Review,Medium,Yes,1,5,True
+R-4266,M-3780,NDA,Low,Yes,2,7,True
+R-4267,M-1403,NDA,Medium,No,2,3,True
+R-4268,M-2101,NDA,High,No,10,3,False
+R-4269,M-3640,Vendor Contract,Low,Yes,1,7,True
+R-4270,M-1266,NDA,Medium,No,2,7,True
+R-4271,M-1818,Vendor Contract,High,Yes,5,7,True
+R-4272,M-2959,NDA,High,Yes,1,7,True
+R-4273,M-1266,Employment Issue,High,No,2,5,True
+R-4274,M-1307,Regulatory Review,Medium,No,2,7,True
+R-4275,M-2683,NDA,High,No,10,5,False
+R-4276,M-2500,Vendor Contract,High,No,5,7,True
+R-4277,M-2123,Vendor Contract,High,No,5,3,False
+R-4278,M-3058,NDA,Low,Yes,1,7,True
+R-4279,M-1350,NDA,High,Yes,3,5,True
+R-4280,M-3754,Regulatory Review,High,Yes,5,7,True
+R-4281,M-2439,NDA,Low,No,2,5,True
+R-4282,M-2743,Vendor Contract,High,No,10,7,False
+R-4283,M-1324,NDA,Low,No,2,3,True
+R-4284,M-2276,Vendor Contract,Low,No,10,3,False
+R-4285,M-1322,NDA,Low,Yes,6,5,False
+R-4286,M-2829,Regulatory Review,Low,No,5,5,True
+R-4287,M-3434,NDA,High,No,5,3,False
+R-4288,M-1793,NDA,Low,No,10,3,False
+R-4289,M-1730,Regulatory Review,Medium,No,5,7,True
+R-4290,M-1387,NDA,High,No,10,5,False
+R-4291,M-3458,NDA,High,Yes,3,3,True
+R-4292,M-2492,Employment Issue,Medium,No,10,7,False
+R-4293,M-1181,NDA,High,Yes,1,7,True
+R-4294,M-1398,Employment Issue,Low,Yes,1,3,True
+R-4295,M-3964,Employment Issue,Low,No,2,5,True
+R-4296,M-3310,Employment Issue,Medium,Yes,7,5,False
+R-4297,M-1949,Employment Issue,High,Yes,3,7,True
+R-4298,M-3846,Employment Issue,Medium,Yes,2,3,True
+R-4299,M-2869,Employment Issue,High,Yes,1,5,True
+R-4300,M-1177,Employment Issue,High,No,2,3,True
+R-4301,M-1276,Employment Issue,Low,Yes,5,7,True
+R-4302,M-1355,Regulatory Review,Low,No,5,7,True
+R-4303,M-3994,NDA,Medium,Yes,2,3,True
+R-4304,M-3916,Vendor Contract,Medium,Yes,3,3,True
+R-4305,M-2758,Regulatory Review,Medium,Yes,2,7,True
+R-4306,M-1371,Vendor Contract,Medium,No,2,7,True
+R-4307,M-3701,Regulatory Review,Low,Yes,7,7,True
+R-4308,M-2678,NDA,Medium,No,5,3,False
+R-4309,M-2416,Regulatory Review,High,No,10,3,False
+R-4310,M-2107,Vendor Contract,Low,Yes,7,3,False
+R-4311,M-1512,Regulatory Review,High,No,10,3,False
+R-4312,M-1759,Vendor Contract,Medium,No,5,5,True
+R-4313,M-3493,NDA,High,Yes,5,3,False
+R-4314,M-1083,Employment Issue,Medium,Yes,3,3,True
+R-4315,M-2751,Regulatory Review,Low,No,5,3,False
+R-4316,M-2855,Vendor Contract,Low,Yes,5,7,True
+R-4317,M-1917,NDA,Low,Yes,1,5,True
+R-4318,M-2152,Regulatory Review,High,Yes,3,5,True
+R-4319,M-3434,Regulatory Review,High,Yes,3,5,True
+R-4320,M-3988,Vendor Contract,High,No,10,3,False
+R-4321,M-3688,Vendor Contract,Medium,No,10,3,False
+R-4322,M-2523,NDA,High,Yes,3,7,True
+R-4323,M-2656,NDA,High,No,2,3,True
+R-4324,M-1352,Employment Issue,Low,Yes,3,5,True
+R-4325,M-1362,Vendor Contract,Medium,No,10,5,False
+R-4326,M-2648,Employment Issue,High,No,5,3,False
+R-4327,M-3288,Employment Issue,Low,Yes,1,7,True
+R-4328,M-3579,Regulatory Review,Medium,Yes,2,3,True
+R-4329,M-2680,Vendor Contract,Medium,No,10,5,False
+R-4330,M-2864,NDA,Low,No,5,3,False
+R-4331,M-1515,Vendor Contract,Low,Yes,2,7,True
+R-4332,M-1329,Vendor Contract,High,No,10,7,False
+R-4333,M-3392,Regulatory Review,Medium,Yes,6,7,True
+R-4334,M-2141,Vendor Contract,High,No,10,3,False
+R-4335,M-1777,NDA,High,No,5,7,True
+R-4336,M-2449,Regulatory Review,High,No,2,7,True
+R-4337,M-2928,Vendor Contract,High,No,10,3,False
+R-4338,M-1987,Regulatory Review,Low,Yes,1,3,True
+R-4339,M-2588,NDA,High,No,10,3,False
+R-4340,M-2002,NDA,High,No,2,3,True
+R-4341,M-1500,Vendor Contract,High,No,2,5,True
+R-4342,M-2793,Employment Issue,Medium,Yes,7,5,False
+R-4343,M-3069,Vendor Contract,High,No,10,3,False
+R-4344,M-2546,Regulatory Review,Medium,Yes,5,5,True
+R-4345,M-2225,Regulatory Review,Medium,Yes,6,3,False
+R-4346,M-3611,Regulatory Review,Low,Yes,1,5,True
+R-4347,M-3466,Regulatory Review,High,No,5,3,False
+R-4348,M-2668,Regulatory Review,Low,No,5,3,False
+R-4349,M-1221,NDA,Medium,No,5,3,False
+R-4350,M-3972,Employment Issue,Medium,No,5,7,True
+R-4351,M-2475,Employment Issue,Medium,Yes,5,3,False
+R-4352,M-1135,Employment Issue,High,Yes,1,5,True
+R-4353,M-2336,Regulatory Review,Medium,No,10,5,False
+R-4354,M-2276,Vendor Contract,Medium,No,10,7,False
+R-4355,M-1537,Regulatory Review,Low,Yes,6,5,False
+R-4356,M-2179,Employment Issue,Low,No,2,7,True
+R-4357,M-1732,Employment Issue,High,No,5,7,True
+R-4358,M-1458,Regulatory Review,Low,No,2,3,True
+R-4359,M-3064,NDA,High,Yes,5,5,True
+R-4360,M-3493,Regulatory Review,High,No,10,3,False
+R-4361,M-2200,Employment Issue,High,Yes,2,3,True
+R-4362,M-3452,NDA,Low,Yes,7,7,True
+R-4363,M-3807,Employment Issue,High,No,10,5,False
+R-4364,M-1970,Regulatory Review,Medium,No,10,5,False
+R-4365,M-1928,Vendor Contract,Medium,No,2,7,True
+R-4366,M-2254,Vendor Contract,Low,Yes,3,3,True
+R-4367,M-3732,Vendor Contract,Medium,No,5,5,True
+R-4368,M-2997,Vendor Contract,Low,Yes,3,7,True
+R-4369,M-3648,Employment Issue,Low,Yes,6,7,True
+R-4370,M-2221,NDA,Medium,No,2,3,True
+R-4371,M-3558,Regulatory Review,Medium,Yes,5,5,True
+R-4372,M-3565,NDA,Medium,Yes,2,5,True
+R-4373,M-1672,Employment Issue,Low,Yes,3,7,True
+R-4374,M-1029,Employment Issue,Low,No,2,7,True
+R-4375,M-1919,Regulatory Review,High,Yes,3,5,True
+R-4376,M-3940,NDA,High,No,5,7,True
+R-4377,M-3410,Vendor Contract,Low,No,5,5,True
+R-4378,M-2415,Regulatory Review,High,No,2,5,True
+R-4379,M-1452,Regulatory Review,High,No,10,3,False
+R-4380,M-2236,Employment Issue,Medium,No,2,7,True
+R-4381,M-2734,Vendor Contract,Low,Yes,2,5,True
+R-4382,M-2604,Employment Issue,Low,Yes,5,3,False
+R-4383,M-3294,Employment Issue,Medium,Yes,1,3,True
+R-4384,M-2875,NDA,Medium,No,5,3,False
+R-4385,M-2474,Vendor Contract,Low,No,2,5,True
+R-4386,M-1048,Vendor Contract,Low,No,5,3,False
+R-4387,M-3016,Regulatory Review,Low,Yes,1,3,True
+R-4388,M-1891,NDA,Low,No,5,7,True
+R-4389,M-3550,Employment Issue,Low,No,10,7,False
+R-4390,M-2255,NDA,Low,Yes,3,3,True
+R-4391,M-2424,Vendor Contract,High,No,2,7,True
+R-4392,M-2144,Employment Issue,Low,Yes,1,3,True
+R-4393,M-3517,Regulatory Review,Low,Yes,3,7,True
+R-4394,M-1411,NDA,Low,No,10,7,False
+R-4395,M-2135,Regulatory Review,Medium,No,10,7,False
+R-4396,M-1236,Vendor Contract,High,No,2,5,True
+R-4397,M-1854,NDA,Low,No,10,7,False
+R-4398,M-3072,Employment Issue,Medium,Yes,7,5,False
+R-4399,M-1881,Employment Issue,Medium,No,2,5,True
+R-4400,M-3078,Employment Issue,High,Yes,1,3,True
+R-4401,M-2675,Employment Issue,Medium,No,5,7,True
+R-4402,M-3735,NDA,Medium,No,2,3,True
+R-4403,M-3289,Employment Issue,High,No,2,5,True
+R-4404,M-3194,Employment Issue,High,No,5,5,True
+R-4405,M-2080,Vendor Contract,Medium,Yes,5,3,False
+R-4406,M-3896,Vendor Contract,Low,Yes,2,7,True
+R-4407,M-1080,NDA,Low,No,10,3,False
+R-4408,M-2295,Employment Issue,Low,Yes,1,5,True
+R-4409,M-1735,Regulatory Review,High,No,2,5,True
+R-4410,M-1881,Regulatory Review,High,No,2,3,True
+R-4411,M-3378,Employment Issue,High,No,2,7,True
+R-4412,M-1915,Employment Issue,Medium,Yes,1,5,True
+R-4413,M-2931,Regulatory Review,Medium,Yes,3,5,True
+R-4414,M-3735,Regulatory Review,Low,No,5,5,True
+R-4415,M-1711,Employment Issue,Medium,Yes,1,3,True
+R-4416,M-1579,Vendor Contract,Medium,Yes,3,3,True
+R-4417,M-2049,Regulatory Review,Low,Yes,1,5,True
+R-4418,M-1983,Employment Issue,Medium,No,2,7,True
+R-4419,M-2243,Vendor Contract,High,Yes,7,5,False
+R-4420,M-3662,Vendor Contract,High,Yes,3,5,True
+R-4421,M-3876,Employment Issue,High,No,10,5,False
+R-4422,M-1469,Employment Issue,High,No,2,3,True
+R-4423,M-3743,Vendor Contract,Low,No,2,5,True
+R-4424,M-1230,Regulatory Review,Medium,No,10,7,False
+R-4425,M-2410,NDA,High,No,2,3,True
+R-4426,M-3495,NDA,Low,No,5,7,True
+R-4427,M-2683,Employment Issue,Medium,No,5,7,True
+R-4428,M-3447,Regulatory Review,Low,Yes,3,7,True
+R-4429,M-2304,NDA,Medium,Yes,5,3,False
+R-4430,M-2074,Regulatory Review,High,Yes,5,7,True
+R-4431,M-1662,Vendor Contract,Medium,Yes,3,5,True
+R-4432,M-3343,NDA,High,No,5,7,True
+R-4433,M-2358,Employment Issue,High,Yes,5,3,False
+R-4434,M-3183,Vendor Contract,High,No,2,7,True
+R-4435,M-2913,NDA,Medium,No,5,3,False
+R-4436,M-3532,Vendor Contract,Medium,Yes,3,7,True
+R-4437,M-1523,Regulatory Review,Medium,Yes,3,5,True
+R-4438,M-1341,NDA,Low,No,5,3,False
+R-4439,M-1595,Vendor Contract,Medium,Yes,7,7,True
+R-4440,M-3864,Regulatory Review,High,No,5,7,True
+R-4441,M-1653,Regulatory Review,Low,Yes,2,7,True
+R-4442,M-3978,Employment Issue,Medium,Yes,1,7,True
+R-4443,M-1750,Regulatory Review,High,No,5,7,True
+R-4444,M-1741,NDA,Low,No,2,3,True
+R-4445,M-3256,Vendor Contract,High,No,2,5,True
+R-4446,M-2327,NDA,High,No,2,5,True
+R-4447,M-3611,Vendor Contract,Low,No,2,7,True
+R-4448,M-2851,NDA,High,Yes,5,3,False
+R-4449,M-1225,Regulatory Review,Low,Yes,5,7,True
+R-4450,M-2408,Vendor Contract,Low,Yes,2,5,True
+R-4451,M-2891,NDA,High,No,5,7,True
+R-4452,M-1202,NDA,High,Yes,1,5,True
+R-4453,M-2584,Vendor Contract,Low,No,10,7,False
+R-4454,M-1833,Regulatory Review,Low,Yes,2,3,True
+R-4455,M-2420,Employment Issue,Medium,Yes,1,7,True
+R-4456,M-2009,NDA,Low,Yes,3,5,True
+R-4457,M-3838,Employment Issue,Low,Yes,2,3,True
+R-4458,M-2003,Regulatory Review,High,Yes,7,5,False
+R-4459,M-2334,Regulatory Review,Low,Yes,5,7,True
+R-4460,M-1706,NDA,Low,No,2,7,True
+R-4461,M-2268,Regulatory Review,Medium,Yes,6,5,False
+R-4462,M-2466,Regulatory Review,High,No,5,5,True
+R-4463,M-2291,Regulatory Review,High,No,5,3,False
+R-4464,M-3627,Employment Issue,Medium,No,10,5,False
+R-4465,M-3976,Vendor Contract,High,Yes,5,5,True
+R-4466,M-2043,Vendor Contract,Medium,Yes,7,5,False
+R-4467,M-1785,Vendor Contract,Low,No,2,5,True
+R-4468,M-3703,Vendor Contract,Low,No,10,3,False
+R-4469,M-2963,Employment Issue,High,No,10,5,False
+R-4470,M-3890,Regulatory Review,High,Yes,1,5,True
+R-4471,M-1030,Regulatory Review,Medium,No,5,7,True
+R-4472,M-1865,NDA,Medium,No,10,5,False
+R-4473,M-2257,Employment Issue,High,Yes,5,7,True
+R-4474,M-2512,Regulatory Review,Medium,Yes,3,5,True
+R-4475,M-1817,Vendor Contract,Medium,No,2,3,True
+R-4476,M-3172,Employment Issue,Medium,Yes,7,3,False
+R-4477,M-3744,Regulatory Review,Low,Yes,3,3,True
+R-4478,M-2244,Employment Issue,High,No,2,5,True
+R-4479,M-3227,Employment Issue,High,No,5,3,False
+R-4480,M-2605,Regulatory Review,Low,No,5,3,False
+R-4481,M-1667,Regulatory Review,Low,No,10,5,False
+R-4482,M-1671,Vendor Contract,Medium,No,10,3,False
+R-4483,M-2971,Vendor Contract,Low,Yes,3,7,True
+R-4484,M-1415,Regulatory Review,Low,Yes,5,3,False
+R-4485,M-2766,NDA,High,No,2,5,True
+R-4486,M-1907,Employment Issue,High,No,5,3,False
+R-4487,M-2753,Regulatory Review,High,Yes,6,3,False
+R-4488,M-1485,Regulatory Review,Medium,No,5,5,True
+R-4489,M-3844,Employment Issue,High,No,10,3,False
+R-4490,M-2760,Regulatory Review,High,Yes,5,3,False
+R-4491,M-2582,Regulatory Review,High,No,5,3,False
+R-4492,M-3135,Regulatory Review,Low,No,10,7,False
+R-4493,M-1459,Employment Issue,High,Yes,1,5,True
+R-4494,M-2749,Employment Issue,Medium,Yes,3,5,True
+R-4495,M-2261,Regulatory Review,High,Yes,7,7,True
+R-4496,M-3618,Regulatory Review,High,Yes,1,7,True
+R-4497,M-2945,Vendor Contract,High,Yes,1,7,True
+R-4498,M-3527,Regulatory Review,Low,No,10,7,False
+R-4499,M-1233,Employment Issue,High,Yes,3,7,True
+R-4500,M-2026,Vendor Contract,Low,Yes,2,3,True
+R-4501,M-1949,NDA,Low,Yes,1,3,True
+R-4502,M-3554,Employment Issue,High,Yes,6,3,False
+R-4503,M-1896,Employment Issue,High,No,10,3,False
+R-4504,M-1715,Regulatory Review,High,Yes,7,5,False
+R-4505,M-3650,Regulatory Review,Low,No,5,5,True
+R-4506,M-1512,Regulatory Review,Medium,Yes,1,7,True
+R-4507,M-1731,Employment Issue,Low,Yes,6,5,False
+R-4508,M-1045,Employment Issue,Medium,Yes,1,5,True
+R-4509,M-3639,Regulatory Review,Medium,Yes,3,5,True
+R-4510,M-2647,NDA,High,No,5,3,False
+R-4511,M-2486,NDA,Medium,No,5,7,True
+R-4512,M-2296,NDA,Low,No,5,7,True
+R-4513,M-3774,NDA,Medium,No,2,7,True
+R-4514,M-3266,Regulatory Review,Medium,Yes,1,3,True
+R-4515,M-1643,Regulatory Review,Medium,No,10,3,False
+R-4516,M-1277,NDA,High,No,5,7,True
+R-4517,M-1536,Employment Issue,High,No,2,5,True
+R-4518,M-1405,Regulatory Review,High,No,5,5,True
+R-4519,M-2691,Regulatory Review,High,Yes,1,7,True
+R-4520,M-1812,Vendor Contract,High,Yes,3,3,True
+R-4521,M-3457,Regulatory Review,Medium,No,10,5,False
+R-4522,M-3884,Regulatory Review,High,No,10,3,False
+R-4523,M-2871,Regulatory Review,High,Yes,1,7,True
+R-4524,M-2521,Employment Issue,Medium,Yes,6,7,True
+R-4525,M-3162,Vendor Contract,Medium,Yes,6,3,False
+R-4526,M-3618,NDA,Low,No,2,7,True
+R-4527,M-2636,Regulatory Review,Medium,Yes,5,3,False
+R-4528,M-3485,NDA,High,Yes,1,7,True
+R-4529,M-3841,Employment Issue,Low,No,5,3,False
+R-4530,M-1989,Vendor Contract,Medium,Yes,1,5,True
+R-4531,M-3676,NDA,Medium,No,10,3,False
+R-4532,M-3317,Regulatory Review,Low,Yes,3,3,True
+R-4533,M-1877,NDA,Medium,Yes,3,3,True
+R-4534,M-2437,Employment Issue,Low,Yes,3,3,True
+R-4535,M-3299,Regulatory Review,Low,No,10,5,False
+R-4536,M-1718,Regulatory Review,Low,Yes,6,7,True
+R-4537,M-2170,Vendor Contract,Low,Yes,1,5,True
+R-4538,M-1467,NDA,High,Yes,7,7,True
+R-4539,M-2786,Employment Issue,Medium,No,2,3,True
+R-4540,M-3246,Vendor Contract,High,Yes,1,7,True
+R-4541,M-3302,Vendor Contract,High,Yes,1,3,True
+R-4542,M-1280,NDA,Low,Yes,3,3,True
+R-4543,M-2972,NDA,Medium,No,10,5,False
+R-4544,M-3039,Employment Issue,Medium,Yes,2,3,True
+R-4545,M-1947,NDA,High,Yes,2,3,True
+R-4546,M-3507,Vendor Contract,Low,No,2,5,True
+R-4547,M-3034,Regulatory Review,Low,Yes,3,5,True
+R-4548,M-3592,Employment Issue,Medium,Yes,2,5,True
+R-4549,M-2449,Regulatory Review,Low,Yes,2,5,True
+R-4550,M-2340,Vendor Contract,Medium,Yes,3,7,True
+R-4551,M-3459,Vendor Contract,Medium,No,2,5,True
+R-4552,M-2124,Vendor Contract,High,Yes,2,7,True
+R-4553,M-2312,Regulatory Review,Low,No,10,7,False
+R-4554,M-2481,Vendor Contract,Low,Yes,2,7,True
+R-4555,M-2581,Employment Issue,High,No,2,5,True
+R-4556,M-2608,NDA,High,No,10,5,False
+R-4557,M-1347,Regulatory Review,Low,No,2,5,True
+R-4558,M-1517,Employment Issue,Medium,Yes,1,3,True
+R-4559,M-1281,Vendor Contract,High,No,2,7,True
+R-4560,M-3234,Regulatory Review,High,Yes,1,7,True
+R-4561,M-3383,NDA,High,Yes,2,7,True
+R-4562,M-3320,Vendor Contract,Medium,Yes,7,5,False
+R-4563,M-3663,Employment Issue,High,No,5,3,False
+R-4564,M-3763,Vendor Contract,High,No,10,3,False
+R-4565,M-3788,Regulatory Review,Low,No,10,7,False
+R-4566,M-2331,Regulatory Review,Medium,Yes,1,5,True
+R-4567,M-3387,Vendor Contract,Medium,No,10,3,False
+R-4568,M-1789,Vendor Contract,Low,Yes,7,7,True
+R-4569,M-3488,NDA,Low,No,5,5,True
+R-4570,M-3486,Vendor Contract,Medium,Yes,3,7,True
+R-4571,M-3654,Vendor Contract,Low,Yes,5,7,True
+R-4572,M-1219,Regulatory Review,High,Yes,5,5,True
+R-4573,M-1609,Employment Issue,Medium,Yes,5,7,True
+R-4574,M-2563,NDA,Medium,Yes,3,5,True
+R-4575,M-2700,Vendor Contract,Medium,No,5,5,True
+R-4576,M-2092,Employment Issue,High,No,10,5,False
+R-4577,M-3262,NDA,Medium,Yes,1,7,True
+R-4578,M-3291,Employment Issue,Medium,Yes,7,3,False
+R-4579,M-3362,NDA,Medium,Yes,1,5,True
+R-4580,M-1959,NDA,High,No,5,5,True
+R-4581,M-1623,Regulatory Review,Medium,Yes,5,7,True
+R-4582,M-3100,Employment Issue,Medium,Yes,1,5,True
+R-4583,M-1057,Employment Issue,Low,No,2,7,True
+R-4584,M-3143,Vendor Contract,Low,No,2,5,True
+R-4585,M-2533,Vendor Contract,Medium,No,2,5,True
+R-4586,M-2896,Employment Issue,High,Yes,1,3,True
+R-4587,M-2374,Vendor Contract,High,No,10,5,False
+R-4588,M-2609,Regulatory Review,High,No,2,7,True
+R-4589,M-1694,Regulatory Review,Low,Yes,1,5,True
+R-4590,M-3442,Vendor Contract,Low,No,5,5,True
+R-4591,M-1543,NDA,Medium,No,2,5,True
+R-4592,M-1218,Employment Issue,Medium,Yes,2,5,True
+R-4593,M-3594,NDA,High,Yes,2,3,True
+R-4594,M-1918,NDA,Medium,Yes,3,3,True
+R-4595,M-2949,Vendor Contract,Medium,Yes,1,3,True
+R-4596,M-1338,NDA,Low,Yes,3,7,True
+R-4597,M-3843,Regulatory Review,High,Yes,3,3,True
+R-4598,M-1516,NDA,Medium,No,5,7,True
+R-4599,M-3936,Regulatory Review,Low,No,10,3,False
+R-4600,M-3658,Regulatory Review,High,No,2,7,True
+R-4601,M-2379,Employment Issue,High,Yes,1,5,True
+R-4602,M-1251,Regulatory Review,High,No,10,5,False
+R-4603,M-2416,NDA,Low,Yes,1,5,True
+R-4604,M-2411,NDA,Low,Yes,7,5,False
+R-4605,M-3206,Regulatory Review,Medium,No,2,3,True
+R-4606,M-2785,Employment Issue,Medium,No,10,3,False
+R-4607,M-2794,Regulatory Review,Low,Yes,7,5,False
+R-4608,M-3864,NDA,High,Yes,6,7,True
+R-4609,M-2588,Regulatory Review,Low,Yes,3,7,True
+R-4610,M-2756,NDA,High,No,2,5,True
+R-4611,M-2516,NDA,Low,No,10,7,False
+R-4612,M-2261,NDA,Low,Yes,3,3,True
+R-4613,M-2426,Vendor Contract,High,Yes,3,7,True
+R-4614,M-1426,NDA,High,Yes,1,5,True
+R-4615,M-2380,Regulatory Review,High,Yes,1,5,True
+R-4616,M-3481,Vendor Contract,Low,No,2,7,True
+R-4617,M-1063,Employment Issue,Medium,No,2,5,True
+R-4618,M-1818,NDA,High,Yes,5,7,True
+R-4619,M-2250,Vendor Contract,Medium,Yes,1,3,True
+R-4620,M-3814,Vendor Contract,Low,No,5,7,True
+R-4621,M-2865,NDA,Medium,No,2,5,True
+R-4622,M-3861,Employment Issue,High,No,5,7,True
+R-4623,M-1443,Regulatory Review,Low,No,10,5,False
+R-4624,M-3317,Regulatory Review,High,No,2,3,True
+R-4625,M-3088,Vendor Contract,Medium,Yes,2,3,True
+R-4626,M-3219,Employment Issue,High,Yes,1,7,True
+R-4627,M-2159,NDA,Medium,No,10,3,False
+R-4628,M-1795,Regulatory Review,Low,No,2,3,True
+R-4629,M-2098,NDA,Medium,Yes,1,5,True
+R-4630,M-3911,NDA,Low,No,5,3,False
+R-4631,M-2013,Employment Issue,High,No,5,3,False
+R-4632,M-1016,Employment Issue,Medium,No,5,3,False
+R-4633,M-1470,Regulatory Review,Low,No,5,7,True
+R-4634,M-3160,Employment Issue,Low,No,2,7,True
+R-4635,M-2671,Vendor Contract,Low,Yes,6,7,True
+R-4636,M-1682,Regulatory Review,Medium,No,5,3,False
+R-4637,M-2477,Regulatory Review,Low,No,5,3,False
+R-4638,M-3343,Vendor Contract,High,No,5,3,False
+R-4639,M-1692,Regulatory Review,Low,Yes,3,3,True
+R-4640,M-1489,Vendor Contract,Low,No,5,7,True
+R-4641,M-3985,Regulatory Review,Low,Yes,7,7,True
+R-4642,M-1161,Employment Issue,Medium,Yes,5,3,False
+R-4643,M-1367,Regulatory Review,High,No,2,3,True
+R-4644,M-2036,Vendor Contract,Medium,No,2,5,True
+R-4645,M-1135,Regulatory Review,High,Yes,6,5,False
+R-4646,M-2727,Employment Issue,High,No,5,3,False
+R-4647,M-3967,Regulatory Review,Medium,Yes,7,7,True
+R-4648,M-2366,NDA,Low,No,10,3,False
+R-4649,M-3015,Vendor Contract,Low,No,5,7,True
+R-4650,M-2106,Employment Issue,Low,No,2,7,True
+R-4651,M-3972,Regulatory Review,Medium,Yes,3,5,True
+R-4652,M-1588,Vendor Contract,Low,Yes,1,7,True
+R-4653,M-2756,NDA,Medium,Yes,3,3,True
+R-4654,M-2842,NDA,Medium,No,5,5,True
+R-4655,M-1650,Employment Issue,Medium,No,5,3,False
+R-4656,M-3516,Employment Issue,Medium,No,10,7,False
+R-4657,M-3601,Regulatory Review,High,No,2,3,True
+R-4658,M-3032,Employment Issue,High,Yes,5,5,True
+R-4659,M-1349,Regulatory Review,Medium,No,10,7,False
+R-4660,M-2365,Regulatory Review,Low,No,5,7,True
+R-4661,M-1234,NDA,Medium,No,10,7,False
+R-4662,M-1090,NDA,Low,Yes,5,5,True
+R-4663,M-1496,Vendor Contract,High,No,10,3,False
+R-4664,M-1743,Regulatory Review,High,No,2,3,True
+R-4665,M-2942,Regulatory Review,High,No,2,5,True
+R-4666,M-2435,Regulatory Review,High,No,10,3,False
+R-4667,M-1888,Employment Issue,Medium,No,10,5,False
+R-4668,M-2623,Regulatory Review,Low,Yes,1,3,True
+R-4669,M-2165,Vendor Contract,High,Yes,3,7,True
+R-4670,M-3426,Regulatory Review,Medium,No,10,7,False
+R-4671,M-3212,NDA,Low,Yes,1,7,True
+R-4672,M-1237,Vendor Contract,Low,Yes,3,3,True
+R-4673,M-2507,NDA,High,Yes,1,5,True
+R-4674,M-3082,NDA,High,Yes,1,5,True
+R-4675,M-1692,Employment Issue,High,No,10,5,False
+R-4676,M-1053,Employment Issue,Low,No,5,5,True
+R-4677,M-3296,NDA,Medium,Yes,3,3,True
+R-4678,M-2615,Vendor Contract,Medium,No,2,7,True
+R-4679,M-3503,NDA,Medium,Yes,1,3,True
+R-4680,M-2239,NDA,High,No,2,5,True
+R-4681,M-3503,NDA,Medium,No,5,5,True
+R-4682,M-3641,Vendor Contract,High,No,2,3,True
+R-4683,M-3318,Vendor Contract,Medium,Yes,3,7,True
+R-4684,M-3089,Employment Issue,Low,No,5,5,True
+R-4685,M-3346,Employment Issue,Low,Yes,1,7,True
+R-4686,M-2060,Regulatory Review,High,Yes,3,5,True
+R-4687,M-2920,Vendor Contract,Medium,No,5,3,False
+R-4688,M-1865,Employment Issue,Medium,No,5,7,True
+R-4689,M-1043,Regulatory Review,Low,No,10,5,False
+R-4690,M-1467,Employment Issue,Low,No,10,7,False
+R-4691,M-2373,Vendor Contract,Medium,No,10,5,False
+R-4692,M-2491,Regulatory Review,Medium,Yes,6,5,False
+R-4693,M-2539,NDA,High,No,2,3,True
+R-4694,M-2138,Employment Issue,High,Yes,2,3,True
+R-4695,M-1324,NDA,Low,Yes,3,5,True
+R-4696,M-1575,Employment Issue,High,No,5,3,False
+R-4697,M-2007,Employment Issue,Medium,Yes,6,5,False
+R-4698,M-1807,Vendor Contract,Medium,Yes,6,5,False
+R-4699,M-3233,Regulatory Review,Medium,No,5,7,True
+R-4700,M-2560,Regulatory Review,High,No,2,5,True
+R-4701,M-1484,Employment Issue,Medium,No,2,3,True
+R-4702,M-2445,Regulatory Review,Medium,Yes,3,3,True
+R-4703,M-2315,Regulatory Review,High,No,2,7,True
+R-4704,M-3480,Vendor Contract,Low,No,2,3,True
+R-4705,M-2956,Employment Issue,Medium,Yes,1,5,True
+R-4706,M-3321,NDA,High,Yes,1,5,True
+R-4707,M-2974,Employment Issue,Medium,No,10,5,False
+R-4708,M-2315,Regulatory Review,High,No,5,7,True
+R-4709,M-3424,NDA,Medium,No,10,5,False
+R-4710,M-3145,Employment Issue,Medium,Yes,3,7,True
+R-4711,M-1797,Employment Issue,Low,No,5,3,False
+R-4712,M-2676,NDA,Medium,No,2,7,True
+R-4713,M-1075,Vendor Contract,Medium,No,2,5,True
+R-4714,M-3001,NDA,Low,No,2,5,True
+R-4715,M-1680,Regulatory Review,Medium,Yes,7,3,False
+R-4716,M-3734,Regulatory Review,Medium,No,10,7,False
+R-4717,M-1229,Vendor Contract,High,No,2,7,True
+R-4718,M-1436,Vendor Contract,High,No,10,7,False
+R-4719,M-2477,Regulatory Review,High,No,10,3,False
+R-4720,M-1106,Vendor Contract,Low,No,10,3,False
+R-4721,M-1100,Regulatory Review,Low,Yes,7,3,False
+R-4722,M-1964,Regulatory Review,Medium,No,2,5,True
+R-4723,M-1629,Regulatory Review,High,Yes,1,3,True
+R-4724,M-3249,NDA,High,No,10,5,False
+R-4725,M-2915,Employment Issue,High,Yes,5,3,False
+R-4726,M-1171,Employment Issue,Medium,Yes,1,3,True
+R-4727,M-1778,Employment Issue,Low,No,2,7,True
+R-4728,M-1953,NDA,Medium,No,5,3,False
+R-4729,M-1719,Employment Issue,High,Yes,7,7,True
+R-4730,M-3961,Regulatory Review,Medium,No,10,3,False
+R-4731,M-3546,NDA,High,No,10,3,False
+R-4732,M-3019,Vendor Contract,Medium,No,5,5,True
+R-4733,M-3242,NDA,High,No,10,5,False
+R-4734,M-1360,Regulatory Review,High,No,2,7,True
+R-4735,M-1268,Vendor Contract,Medium,No,10,7,False
+R-4736,M-3707,NDA,Medium,Yes,1,7,True
+R-4737,M-2958,Vendor Contract,High,Yes,1,3,True
+R-4738,M-1505,Employment Issue,Medium,No,2,5,True
+R-4739,M-3639,Employment Issue,Medium,Yes,1,7,True
+R-4740,M-1108,Employment Issue,Low,No,2,7,True
+R-4741,M-1473,Regulatory Review,Low,Yes,1,3,True
+R-4742,M-1777,Vendor Contract,High,No,2,5,True
+R-4743,M-1229,Employment Issue,Medium,No,2,7,True
+R-4744,M-1186,Vendor Contract,Low,Yes,1,5,True
+R-4745,M-3616,Vendor Contract,Low,No,5,7,True
+R-4746,M-1862,Vendor Contract,High,No,2,3,True
+R-4747,M-2725,Vendor Contract,Low,Yes,1,3,True
+R-4748,M-1866,Regulatory Review,Medium,Yes,5,3,False
+R-4749,M-1237,Employment Issue,Low,No,5,5,True
+R-4750,M-2619,Regulatory Review,High,No,2,5,True
+R-4751,M-2492,Regulatory Review,Medium,Yes,5,5,True
+R-4752,M-2624,Regulatory Review,High,Yes,6,3,False
+R-4753,M-3706,NDA,Medium,No,10,3,False
+R-4754,M-3482,Vendor Contract,Medium,Yes,5,7,True
+R-4755,M-3095,Employment Issue,Low,Yes,1,5,True
+R-4756,M-2872,NDA,Medium,Yes,1,3,True
+R-4757,M-2113,NDA,Medium,Yes,3,5,True
+R-4758,M-3507,NDA,High,Yes,2,5,True
+R-4759,M-3425,Vendor Contract,High,Yes,5,3,False
+R-4760,M-2632,Regulatory Review,High,Yes,1,7,True
+R-4761,M-2293,Employment Issue,Medium,No,5,5,True
+R-4762,M-3133,NDA,High,No,2,3,True
+R-4763,M-2230,Employment Issue,Low,No,2,3,True
+R-4764,M-3495,NDA,Medium,Yes,2,7,True
+R-4765,M-3602,Regulatory Review,Low,No,10,5,False
+R-4766,M-1363,Employment Issue,Low,No,10,7,False
+R-4767,M-1247,NDA,Medium,Yes,1,7,True
+R-4768,M-3033,Vendor Contract,Low,Yes,3,5,True
+R-4769,M-3048,Vendor Contract,Medium,No,5,7,True
+R-4770,M-3749,Employment Issue,High,No,5,7,True
+R-4771,M-3819,Vendor Contract,Low,No,2,5,True
+R-4772,M-2275,NDA,Medium,Yes,1,7,True
+R-4773,M-3534,NDA,Medium,Yes,3,3,True
+R-4774,M-3966,Regulatory Review,Medium,Yes,6,3,False
+R-4775,M-1826,Vendor Contract,Low,No,2,3,True
+R-4776,M-2288,NDA,High,No,5,3,False
+R-4777,M-1059,Regulatory Review,Medium,Yes,1,7,True
+R-4778,M-2542,Vendor Contract,Medium,No,2,7,True
+R-4779,M-2240,Employment Issue,High,Yes,1,7,True
+R-4780,M-2265,Vendor Contract,High,No,2,3,True
+R-4781,M-2098,Regulatory Review,Medium,No,5,5,True
+R-4782,M-2446,Vendor Contract,Medium,No,5,7,True
+R-4783,M-1880,Employment Issue,Low,No,10,3,False
+R-4784,M-3313,Employment Issue,Low,No,10,5,False
+R-4785,M-3881,Employment Issue,Low,Yes,1,5,True
+R-4786,M-3192,NDA,Medium,No,5,5,True
+R-4787,M-3373,Regulatory Review,Medium,No,5,5,True
+R-4788,M-1182,Vendor Contract,High,Yes,3,7,True
+R-4789,M-2284,Regulatory Review,High,Yes,7,5,False
+R-4790,M-2032,Regulatory Review,High,No,2,3,True
+R-4791,M-1927,Vendor Contract,High,Yes,3,7,True
+R-4792,M-1387,Vendor Contract,Medium,No,5,5,True
+R-4793,M-3515,Regulatory Review,High,Yes,6,3,False
+R-4794,M-3261,Employment Issue,Medium,Yes,2,7,True
+R-4795,M-2459,Employment Issue,High,No,10,7,False
+R-4796,M-2515,Regulatory Review,High,Yes,7,3,False
+R-4797,M-2154,Employment Issue,Medium,Yes,3,3,True
+R-4798,M-1819,NDA,High,Yes,5,3,False
+R-4799,M-3572,Regulatory Review,High,Yes,1,7,True
+R-4800,M-1382,NDA,Medium,Yes,3,3,True
+R-4801,M-1758,NDA,Medium,Yes,5,3,False
+R-4802,M-2964,Vendor Contract,Medium,Yes,5,7,True
+R-4803,M-1542,Employment Issue,Medium,No,2,7,True
+R-4804,M-3934,Employment Issue,Medium,Yes,3,5,True
+R-4805,M-3039,Vendor Contract,Medium,Yes,3,5,True
+R-4806,M-2126,Employment Issue,High,No,10,5,False
+R-4807,M-2680,Employment Issue,Low,Yes,5,5,True
+R-4808,M-3179,Employment Issue,High,Yes,3,7,True
+R-4809,M-3833,Regulatory Review,High,No,10,3,False
+R-4810,M-2855,NDA,Medium,Yes,7,5,False
+R-4811,M-2098,Vendor Contract,Medium,Yes,7,5,False
+R-4812,M-2107,Regulatory Review,Low,No,2,5,True
+R-4813,M-3329,NDA,Low,Yes,1,7,True
+R-4814,M-1802,Vendor Contract,High,Yes,5,5,True
+R-4815,M-3473,NDA,Medium,Yes,3,7,True
+R-4816,M-3133,NDA,High,Yes,3,7,True
+R-4817,M-1934,NDA,Low,No,10,7,False
+R-4818,M-3489,NDA,High,Yes,7,7,True
+R-4819,M-2169,Vendor Contract,High,No,5,3,False
+R-4820,M-3151,Vendor Contract,Low,Yes,7,3,False
+R-4821,M-1808,Employment Issue,Low,No,5,3,False
+R-4822,M-2750,Vendor Contract,High,No,5,7,True
+R-4823,M-3601,Vendor Contract,Low,No,2,3,True
+R-4824,M-1328,Vendor Contract,High,No,10,7,False
+R-4825,M-3502,Regulatory Review,High,Yes,3,3,True
+R-4826,M-2926,Regulatory Review,Low,No,5,7,True
+R-4827,M-2716,Vendor Contract,Low,Yes,7,5,False
+R-4828,M-1044,Employment Issue,Medium,No,5,5,True
+R-4829,M-3871,Employment Issue,High,Yes,3,3,True
+R-4830,M-2233,Regulatory Review,Low,No,10,7,False
+R-4831,M-1090,Regulatory Review,Medium,Yes,1,3,True
+R-4832,M-3229,Regulatory Review,Medium,No,2,5,True
+R-4833,M-3428,Vendor Contract,Medium,Yes,6,3,False
+R-4834,M-1494,Vendor Contract,High,No,2,5,True
+R-4835,M-1297,Employment Issue,High,No,5,3,False
+R-4836,M-2865,Regulatory Review,Medium,No,5,3,False
+R-4837,M-2299,NDA,Medium,Yes,1,5,True
+R-4838,M-3327,Vendor Contract,High,No,10,7,False
+R-4839,M-2357,Vendor Contract,Low,Yes,3,3,True
+R-4840,M-2113,Employment Issue,Low,Yes,1,7,True
+R-4841,M-2289,Vendor Contract,Medium,No,5,5,True
+R-4842,M-1158,NDA,High,No,5,5,True
+R-4843,M-2034,Vendor Contract,Medium,No,2,7,True
+R-4844,M-2879,Regulatory Review,High,No,5,7,True
+R-4845,M-2420,Regulatory Review,High,No,2,7,True
+R-4846,M-3513,Vendor Contract,Medium,No,5,7,True
+R-4847,M-1933,Vendor Contract,Low,Yes,7,3,False
+R-4848,M-3688,Employment Issue,Medium,No,2,5,True
+R-4849,M-2499,NDA,Medium,Yes,2,3,True
+R-4850,M-1163,Vendor Contract,High,No,2,3,True
+R-4851,M-3222,Employment Issue,High,Yes,1,3,True
+R-4852,M-1006,Vendor Contract,Low,No,10,5,False
+R-4853,M-3956,Vendor Contract,Low,No,2,7,True
+R-4854,M-3712,Regulatory Review,High,Yes,2,7,True
+R-4855,M-2473,Employment Issue,Medium,Yes,1,5,True
+R-4856,M-3233,NDA,Medium,No,5,5,True
+R-4857,M-2212,Regulatory Review,Low,Yes,3,5,True
+R-4858,M-1268,Vendor Contract,Low,No,2,7,True
+R-4859,M-2666,Employment Issue,High,Yes,7,7,True
+R-4860,M-1004,Vendor Contract,High,No,5,7,True
+R-4861,M-1459,Vendor Contract,High,Yes,7,7,True
+R-4862,M-3879,NDA,High,No,10,5,False
+R-4863,M-3680,Vendor Contract,Medium,No,5,5,True
+R-4864,M-1836,Regulatory Review,Medium,No,2,7,True
+R-4865,M-1218,Employment Issue,Medium,No,5,3,False
+R-4866,M-1007,Employment Issue,Medium,Yes,3,5,True
+R-4867,M-1613,Employment Issue,High,No,5,7,True
+R-4868,M-2232,NDA,High,Yes,1,5,True
+R-4869,M-3313,Regulatory Review,High,Yes,2,3,True
+R-4870,M-1758,NDA,Medium,No,2,3,True
+R-4871,M-2689,Regulatory Review,Low,Yes,1,3,True
+R-4872,M-1018,Regulatory Review,High,Yes,1,5,True
+R-4873,M-1574,Employment Issue,Low,Yes,1,3,True
+R-4874,M-1159,Employment Issue,Medium,No,10,5,False
+R-4875,M-1900,Employment Issue,Medium,No,5,5,True
+R-4876,M-3712,Vendor Contract,Low,Yes,6,3,False
+R-4877,M-1462,Vendor Contract,Medium,Yes,1,5,True
+R-4878,M-1204,NDA,High,No,5,3,False
+R-4879,M-3597,Regulatory Review,Low,No,5,5,True
+R-4880,M-1711,Employment Issue,Low,No,10,7,False
+R-4881,M-1097,NDA,Medium,Yes,3,5,True
+R-4882,M-1005,Vendor Contract,High,Yes,3,5,True
+R-4883,M-2194,Employment Issue,Medium,Yes,3,3,True
+R-4884,M-1538,NDA,Medium,No,10,3,False
+R-4885,M-1735,Vendor Contract,Low,No,2,7,True
+R-4886,M-1487,Regulatory Review,Medium,Yes,1,3,True
+R-4887,M-3590,Vendor Contract,Medium,Yes,7,7,True
+R-4888,M-2670,Vendor Contract,Medium,Yes,3,5,True
+R-4889,M-1014,NDA,Medium,Yes,3,3,True
+R-4890,M-2130,Regulatory Review,High,No,10,7,False
+R-4891,M-3538,Employment Issue,Low,Yes,5,5,True
+R-4892,M-3802,Regulatory Review,High,Yes,3,7,True
+R-4893,M-3781,Vendor Contract,High,No,5,5,True
+R-4894,M-3958,Employment Issue,Medium,Yes,2,7,True
+R-4895,M-3157,Vendor Contract,Low,Yes,6,5,False
+R-4896,M-2234,Vendor Contract,Low,Yes,1,7,True
+R-4897,M-1317,NDA,Medium,Yes,6,5,False
+R-4898,M-1744,Regulatory Review,High,No,10,5,False
+R-4899,M-3748,Vendor Contract,High,Yes,7,7,True
+R-4900,M-2435,Employment Issue,Low,Yes,3,3,True
+R-4901,M-3612,Regulatory Review,Medium,Yes,1,3,True
+R-4902,M-2799,NDA,Low,No,10,5,False
+R-4903,M-1834,Vendor Contract,Low,Yes,6,5,False
+R-4904,M-3819,NDA,Low,No,5,7,True
+R-4905,M-1244,Regulatory Review,High,No,2,5,True
+R-4906,M-1394,Employment Issue,Medium,No,2,3,True
+R-4907,M-2005,Regulatory Review,Medium,No,5,7,True
+R-4908,M-1106,Regulatory Review,High,No,5,3,False
+R-4909,M-1583,NDA,Medium,No,5,3,False
+R-4910,M-1647,Vendor Contract,High,No,10,7,False
+R-4911,M-2563,Vendor Contract,Medium,No,2,5,True
+R-4912,M-3055,Vendor Contract,Low,No,2,3,True
+R-4913,M-3187,NDA,Medium,Yes,1,3,True
+R-4914,M-3308,Vendor Contract,Low,No,5,5,True
+R-4915,M-2167,Vendor Contract,Low,Yes,7,3,False
+R-4916,M-1626,NDA,Medium,No,5,5,True
+R-4917,M-1391,Regulatory Review,Low,Yes,2,5,True
+R-4918,M-2172,Employment Issue,Medium,Yes,1,7,True
+R-4919,M-3964,Employment Issue,High,Yes,5,7,True
+R-4920,M-1042,Vendor Contract,High,Yes,1,3,True
+R-4921,M-2216,Regulatory Review,High,Yes,1,7,True
+R-4922,M-3681,Employment Issue,Low,Yes,1,7,True
+R-4923,M-1273,Regulatory Review,Medium,Yes,5,7,True
+R-4924,M-1807,Regulatory Review,Low,Yes,2,5,True
+R-4925,M-1980,Regulatory Review,Low,Yes,2,3,True
+R-4926,M-2004,NDA,Low,No,5,5,True
+R-4927,M-2244,NDA,Low,No,10,3,False
+R-4928,M-3162,NDA,Low,No,5,3,False
+R-4929,M-3671,NDA,High,No,10,3,False
+R-4930,M-3806,Regulatory Review,High,Yes,1,3,True
+R-4931,M-1312,Regulatory Review,High,No,10,5,False
+R-4932,M-3802,Vendor Contract,High,Yes,1,5,True
+R-4933,M-3843,NDA,Low,No,2,7,True
+R-4934,M-3263,Regulatory Review,High,Yes,1,3,True
+R-4935,M-3537,Regulatory Review,Low,Yes,2,7,True
+R-4936,M-1197,Regulatory Review,Low,Yes,6,5,False
+R-4937,M-1937,Regulatory Review,High,No,5,5,True
+R-4938,M-1516,Regulatory Review,Low,No,2,7,True
+R-4939,M-1438,Regulatory Review,High,No,10,5,False
+R-4940,M-2069,Employment Issue,High,No,5,5,True
+R-4941,M-1440,Regulatory Review,Medium,No,5,5,True
+R-4942,M-1062,Vendor Contract,Medium,No,5,7,True
+R-4943,M-1428,Regulatory Review,Low,Yes,1,7,True
+R-4944,M-1834,Vendor Contract,Low,Yes,1,7,True
+R-4945,M-2472,Vendor Contract,Medium,Yes,7,3,False
+R-4946,M-1658,Regulatory Review,Low,Yes,1,5,True
+R-4947,M-1866,Regulatory Review,Low,No,10,3,False
+R-4948,M-2936,NDA,High,No,10,7,False
+R-4949,M-2499,NDA,Low,No,5,3,False
+R-4950,M-1835,Vendor Contract,Medium,Yes,5,5,True
+R-4951,M-2378,Regulatory Review,High,No,2,5,True
+R-4952,M-3664,Vendor Contract,Medium,Yes,1,3,True
+R-4953,M-3639,NDA,Low,Yes,1,5,True
+R-4954,M-3412,Vendor Contract,Low,No,2,3,True
+R-4955,M-1097,Regulatory Review,Low,Yes,2,7,True
+R-4956,M-2023,Employment Issue,High,No,2,7,True
+R-4957,M-2130,NDA,Low,No,2,7,True
+R-4958,M-1280,NDA,Low,Yes,5,7,True
+R-4959,M-3088,Vendor Contract,Medium,No,10,7,False
+R-4960,M-2295,Regulatory Review,Low,No,10,7,False
+R-4961,M-3322,Employment Issue,High,No,5,7,True
+R-4962,M-3167,Vendor Contract,High,Yes,3,5,True
+R-4963,M-2575,NDA,Low,No,10,3,False
+R-4964,M-2533,NDA,Medium,No,2,3,True
+R-4965,M-3015,Regulatory Review,Medium,No,5,3,False
+R-4966,M-3741,Vendor Contract,Low,Yes,1,5,True
+R-4967,M-2621,Employment Issue,Medium,Yes,1,7,True
+R-4968,M-3224,Regulatory Review,Low,No,10,7,False
+R-4969,M-3039,Regulatory Review,Medium,No,5,7,True
+R-4970,M-2537,Regulatory Review,Medium,Yes,1,7,True
+R-4971,M-3148,Regulatory Review,High,Yes,7,3,False
+R-4972,M-1263,Employment Issue,High,Yes,6,7,True
+R-4973,M-3322,Employment Issue,High,Yes,2,3,True
+R-4974,M-1670,Vendor Contract,Medium,No,5,7,True
+R-4975,M-2385,Regulatory Review,High,No,10,7,False
+R-4976,M-3762,Regulatory Review,Low,Yes,5,7,True
+R-4977,M-2731,NDA,Low,Yes,1,7,True
+R-4978,M-3591,Employment Issue,Low,No,10,7,False
+R-4979,M-3907,Vendor Contract,High,No,10,7,False
+R-4980,M-3649,Vendor Contract,Medium,No,5,5,True
+R-4981,M-3126,Employment Issue,Low,Yes,1,7,True
+R-4982,M-1821,Vendor Contract,High,Yes,6,3,False
+R-4983,M-3602,NDA,Medium,Yes,3,3,True
+R-4984,M-2286,Regulatory Review,High,Yes,1,3,True
+R-4985,M-2374,Employment Issue,High,Yes,6,3,False
+R-4986,M-3016,Employment Issue,High,No,10,7,False
+R-4987,M-3320,Regulatory Review,Low,No,10,3,False
+R-4988,M-1800,Vendor Contract,Medium,No,5,7,True
+R-4989,M-2962,Vendor Contract,High,No,10,5,False
+R-4990,M-1640,Regulatory Review,Low,Yes,2,5,True
+R-4991,M-1401,NDA,Medium,No,2,7,True
+R-4992,M-3064,Regulatory Review,Low,Yes,1,5,True
+R-4993,M-1503,Regulatory Review,High,Yes,1,7,True
+R-4994,M-3834,Employment Issue,Medium,No,5,5,True
+R-4995,M-3800,Employment Issue,Medium,No,10,5,False
+R-4996,M-1843,Regulatory Review,High,No,10,7,False
+R-4997,M-1432,Vendor Contract,Low,Yes,7,7,True
+R-4998,M-2836,Employment Issue,Low,Yes,1,5,True
+R-4999,M-1011,Employment Issue,Medium,Yes,3,3,True
+R-5000,M-1990,Vendor Contract,Low,No,10,7,False
+R-5001,M-3031,NDA,High,Yes,7,3,False
+R-5002,M-3457,Regulatory Review,High,Yes,1,7,True
+R-5003,M-1195,Vendor Contract,Low,No,10,3,False
+R-5004,M-3137,Employment Issue,High,Yes,5,3,False
+R-5005,M-1961,Regulatory Review,Medium,No,2,5,True
+R-5006,M-1053,Vendor Contract,Medium,Yes,2,3,True
+R-5007,M-2245,Employment Issue,High,No,10,7,False
+R-5008,M-3347,Regulatory Review,Low,Yes,6,7,True
+R-5009,M-2356,Vendor Contract,Low,Yes,1,5,True
+R-5010,M-2609,Regulatory Review,High,Yes,1,3,True
+R-5011,M-1381,Employment Issue,High,No,10,3,False
+R-5012,M-1386,NDA,Low,No,10,3,False
+R-5013,M-3681,NDA,Low,Yes,1,7,True
+R-5014,M-3520,Employment Issue,Medium,No,2,7,True
+R-5015,M-2828,Employment Issue,Low,No,10,3,False
+R-5016,M-3119,Regulatory Review,Medium,No,5,3,False
+R-5017,M-2840,Employment Issue,High,Yes,5,7,True
+R-5018,M-1291,Vendor Contract,High,Yes,3,3,True
+R-5019,M-1216,Employment Issue,Low,Yes,3,5,True
+R-5020,M-2920,NDA,High,No,10,5,False
+R-5021,M-1714,Employment Issue,High,Yes,6,7,True
+R-5022,M-3901,Employment Issue,Low,No,2,7,True
+R-5023,M-2387,Vendor Contract,High,Yes,5,5,True
+R-5024,M-2006,Employment Issue,Medium,Yes,1,3,True
+R-5025,M-3284,NDA,Medium,No,5,5,True
+R-5026,M-1691,Regulatory Review,High,No,2,3,True
+R-5027,M-3145,Regulatory Review,High,No,10,5,False
+R-5028,M-1628,Vendor Contract,Low,Yes,1,3,True
+R-5029,M-3783,Regulatory Review,Low,Yes,1,3,True
+R-5030,M-3364,Vendor Contract,High,Yes,1,5,True
+R-5031,M-3731,Employment Issue,High,No,5,3,False
+R-5032,M-1951,NDA,Low,No,2,7,True
+R-5033,M-2883,NDA,Low,Yes,3,7,True
+R-5034,M-2337,Vendor Contract,High,No,10,3,False
+R-5035,M-2672,Employment Issue,Medium,Yes,2,5,True
+R-5036,M-2248,NDA,Medium,Yes,3,5,True
+R-5037,M-3765,Employment Issue,High,Yes,5,5,True
+R-5038,M-1898,NDA,High,No,10,3,False
+R-5039,M-3141,Vendor Contract,Low,No,5,3,False
+R-5040,M-2365,Vendor Contract,Low,Yes,3,7,True
+R-5041,M-2357,Regulatory Review,Medium,No,2,3,True
+R-5042,M-1407,Vendor Contract,Medium,Yes,1,7,True
+R-5043,M-1035,Regulatory Review,Low,Yes,1,7,True
+R-5044,M-2426,Vendor Contract,Low,No,10,3,False
+R-5045,M-3643,Regulatory Review,Medium,Yes,3,3,True
+R-5046,M-3467,NDA,Low,Yes,1,7,True
+R-5047,M-2692,Employment Issue,Medium,Yes,7,3,False
+R-5048,M-1695,Employment Issue,Low,Yes,3,5,True
+R-5049,M-2646,Regulatory Review,Medium,Yes,1,5,True
+R-5050,M-3699,Regulatory Review,Medium,Yes,3,7,True
+R-5051,M-3087,Employment Issue,High,Yes,7,3,False
+R-5052,M-2330,NDA,Low,Yes,6,5,False
+R-5053,M-1541,Employment Issue,Medium,No,10,5,False
+R-5054,M-3703,Employment Issue,Medium,Yes,7,7,True
+R-5055,M-1607,NDA,Low,Yes,2,5,True
+R-5056,M-3330,Employment Issue,High,No,5,5,True
+R-5057,M-1998,NDA,Medium,Yes,5,3,False
+R-5058,M-1781,Regulatory Review,High,No,10,5,False
+R-5059,M-3576,Vendor Contract,Medium,Yes,3,7,True
+R-5060,M-3668,Employment Issue,Low,Yes,5,3,False
+R-5061,M-2993,Regulatory Review,Medium,Yes,1,3,True
+R-5062,M-3131,NDA,Medium,Yes,3,3,True
+R-5063,M-3632,Employment Issue,Low,Yes,5,5,True
+R-5064,M-1225,Vendor Contract,High,Yes,3,7,True
+R-5065,M-3927,Vendor Contract,Medium,Yes,5,3,False
+R-5066,M-3891,NDA,High,No,5,5,True
+R-5067,M-2210,Regulatory Review,High,Yes,1,3,True
+R-5068,M-3167,Regulatory Review,Medium,Yes,1,3,True
+R-5069,M-2207,Employment Issue,Low,Yes,7,3,False
+R-5070,M-2427,Regulatory Review,High,Yes,1,3,True
+R-5071,M-1983,NDA,Low,No,10,3,False
+R-5072,M-2372,Employment Issue,Low,No,10,3,False
+R-5073,M-3681,Vendor Contract,Medium,No,10,7,False
+R-5074,M-2053,Employment Issue,High,No,10,5,False
+R-5075,M-2671,Employment Issue,High,No,10,7,False
+R-5076,M-1058,Regulatory Review,Medium,No,2,3,True
+R-5077,M-2570,Regulatory Review,Medium,Yes,1,5,True
+R-5078,M-2942,Regulatory Review,High,Yes,6,5,False
+R-5079,M-1606,Employment Issue,Low,No,2,5,True
+R-5080,M-1603,Vendor Contract,Low,No,10,3,False
+R-5081,M-3927,NDA,High,No,10,7,False
+R-5082,M-2447,Employment Issue,Low,No,10,7,False
+R-5083,M-1031,NDA,Medium,No,5,7,True
+R-5084,M-3300,NDA,Medium,No,5,3,False
+R-5085,M-3525,Vendor Contract,Low,No,5,3,False
+R-5086,M-1451,Employment Issue,High,Yes,1,3,True
+R-5087,M-1946,Employment Issue,Medium,No,5,5,True
+R-5088,M-2899,Vendor Contract,High,No,2,5,True
+R-5089,M-3147,Employment Issue,High,Yes,1,5,True
+R-5090,M-1838,NDA,High,Yes,3,5,True
+R-5091,M-1627,NDA,High,Yes,7,3,False
+R-5092,M-3813,NDA,Medium,No,10,7,False
+R-5093,M-1665,Vendor Contract,High,Yes,3,5,True
+R-5094,M-1633,NDA,Medium,Yes,2,5,True
+R-5095,M-3402,NDA,Low,Yes,3,3,True
+R-5096,M-1657,NDA,Medium,Yes,5,5,True
+R-5097,M-3254,Vendor Contract,High,No,5,3,False
+R-5098,M-3018,Employment Issue,Low,Yes,7,5,False
+R-5099,M-1550,NDA,Medium,Yes,1,7,True
+R-5100,M-3609,NDA,High,No,2,5,True
+R-5101,M-1882,Regulatory Review,High,No,10,5,False
+R-5102,M-1783,NDA,High,No,5,5,True
+R-5103,M-1340,NDA,Medium,No,2,5,True
+R-5104,M-2725,Vendor Contract,Low,No,5,5,True
+R-5105,M-2239,Employment Issue,High,No,5,3,False
+R-5106,M-2057,Employment Issue,Medium,No,2,7,True
+R-5107,M-1528,Vendor Contract,Low,Yes,5,3,False
+R-5108,M-3735,Regulatory Review,Medium,No,5,3,False
+R-5109,M-2549,NDA,High,Yes,1,7,True
+R-5110,M-3507,Employment Issue,High,Yes,1,5,True
+R-5111,M-2593,Vendor Contract,High,No,10,5,False
+R-5112,M-3150,Employment Issue,Low,No,10,3,False
+R-5113,M-3384,Regulatory Review,High,No,10,3,False
+R-5114,M-2049,Regulatory Review,Medium,Yes,1,3,True
+R-5115,M-1765,NDA,High,Yes,1,7,True
+R-5116,M-2409,Regulatory Review,Medium,Yes,3,5,True
+R-5117,M-1865,Employment Issue,Low,Yes,1,7,True
+R-5118,M-3802,Vendor Contract,High,Yes,1,7,True
+R-5119,M-1424,NDA,Medium,Yes,5,5,True
+R-5120,M-2338,Regulatory Review,Low,No,10,3,False
+R-5121,M-2514,Vendor Contract,High,No,2,3,True
+R-5122,M-1691,Vendor Contract,High,No,2,3,True
+R-5123,M-3944,Regulatory Review,Medium,No,2,7,True
+R-5124,M-2571,NDA,High,Yes,1,7,True
+R-5125,M-1517,NDA,Medium,Yes,1,3,True
+R-5126,M-2346,Vendor Contract,Low,Yes,7,7,True
+R-5127,M-1041,NDA,Medium,No,10,5,False
+R-5128,M-1445,NDA,Medium,Yes,3,7,True
+R-5129,M-2901,NDA,Medium,No,10,5,False
+R-5130,M-3547,Regulatory Review,Medium,Yes,1,3,True
+R-5131,M-3081,NDA,Low,Yes,3,7,True
+R-5132,M-1321,NDA,Low,No,10,5,False
+R-5133,M-2467,NDA,Medium,No,2,7,True
+R-5134,M-1894,Vendor Contract,Medium,Yes,2,3,True
+R-5135,M-3828,Regulatory Review,Medium,Yes,7,3,False
+R-5136,M-1530,NDA,Low,No,2,5,True
+R-5137,M-3540,NDA,Low,No,2,5,True
+R-5138,M-3148,Employment Issue,Medium,Yes,1,7,True
+R-5139,M-3775,Vendor Contract,High,Yes,1,7,True
+R-5140,M-3622,Regulatory Review,Low,No,10,7,False
+R-5141,M-1492,Regulatory Review,Medium,Yes,6,5,False
+R-5142,M-2650,Employment Issue,High,Yes,3,3,True
+R-5143,M-2618,Vendor Contract,Low,Yes,2,5,True
+R-5144,M-1385,Regulatory Review,High,Yes,2,3,True
+R-5145,M-1647,Regulatory Review,Medium,Yes,6,5,False
+R-5146,M-2972,NDA,High,Yes,1,3,True
+R-5147,M-2349,NDA,High,No,2,3,True
+R-5148,M-3615,Regulatory Review,Low,Yes,2,3,True
+R-5149,M-1141,Regulatory Review,High,Yes,3,5,True
+R-5150,M-1209,Regulatory Review,Medium,No,10,3,False
+R-5151,M-1793,Vendor Contract,Medium,Yes,3,7,True
+R-5152,M-1089,NDA,Medium,No,10,7,False
+R-5153,M-1839,Vendor Contract,Medium,Yes,3,3,True
+R-5154,M-3929,Vendor Contract,Medium,Yes,3,7,True
+R-5155,M-2947,Employment Issue,Medium,No,5,7,True
+R-5156,M-3203,Employment Issue,Medium,Yes,1,7,True
+R-5157,M-1221,Regulatory Review,Low,Yes,1,3,True
+R-5158,M-3990,Regulatory Review,Low,No,5,5,True
+R-5159,M-2885,NDA,Medium,No,2,3,True
+R-5160,M-1519,Regulatory Review,Low,No,2,7,True
+R-5161,M-2800,Employment Issue,High,No,2,3,True
+R-5162,M-3981,Employment Issue,High,No,2,5,True
+R-5163,M-3101,Vendor Contract,Low,Yes,1,3,True
+R-5164,M-3159,Vendor Contract,Medium,Yes,1,7,True
+R-5165,M-3240,Regulatory Review,Medium,No,10,3,False
+R-5166,M-1016,Vendor Contract,High,No,2,7,True
+R-5167,M-3696,NDA,Low,Yes,7,7,True
+R-5168,M-2966,Vendor Contract,Medium,No,2,7,True
+R-5169,M-3496,Employment Issue,Medium,Yes,5,3,False
+R-5170,M-3531,Vendor Contract,Medium,No,2,3,True
+R-5171,M-2957,NDA,High,No,10,3,False
+R-5172,M-2709,NDA,Low,Yes,1,3,True
+R-5173,M-1785,NDA,Medium,Yes,1,5,True
+R-5174,M-1744,Regulatory Review,High,Yes,6,5,False
+R-5175,M-2487,Vendor Contract,Low,No,5,3,False
+R-5176,M-3692,Vendor Contract,Low,Yes,1,7,True
+R-5177,M-2391,NDA,Low,No,10,5,False
+R-5178,M-1128,Regulatory Review,Low,No,5,3,False
+R-5179,M-3533,Vendor Contract,Low,No,5,5,True
+R-5180,M-3464,NDA,Low,No,5,5,True
+R-5181,M-1440,NDA,Low,Yes,1,5,True
+R-5182,M-2079,Regulatory Review,Low,No,2,3,True
+R-5183,M-3991,NDA,High,No,10,3,False
+R-5184,M-3333,Regulatory Review,High,Yes,6,7,True
+R-5185,M-1656,Regulatory Review,High,Yes,2,3,True
+R-5186,M-3073,Regulatory Review,Low,Yes,1,5,True
+R-5187,M-2205,Employment Issue,Low,No,2,5,True
+R-5188,M-3272,Vendor Contract,Medium,No,10,7,False
+R-5189,M-2045,Regulatory Review,Medium,No,2,5,True
+R-5190,M-2353,Employment Issue,Medium,No,2,5,True
+R-5191,M-1901,Regulatory Review,High,No,10,7,False
+R-5192,M-2900,Regulatory Review,High,Yes,1,5,True
+R-5193,M-2571,NDA,High,Yes,3,5,True
+R-5194,M-3098,Vendor Contract,Low,No,10,3,False
+R-5195,M-1781,Regulatory Review,High,Yes,2,3,True
+R-5196,M-2108,Vendor Contract,High,Yes,7,7,True
+R-5197,M-3848,NDA,Medium,Yes,1,3,True
+R-5198,M-1114,Vendor Contract,Medium,No,5,3,False
+R-5199,M-2585,NDA,Medium,No,10,3,False
+R-5200,M-2346,Employment Issue,Medium,No,2,7,True
+R-5201,M-3976,NDA,High,Yes,2,7,True
+R-5202,M-1469,Regulatory Review,High,No,10,3,False
+R-5203,M-1978,Regulatory Review,Medium,No,10,7,False
+R-5204,M-3173,Employment Issue,Medium,No,2,5,True
+R-5205,M-3976,Employment Issue,Low,Yes,1,7,True
+R-5206,M-2873,Vendor Contract,Low,No,5,3,False
+R-5207,M-3716,Vendor Contract,Medium,No,5,7,True
+R-5208,M-2125,NDA,High,No,2,3,True
+R-5209,M-3055,NDA,Low,No,2,3,True
+R-5210,M-1105,Regulatory Review,High,No,10,3,False
+R-5211,M-2454,NDA,Medium,No,5,5,True
+R-5212,M-3262,Vendor Contract,Medium,Yes,1,7,True
+R-5213,M-3178,Vendor Contract,High,No,10,5,False
+R-5214,M-3920,Regulatory Review,Low,Yes,3,5,True
+R-5215,M-2745,Vendor Contract,High,No,10,5,False
+R-5216,M-1578,NDA,High,Yes,6,5,False
+R-5217,M-3532,Regulatory Review,Low,No,5,7,True
+R-5218,M-2464,Vendor Contract,Medium,No,10,7,False
+R-5219,M-3222,Regulatory Review,High,Yes,3,5,True
+R-5220,M-1536,Regulatory Review,Medium,Yes,1,7,True
+R-5221,M-1499,Vendor Contract,High,No,10,3,False
+R-5222,M-1542,Employment Issue,Low,No,2,5,True
+R-5223,M-2669,NDA,Medium,No,5,7,True
+R-5224,M-1026,Regulatory Review,Low,No,10,5,False
+R-5225,M-1935,Regulatory Review,Medium,No,2,5,True
+R-5226,M-2725,Regulatory Review,Medium,No,2,3,True
+R-5227,M-3993,NDA,Low,No,10,7,False
+R-5228,M-2480,NDA,High,No,2,3,True
+R-5229,M-2228,Employment Issue,High,Yes,6,7,True
+R-5230,M-2747,Employment Issue,Low,Yes,1,3,True
+R-5231,M-3996,Vendor Contract,Low,Yes,1,5,True
+R-5232,M-1892,NDA,High,No,2,7,True
+R-5233,M-2188,Regulatory Review,Low,No,2,3,True
+R-5234,M-3669,NDA,High,Yes,7,3,False
+R-5235,M-1889,Employment Issue,Low,No,2,7,True
+R-5236,M-2087,Employment Issue,High,Yes,5,5,True
+R-5237,M-1919,NDA,High,No,5,3,False
+R-5238,M-2417,NDA,High,Yes,3,5,True
+R-5239,M-1135,Regulatory Review,Low,No,2,3,True
+R-5240,M-3266,Employment Issue,High,No,2,5,True
+R-5241,M-2906,NDA,Low,Yes,3,7,True
+R-5242,M-2273,NDA,Low,Yes,2,7,True
+R-5243,M-1112,Employment Issue,Low,No,5,5,True
+R-5244,M-3088,NDA,Low,No,5,5,True
+R-5245,M-3287,Regulatory Review,Low,Yes,2,3,True
+R-5246,M-3751,Employment Issue,High,No,2,3,True
+R-5247,M-3875,Employment Issue,High,Yes,7,5,False
+R-5248,M-3957,Regulatory Review,Low,Yes,3,7,True
+R-5249,M-2920,Regulatory Review,Medium,No,5,3,False
+R-5250,M-2738,Vendor Contract,High,No,2,3,True
+R-5251,M-2040,Vendor Contract,High,Yes,1,7,True
+R-5252,M-2504,Vendor Contract,Medium,No,10,7,False
+R-5253,M-2174,Employment Issue,Low,Yes,1,7,True
+R-5254,M-1368,Vendor Contract,Medium,No,2,5,True
+R-5255,M-1378,Employment Issue,Low,Yes,3,7,True
+R-5256,M-3435,Employment Issue,Low,No,5,5,True
+R-5257,M-1796,Regulatory Review,High,No,5,3,False
+R-5258,M-3889,Regulatory Review,Medium,Yes,2,7,True
+R-5259,M-1441,Employment Issue,High,Yes,3,5,True
+R-5260,M-2274,Vendor Contract,Low,Yes,3,7,True
+R-5261,M-1183,Regulatory Review,Low,Yes,1,5,True
+R-5262,M-1296,NDA,High,Yes,3,5,True
+R-5263,M-3958,Employment Issue,Low,Yes,3,5,True
+R-5264,M-1743,Regulatory Review,High,No,2,3,True
+R-5265,M-2982,Employment Issue,Low,Yes,1,7,True
+R-5266,M-2309,Vendor Contract,Medium,No,10,3,False
+R-5267,M-2362,Regulatory Review,Low,Yes,1,5,True
+R-5268,M-2182,NDA,Low,No,2,7,True
+R-5269,M-2633,Employment Issue,Medium,Yes,1,7,True
+R-5270,M-1281,Employment Issue,Low,No,5,7,True
+R-5271,M-2694,Vendor Contract,Low,Yes,5,3,False
+R-5272,M-1819,Regulatory Review,Low,Yes,1,5,True
+R-5273,M-2858,Regulatory Review,Low,Yes,1,3,True
+R-5274,M-1318,Regulatory Review,Low,No,10,5,False
+R-5275,M-3609,Regulatory Review,Medium,Yes,1,3,True
+R-5276,M-1700,Vendor Contract,Medium,No,5,5,True
+R-5277,M-2734,Regulatory Review,Low,No,2,7,True
+R-5278,M-1149,Employment Issue,Low,Yes,6,3,False
+R-5279,M-3989,NDA,High,Yes,1,5,True
+R-5280,M-1224,Vendor Contract,High,No,10,7,False
+R-5281,M-1563,Employment Issue,Medium,Yes,5,7,True
+R-5282,M-3428,Vendor Contract,High,Yes,1,7,True
+R-5283,M-1734,Vendor Contract,High,Yes,6,7,True
+R-5284,M-3931,NDA,Medium,No,10,7,False
+R-5285,M-2554,Employment Issue,Medium,No,5,7,True
+R-5286,M-2295,Employment Issue,High,No,10,5,False
+R-5287,M-1490,Vendor Contract,Medium,No,5,5,True
+R-5288,M-3339,Employment Issue,Medium,Yes,5,5,True
+R-5289,M-3171,Vendor Contract,High,No,5,3,False
+R-5290,M-3507,Employment Issue,Medium,No,2,5,True
+R-5291,M-3888,Vendor Contract,High,No,10,7,False
+R-5292,M-3671,NDA,Low,No,5,5,True
+R-5293,M-1365,Vendor Contract,High,No,5,5,True
+R-5294,M-1706,Employment Issue,High,Yes,1,5,True
+R-5295,M-3922,Employment Issue,Low,Yes,3,7,True
+R-5296,M-1490,Regulatory Review,High,Yes,2,3,True
+R-5297,M-2547,Vendor Contract,Medium,Yes,5,3,False
+R-5298,M-3667,Employment Issue,High,No,10,5,False
+R-5299,M-3633,NDA,Medium,Yes,1,5,True
+R-5300,M-3803,Regulatory Review,High,No,10,3,False
+R-5301,M-3359,NDA,Medium,Yes,3,3,True
+R-5302,M-3030,Employment Issue,Medium,No,5,3,False
+R-5303,M-2282,NDA,Medium,Yes,5,7,True
+R-5304,M-1886,Employment Issue,Low,No,10,7,False
+R-5305,M-2602,Vendor Contract,Medium,No,2,5,True
+R-5306,M-2591,Regulatory Review,Low,Yes,6,7,True
+R-5307,M-2226,Regulatory Review,Medium,Yes,7,3,False
+R-5308,M-1800,Employment Issue,Low,No,5,5,True
+R-5309,M-2583,Employment Issue,Medium,No,2,3,True
+R-5310,M-2638,Regulatory Review,Medium,Yes,6,7,True
+R-5311,M-2572,NDA,High,Yes,1,7,True
+R-5312,M-1354,NDA,Low,Yes,1,7,True
+R-5313,M-1349,NDA,Low,No,10,3,False
+R-5314,M-3088,Regulatory Review,Medium,No,5,7,True
+R-5315,M-3756,Employment Issue,Medium,Yes,7,5,False
+R-5316,M-3174,Regulatory Review,Low,Yes,1,3,True
+R-5317,M-2393,NDA,Low,Yes,2,7,True
+R-5318,M-2950,Vendor Contract,Low,Yes,7,3,False
+R-5319,M-2069,NDA,Low,Yes,5,3,False
+R-5320,M-2573,Regulatory Review,Medium,Yes,3,7,True
+R-5321,M-3079,Vendor Contract,Medium,Yes,7,5,False
+R-5322,M-1439,Employment Issue,High,Yes,3,3,True
+R-5323,M-1213,Employment Issue,High,Yes,2,5,True
+R-5324,M-1182,Vendor Contract,Medium,Yes,1,5,True
+R-5325,M-3995,Vendor Contract,High,Yes,6,7,True
+R-5326,M-1176,NDA,Low,Yes,2,7,True
+R-5327,M-2085,Employment Issue,Medium,No,2,3,True
+R-5328,M-2994,Employment Issue,High,No,5,7,True
+R-5329,M-2236,NDA,High,No,5,5,True
+R-5330,M-1066,NDA,Low,Yes,3,5,True
+R-5331,M-1897,NDA,Low,Yes,1,3,True
+R-5332,M-3908,Regulatory Review,Medium,No,5,5,True
+R-5333,M-2530,Employment Issue,Medium,No,2,5,True
+R-5334,M-2080,NDA,High,Yes,3,7,True
+R-5335,M-2952,Vendor Contract,High,No,5,5,True
+R-5336,M-3307,NDA,Medium,No,10,7,False
+R-5337,M-2190,Vendor Contract,Low,Yes,1,7,True
+R-5338,M-2874,Employment Issue,High,Yes,3,3,True
+R-5339,M-3926,Regulatory Review,Medium,No,5,7,True
+R-5340,M-3162,Vendor Contract,Medium,Yes,3,3,True
+R-5341,M-1779,NDA,High,No,10,7,False
+R-5342,M-2595,Employment Issue,Low,No,2,7,True
+R-5343,M-1257,NDA,Medium,Yes,1,5,True
+R-5344,M-1421,Employment Issue,High,No,10,3,False
+R-5345,M-3497,NDA,High,No,5,7,True
+R-5346,M-2125,Employment Issue,Low,Yes,2,3,True
+R-5347,M-1777,NDA,High,Yes,1,3,True
+R-5348,M-1643,NDA,Low,Yes,5,5,True
+R-5349,M-1398,Vendor Contract,Low,No,10,7,False
+R-5350,M-2215,Employment Issue,Low,Yes,3,5,True
+R-5351,M-1786,Regulatory Review,High,No,10,7,False
+R-5352,M-1393,Vendor Contract,Low,Yes,1,5,True
+R-5353,M-3718,Employment Issue,Low,No,2,7,True
+R-5354,M-2845,Vendor Contract,Low,Yes,1,3,True
+R-5355,M-2328,Vendor Contract,Low,No,2,7,True
+R-5356,M-1108,Regulatory Review,Low,Yes,1,5,True
+R-5357,M-3682,Employment Issue,Low,Yes,6,7,True
+R-5358,M-2474,Vendor Contract,Low,Yes,3,7,True
+R-5359,M-1565,Employment Issue,High,No,5,3,False
+R-5360,M-2699,Vendor Contract,Low,No,5,3,False
+R-5361,M-2604,Employment Issue,Low,No,5,5,True
+R-5362,M-1569,Vendor Contract,Medium,Yes,7,7,True
+R-5363,M-1660,Employment Issue,High,Yes,1,7,True
+R-5364,M-2292,Regulatory Review,Low,Yes,3,7,True
+R-5365,M-3050,NDA,Low,Yes,7,7,True
+R-5366,M-1575,NDA,High,Yes,3,7,True
+R-5367,M-2432,Vendor Contract,Medium,No,5,5,True
+R-5368,M-2917,Vendor Contract,Medium,No,10,5,False
+R-5369,M-2075,NDA,High,Yes,2,7,True
+R-5370,M-1444,Vendor Contract,Low,No,10,7,False
+R-5371,M-1271,NDA,Low,Yes,1,7,True
+R-5372,M-3107,Employment Issue,Medium,No,10,3,False
+R-5373,M-3443,Employment Issue,Medium,No,2,3,True
+R-5374,M-3537,Vendor Contract,Medium,No,2,5,True
+R-5375,M-3129,Employment Issue,Low,No,10,5,False
+R-5376,M-1937,Vendor Contract,High,Yes,1,5,True
+R-5377,M-2083,Employment Issue,Low,Yes,1,3,True
+R-5378,M-2763,Vendor Contract,High,No,5,3,False
+R-5379,M-2479,Regulatory Review,High,No,2,7,True
+R-5380,M-1310,NDA,Low,No,10,7,False
+R-5381,M-1558,Regulatory Review,Medium,Yes,5,5,True
+R-5382,M-1760,Regulatory Review,Medium,No,5,3,False
+R-5383,M-2388,Regulatory Review,Low,Yes,3,3,True
+R-5384,M-1742,Regulatory Review,Medium,Yes,7,5,False
+R-5385,M-1982,Vendor Contract,High,Yes,5,3,False
+R-5386,M-1849,NDA,Low,Yes,3,7,True
+R-5387,M-3188,Regulatory Review,Low,Yes,1,3,True
+R-5388,M-3146,Vendor Contract,High,Yes,1,5,True
+R-5389,M-1748,NDA,High,No,2,3,True
+R-5390,M-1583,Vendor Contract,Low,No,5,3,False
+R-5391,M-1932,Regulatory Review,Medium,No,10,3,False
+R-5392,M-3324,NDA,High,No,2,5,True
+R-5393,M-2678,Regulatory Review,Medium,Yes,6,3,False
+R-5394,M-2953,NDA,High,Yes,7,5,False
+R-5395,M-2395,Vendor Contract,Medium,No,2,3,True
+R-5396,M-1337,Employment Issue,Medium,No,10,7,False
+R-5397,M-3326,Regulatory Review,Medium,Yes,6,5,False
+R-5398,M-3487,Vendor Contract,Low,No,2,7,True
+R-5399,M-2929,Employment Issue,High,Yes,1,7,True
+R-5400,M-2679,Regulatory Review,Medium,No,2,7,True
+R-5401,M-3794,Regulatory Review,Low,No,5,3,False
+R-5402,M-2317,Employment Issue,Low,Yes,1,3,True
+R-5403,M-1967,Employment Issue,Medium,Yes,1,5,True
+R-5404,M-2954,Regulatory Review,Low,Yes,1,7,True
+R-5405,M-1862,Regulatory Review,High,Yes,7,5,False
+R-5406,M-3447,NDA,Medium,Yes,6,5,False
+R-5407,M-2002,Vendor Contract,High,No,2,5,True
+R-5408,M-1772,Regulatory Review,Medium,No,10,5,False
+R-5409,M-1452,NDA,High,No,5,3,False
+R-5410,M-3419,Regulatory Review,Medium,No,2,7,True
+R-5411,M-1387,Employment Issue,Low,Yes,3,5,True
+R-5412,M-1006,Employment Issue,Low,No,2,3,True
+R-5413,M-2825,Vendor Contract,High,No,2,3,True
+R-5414,M-3935,NDA,High,Yes,3,3,True
+R-5415,M-2860,NDA,Low,No,2,5,True
+R-5416,M-2602,NDA,High,No,5,7,True
+R-5417,M-2388,Vendor Contract,Low,Yes,3,7,True
+R-5418,M-1975,Regulatory Review,High,No,2,7,True
+R-5419,M-2542,Employment Issue,High,No,2,3,True
+R-5420,M-2126,Employment Issue,High,Yes,1,3,True
+R-5421,M-2176,NDA,High,No,10,5,False
+R-5422,M-2491,Vendor Contract,Low,No,5,7,True
+R-5423,M-1413,Vendor Contract,Medium,Yes,6,7,True
+R-5424,M-3362,NDA,Medium,No,10,7,False
+R-5425,M-3128,Regulatory Review,Low,No,2,5,True
+R-5426,M-1740,Vendor Contract,Low,No,5,3,False
+R-5427,M-3010,NDA,High,Yes,1,7,True
+R-5428,M-2401,Regulatory Review,Medium,No,10,5,False
+R-5429,M-1120,Regulatory Review,Medium,Yes,7,7,True
+R-5430,M-2119,NDA,Medium,No,5,3,False
+R-5431,M-2519,NDA,Medium,No,2,5,True
+R-5432,M-3253,Vendor Contract,Low,No,10,7,False
+R-5433,M-2067,NDA,High,No,5,7,True
+R-5434,M-1491,Regulatory Review,High,Yes,7,7,True
+R-5435,M-3654,Regulatory Review,Low,Yes,3,3,True
+R-5436,M-3533,NDA,Low,Yes,1,3,True
+R-5437,M-2404,NDA,Low,No,2,5,True
+R-5438,M-2855,Regulatory Review,Medium,No,5,7,True
+R-5439,M-2039,Regulatory Review,Low,No,5,7,True
+R-5440,M-2126,Vendor Contract,Low,No,10,3,False
+R-5441,M-2184,NDA,Low,No,5,7,True
+R-5442,M-2413,Regulatory Review,Medium,Yes,1,7,True
+R-5443,M-3162,Vendor Contract,Medium,Yes,1,3,True
+R-5444,M-1086,Vendor Contract,High,No,10,3,False
+R-5445,M-1791,NDA,High,No,5,3,False
+R-5446,M-3889,NDA,High,No,5,5,True
+R-5447,M-2773,Regulatory Review,Medium,No,2,3,True
+R-5448,M-3666,Regulatory Review,Medium,Yes,6,5,False
+R-5449,M-3062,Regulatory Review,High,No,10,5,False
+R-5450,M-3574,NDA,Medium,Yes,2,3,True
+R-5451,M-1783,Employment Issue,Low,No,2,5,True
+R-5452,M-1502,Regulatory Review,High,Yes,5,5,True
+R-5453,M-1055,Regulatory Review,High,Yes,7,3,False
+R-5454,M-2031,Employment Issue,High,Yes,3,7,True
+R-5455,M-1460,Employment Issue,Low,No,10,7,False
+R-5456,M-1297,Employment Issue,Low,No,2,7,True
+R-5457,M-3266,Regulatory Review,High,Yes,1,7,True
+R-5458,M-1674,NDA,High,Yes,7,7,True
+R-5459,M-3597,Vendor Contract,Medium,No,10,7,False
+R-5460,M-1453,Regulatory Review,Low,Yes,3,7,True
+R-5461,M-2864,Vendor Contract,Medium,No,5,5,True
+R-5462,M-1912,Regulatory Review,Low,No,10,3,False
+R-5463,M-1005,Employment Issue,Low,No,2,7,True
+R-5464,M-3843,Employment Issue,High,No,5,5,True
+R-5465,M-1577,NDA,Low,Yes,5,5,True
+R-5466,M-3287,Employment Issue,Low,Yes,6,5,False
+R-5467,M-1613,Vendor Contract,Low,Yes,3,3,True
+R-5468,M-2052,Vendor Contract,Low,No,2,7,True
+R-5469,M-1084,Employment Issue,Low,No,2,7,True
+R-5470,M-1914,Vendor Contract,Low,No,2,5,True
+R-5471,M-1018,Regulatory Review,High,Yes,3,7,True
+R-5472,M-1461,Regulatory Review,Low,No,2,5,True
+R-5473,M-2354,Regulatory Review,Medium,No,2,5,True
+R-5474,M-3565,Employment Issue,Low,No,5,5,True
+R-5475,M-3337,Vendor Contract,High,Yes,3,7,True
+R-5476,M-3878,Vendor Contract,Medium,No,5,5,True
+R-5477,M-1619,NDA,Medium,Yes,7,5,False
+R-5478,M-3068,NDA,Low,No,10,3,False
+R-5479,M-1702,Regulatory Review,Low,Yes,1,7,True
+R-5480,M-3126,Employment Issue,High,No,5,3,False
+R-5481,M-3830,Vendor Contract,Medium,No,5,3,False
+R-5482,M-2712,Vendor Contract,Medium,No,10,7,False
+R-5483,M-1489,Employment Issue,Medium,No,2,7,True
+R-5484,M-3447,Regulatory Review,Medium,No,2,7,True
+R-5485,M-3906,Employment Issue,Medium,No,10,3,False
+R-5486,M-1922,Vendor Contract,Low,No,5,7,True
+R-5487,M-1673,Vendor Contract,Low,Yes,5,3,False
+R-5488,M-1859,Vendor Contract,Medium,No,5,3,False
+R-5489,M-1743,Employment Issue,Low,Yes,3,7,True
+R-5490,M-3478,Regulatory Review,High,Yes,2,3,True
+R-5491,M-1089,Employment Issue,High,Yes,2,3,True
+R-5492,M-2765,Employment Issue,High,No,5,5,True
+R-5493,M-1604,Vendor Contract,Low,Yes,1,5,True
+R-5494,M-1250,NDA,Medium,Yes,1,7,True
+R-5495,M-3279,Regulatory Review,Low,Yes,6,7,True
+R-5496,M-3840,Regulatory Review,High,No,2,3,True
+R-5497,M-1563,NDA,Medium,No,2,5,True
+R-5498,M-2253,Employment Issue,Medium,No,2,3,True
+R-5499,M-3200,Regulatory Review,Low,No,5,5,True
+R-5500,M-2006,Regulatory Review,High,Yes,1,5,True
+R-5501,M-1271,Employment Issue,Medium,Yes,5,3,False
+R-5502,M-2029,Employment Issue,High,Yes,1,5,True
+R-5503,M-3800,Employment Issue,Medium,No,5,3,False
+R-5504,M-2127,Regulatory Review,Medium,No,10,7,False
+R-5505,M-2508,Employment Issue,High,No,2,7,True
+R-5506,M-3920,Employment Issue,Low,Yes,3,3,True
+R-5507,M-3225,Vendor Contract,Low,No,10,7,False
+R-5508,M-2944,Employment Issue,Medium,No,2,5,True
+R-5509,M-1688,Regulatory Review,Medium,No,2,7,True
+R-5510,M-3627,Employment Issue,Low,Yes,5,5,True
+R-5511,M-1592,Regulatory Review,Low,Yes,7,5,False
+R-5512,M-1458,Vendor Contract,Medium,Yes,1,7,True
+R-5513,M-3929,Regulatory Review,High,No,10,5,False
+R-5514,M-2242,Vendor Contract,High,No,2,3,True
+R-5515,M-1362,NDA,High,Yes,1,3,True
+R-5516,M-3740,NDA,High,Yes,1,7,True
+R-5517,M-3903,NDA,Medium,Yes,1,7,True
+R-5518,M-3032,Employment Issue,High,No,2,3,True
+R-5519,M-3487,NDA,Medium,Yes,3,7,True
+R-5520,M-1380,NDA,Low,Yes,1,3,True
+R-5521,M-1753,Vendor Contract,Medium,Yes,6,3,False
+R-5522,M-3899,Regulatory Review,Medium,Yes,6,3,False
+R-5523,M-3856,Vendor Contract,Medium,No,2,5,True
+R-5524,M-2172,NDA,Medium,No,2,5,True
+R-5525,M-1800,Vendor Contract,Low,Yes,3,5,True
+R-5526,M-2670,Vendor Contract,Low,Yes,7,7,True
+R-5527,M-2353,Employment Issue,High,Yes,7,3,False
+R-5528,M-1052,Employment Issue,Low,No,2,7,True
+R-5529,M-1798,Regulatory Review,Low,No,2,5,True
+R-5530,M-2529,Regulatory Review,High,No,5,7,True
+R-5531,M-1274,NDA,Medium,Yes,1,5,True
+R-5532,M-3750,NDA,Medium,No,10,3,False
+R-5533,M-2767,Regulatory Review,Medium,Yes,5,5,True
+R-5534,M-1037,NDA,Low,No,5,7,True
+R-5535,M-1193,NDA,Low,Yes,1,7,True
+R-5536,M-2246,NDA,Medium,Yes,3,7,True
+R-5537,M-2464,NDA,High,Yes,1,5,True
+R-5538,M-2368,Regulatory Review,Medium,No,5,7,True
+R-5539,M-1917,Vendor Contract,Low,Yes,7,7,True
+R-5540,M-3851,Vendor Contract,Low,No,5,3,False
+R-5541,M-3694,NDA,Medium,No,2,3,True
+R-5542,M-1067,NDA,High,Yes,3,3,True
+R-5543,M-1655,Regulatory Review,Medium,Yes,1,3,True
+R-5544,M-2646,Regulatory Review,Medium,Yes,5,5,True
+R-5545,M-2439,NDA,High,Yes,7,5,False
+R-5546,M-2574,NDA,Medium,No,5,7,True
+R-5547,M-2230,Employment Issue,Medium,Yes,6,7,True
+R-5548,M-3678,Regulatory Review,Low,No,10,3,False
+R-5549,M-2345,Vendor Contract,Medium,Yes,1,3,True
+R-5550,M-3758,Regulatory Review,Low,Yes,7,3,False
+R-5551,M-1000,Vendor Contract,Medium,No,5,7,True
+R-5552,M-3884,NDA,Medium,Yes,6,5,False
+R-5553,M-1620,Vendor Contract,High,No,10,7,False
+R-5554,M-3911,NDA,Medium,Yes,3,3,True
+R-5555,M-3246,Regulatory Review,High,No,10,7,False
+R-5556,M-1056,Vendor Contract,High,No,2,7,True
+R-5557,M-3706,Vendor Contract,Medium,Yes,2,7,True
+R-5558,M-2589,Vendor Contract,Low,Yes,3,3,True
+R-5559,M-1265,Vendor Contract,Low,No,5,5,True
+R-5560,M-1255,Employment Issue,Medium,No,2,7,True
+R-5561,M-3568,NDA,Low,No,10,7,False
+R-5562,M-1202,Vendor Contract,Low,No,5,7,True
+R-5563,M-2794,Employment Issue,Low,Yes,5,7,True
+R-5564,M-1364,Employment Issue,High,No,5,5,True
+R-5565,M-2007,Regulatory Review,Low,Yes,6,5,False
+R-5566,M-3254,NDA,High,Yes,3,7,True
+R-5567,M-2384,Regulatory Review,Low,No,2,5,True
+R-5568,M-1710,Employment Issue,Medium,No,10,7,False
+R-5569,M-1866,Employment Issue,Medium,No,10,7,False
+R-5570,M-1090,NDA,Low,Yes,5,5,True
+R-5571,M-2510,Employment Issue,Medium,No,2,3,True
+R-5572,M-2846,NDA,Low,No,5,7,True
+R-5573,M-2775,Employment Issue,High,No,2,3,True
+R-5574,M-2601,Regulatory Review,Medium,Yes,3,7,True
+R-5575,M-3256,Vendor Contract,High,No,5,3,False
+R-5576,M-2274,Regulatory Review,Medium,No,2,5,True
+R-5577,M-2112,Vendor Contract,Low,Yes,1,7,True
+R-5578,M-3199,Regulatory Review,High,No,5,3,False
+R-5579,M-3555,Employment Issue,High,No,5,5,True
+R-5580,M-1124,Vendor Contract,Low,No,5,3,False
+R-5581,M-1268,Vendor Contract,Medium,No,10,5,False
+R-5582,M-1842,NDA,Medium,No,2,7,True
+R-5583,M-3177,Vendor Contract,High,No,5,5,True
+R-5584,M-1642,Regulatory Review,Medium,No,2,7,True
+R-5585,M-1752,NDA,Medium,No,5,3,False
+R-5586,M-3620,NDA,Low,No,2,7,True
+R-5587,M-3157,Employment Issue,Low,No,10,3,False
+R-5588,M-3980,Regulatory Review,Medium,Yes,2,7,True
+R-5589,M-1362,Employment Issue,High,No,2,5,True
+R-5590,M-1497,Regulatory Review,High,Yes,2,5,True
+R-5591,M-2081,NDA,High,Yes,1,3,True
+R-5592,M-2403,Regulatory Review,Low,Yes,2,3,True
+R-5593,M-3886,Regulatory Review,Low,No,2,3,True
+R-5594,M-2660,Employment Issue,High,Yes,5,7,True
+R-5595,M-2380,Vendor Contract,Medium,No,10,7,False
+R-5596,M-1157,Regulatory Review,Medium,Yes,3,3,True
+R-5597,M-2120,Vendor Contract,Medium,No,2,5,True
+R-5598,M-1719,Vendor Contract,High,No,5,7,True
+R-5599,M-1443,Vendor Contract,Medium,Yes,1,3,True
+R-5600,M-1458,Vendor Contract,Medium,Yes,1,7,True
+R-5601,M-1659,Vendor Contract,High,Yes,7,3,False
+R-5602,M-3041,NDA,Medium,No,5,3,False
+R-5603,M-3403,Employment Issue,High,No,2,5,True
+R-5604,M-3950,Vendor Contract,High,Yes,1,3,True
+R-5605,M-2043,Vendor Contract,Medium,No,10,3,False
+R-5606,M-3445,NDA,Low,No,2,3,True
+R-5607,M-1433,Vendor Contract,High,No,2,7,True
+R-5608,M-2013,NDA,High,Yes,2,7,True
+R-5609,M-1424,NDA,High,No,5,5,True
+R-5610,M-2766,NDA,Low,No,10,7,False
+R-5611,M-1673,Vendor Contract,Low,No,5,7,True
+R-5612,M-3617,NDA,Medium,Yes,2,3,True
+R-5613,M-1484,Regulatory Review,Low,Yes,5,3,False
+R-5614,M-1991,NDA,Medium,No,2,7,True
+R-5615,M-2025,Employment Issue,Low,No,2,5,True
+R-5616,M-2113,Regulatory Review,High,Yes,5,7,True
+R-5617,M-2630,Vendor Contract,High,Yes,3,7,True
+R-5618,M-1659,NDA,High,No,10,3,False
+R-5619,M-1351,Employment Issue,Medium,No,2,3,True
+R-5620,M-1068,Vendor Contract,High,No,2,7,True
+R-5621,M-1665,Employment Issue,Medium,No,2,3,True
+R-5622,M-3881,Vendor Contract,Medium,Yes,6,5,False
+R-5623,M-1883,Employment Issue,Low,No,5,7,True
+R-5624,M-2255,Vendor Contract,Medium,Yes,6,5,False
+R-5625,M-3142,NDA,High,Yes,2,3,True
+R-5626,M-3905,Vendor Contract,Medium,No,5,7,True
+R-5627,M-2512,NDA,Medium,No,10,3,False
+R-5628,M-1782,Employment Issue,Medium,No,2,3,True
+R-5629,M-3774,Regulatory Review,High,No,5,7,True
+R-5630,M-2006,NDA,High,Yes,3,7,True
+R-5631,M-1585,Employment Issue,High,Yes,1,7,True
+R-5632,M-2054,Regulatory Review,High,Yes,7,5,False
+R-5633,M-1457,Employment Issue,High,Yes,1,3,True
+R-5634,M-1487,Regulatory Review,Low,No,5,7,True
+R-5635,M-1578,Regulatory Review,Low,Yes,1,3,True
+R-5636,M-2083,Employment Issue,Low,Yes,1,3,True
+R-5637,M-3912,NDA,Low,No,5,7,True
+R-5638,M-2840,Vendor Contract,Medium,Yes,1,3,True
+R-5639,M-2807,Vendor Contract,High,No,5,5,True
+R-5640,M-1834,Employment Issue,Low,Yes,2,7,True
+R-5641,M-1808,Employment Issue,Medium,No,2,7,True
+R-5642,M-3327,Vendor Contract,High,No,10,7,False
+R-5643,M-3226,NDA,High,Yes,2,7,True
+R-5644,M-1488,Employment Issue,High,Yes,3,7,True
+R-5645,M-1597,Employment Issue,Medium,Yes,1,3,True
+R-5646,M-2787,NDA,High,No,5,3,False
+R-5647,M-2579,Vendor Contract,Medium,No,2,5,True
+R-5648,M-2303,NDA,Low,No,5,5,True
+R-5649,M-1927,Regulatory Review,Medium,Yes,5,7,True
+R-5650,M-2520,Employment Issue,Medium,No,5,7,True
+R-5651,M-1374,Regulatory Review,Low,No,5,5,True
+R-5652,M-3166,NDA,Medium,No,2,3,True
+R-5653,M-2905,Regulatory Review,Medium,Yes,2,7,True
+R-5654,M-3103,Employment Issue,Medium,Yes,1,5,True
+R-5655,M-2355,Regulatory Review,High,Yes,1,7,True
+R-5656,M-1718,Employment Issue,Low,Yes,3,5,True
+R-5657,M-3985,Vendor Contract,High,Yes,1,7,True
+R-5658,M-2991,Regulatory Review,Low,Yes,7,7,True
+R-5659,M-1298,Employment Issue,High,Yes,1,7,True
+R-5660,M-3992,Regulatory Review,Medium,Yes,1,3,True
+R-5661,M-2804,Employment Issue,Low,No,10,3,False
+R-5662,M-1107,Employment Issue,Low,No,10,5,False
+R-5663,M-3129,Regulatory Review,High,Yes,1,7,True
+R-5664,M-1176,Employment Issue,Low,No,10,3,False
+R-5665,M-1506,Vendor Contract,High,No,10,5,False
+R-5666,M-2782,Employment Issue,Low,Yes,7,5,False
+R-5667,M-2554,Employment Issue,Medium,Yes,3,5,True
+R-5668,M-1508,Employment Issue,Low,No,10,5,False
+R-5669,M-2029,Employment Issue,High,Yes,6,5,False
+R-5670,M-3233,Regulatory Review,Low,No,10,3,False
+R-5671,M-2230,Regulatory Review,High,Yes,3,3,True
+R-5672,M-2369,Regulatory Review,High,No,10,7,False
+R-5673,M-1860,Regulatory Review,Medium,Yes,2,3,True
+R-5674,M-2299,Regulatory Review,High,Yes,7,5,False
+R-5675,M-3851,NDA,High,Yes,1,7,True
+R-5676,M-2482,Employment Issue,Medium,Yes,3,3,True
+R-5677,M-2061,Employment Issue,Medium,No,10,7,False
+R-5678,M-2667,NDA,Low,Yes,1,5,True
+R-5679,M-3922,Vendor Contract,Medium,Yes,2,7,True
+R-5680,M-1321,Vendor Contract,Low,Yes,1,5,True
+R-5681,M-3890,Regulatory Review,Medium,Yes,5,3,False
+R-5682,M-2190,NDA,Low,Yes,1,5,True
+R-5683,M-1833,NDA,High,No,2,7,True
+R-5684,M-3477,Vendor Contract,High,Yes,7,5,False
+R-5685,M-2944,NDA,Medium,No,10,5,False
+R-5686,M-1537,Employment Issue,Medium,Yes,2,5,True
+R-5687,M-1089,Regulatory Review,High,Yes,6,3,False
+R-5688,M-1033,Regulatory Review,Medium,Yes,1,7,True
+R-5689,M-2659,Vendor Contract,Low,No,5,7,True
+R-5690,M-2881,NDA,Low,Yes,1,5,True
+R-5691,M-1509,Employment Issue,Low,Yes,1,7,True
+R-5692,M-3122,Employment Issue,High,No,5,3,False
+R-5693,M-2399,Regulatory Review,Low,Yes,1,5,True
+R-5694,M-2621,Regulatory Review,Medium,Yes,1,5,True
+R-5695,M-1001,Employment Issue,Medium,Yes,7,7,True
+R-5696,M-3788,Vendor Contract,High,No,5,3,False
+R-5697,M-3566,Regulatory Review,High,No,5,3,False
+R-5698,M-1771,Regulatory Review,Medium,No,10,3,False
+R-5699,M-2461,Regulatory Review,High,No,10,3,False
+R-5700,M-1989,Vendor Contract,Low,No,5,3,False
+R-5701,M-3764,NDA,Medium,Yes,1,5,True
+R-5702,M-3692,NDA,Low,No,10,7,False
+R-5703,M-1440,Regulatory Review,High,No,2,3,True
+R-5704,M-3081,Vendor Contract,Low,No,2,5,True
+R-5705,M-2045,Vendor Contract,Medium,No,10,7,False
+R-5706,M-1445,NDA,Medium,Yes,5,5,True
+R-5707,M-2650,Employment Issue,High,Yes,3,5,True
+R-5708,M-1180,Employment Issue,Low,No,5,7,True
+R-5709,M-2309,Employment Issue,Medium,Yes,1,3,True
+R-5710,M-1793,Regulatory Review,Low,No,10,3,False
+R-5711,M-1203,Regulatory Review,Low,Yes,6,7,True
+R-5712,M-2136,NDA,Low,Yes,5,3,False
+R-5713,M-1017,NDA,Medium,No,10,3,False
+R-5714,M-3770,Regulatory Review,Low,Yes,6,3,False
+R-5715,M-3774,Regulatory Review,High,Yes,1,7,True
+R-5716,M-3985,Vendor Contract,Low,Yes,1,7,True
+R-5717,M-1424,Vendor Contract,High,Yes,6,5,False
+R-5718,M-3096,Vendor Contract,Medium,No,10,5,False
+R-5719,M-2891,Vendor Contract,Medium,Yes,3,7,True
+R-5720,M-1335,Vendor Contract,Low,Yes,3,7,True
+R-5721,M-1792,Regulatory Review,Medium,Yes,6,5,False
+R-5722,M-1318,Vendor Contract,Medium,No,5,7,True
+R-5723,M-3533,Vendor Contract,Medium,No,10,3,False
+R-5724,M-2694,Employment Issue,Low,No,10,7,False
+R-5725,M-3821,NDA,Medium,Yes,6,7,True
+R-5726,M-2610,Employment Issue,Low,Yes,6,5,False
+R-5727,M-3450,Employment Issue,High,Yes,1,3,True
+R-5728,M-3143,NDA,Medium,No,2,5,True
+R-5729,M-1227,NDA,High,Yes,1,7,True
+R-5730,M-2347,NDA,Medium,Yes,6,3,False
+R-5731,M-2498,Employment Issue,Medium,No,2,5,True
+R-5732,M-2197,NDA,High,No,2,5,True
+R-5733,M-1351,Regulatory Review,High,No,5,3,False
+R-5734,M-2242,Regulatory Review,Medium,Yes,1,7,True
+R-5735,M-3609,Employment Issue,High,No,2,3,True
+R-5736,M-3645,Vendor Contract,Low,Yes,3,3,True
+R-5737,M-1735,Regulatory Review,Low,No,2,3,True
+R-5738,M-2546,NDA,High,Yes,5,5,True
+R-5739,M-2775,Vendor Contract,Medium,Yes,6,7,True
+R-5740,M-2792,NDA,High,Yes,3,3,True
+R-5741,M-1602,Regulatory Review,Medium,No,5,3,False
+R-5742,M-1090,NDA,High,Yes,5,3,False
+R-5743,M-2432,NDA,High,Yes,7,5,False
+R-5744,M-3178,Regulatory Review,High,Yes,1,7,True
+R-5745,M-3165,Vendor Contract,High,No,10,3,False
+R-5746,M-2066,Employment Issue,High,No,5,3,False
+R-5747,M-3187,Regulatory Review,Low,No,10,7,False
+R-5748,M-1043,NDA,Medium,No,10,7,False
+R-5749,M-3635,NDA,Low,Yes,6,3,False
+R-5750,M-1036,NDA,Medium,No,10,3,False
+R-5751,M-2988,Regulatory Review,Medium,No,5,3,False
+R-5752,M-1315,Vendor Contract,High,No,2,7,True
+R-5753,M-2216,Employment Issue,Low,No,2,7,True
+R-5754,M-1177,Regulatory Review,High,No,2,5,True
+R-5755,M-3632,Regulatory Review,High,Yes,1,3,True
+R-5756,M-3731,Vendor Contract,Low,No,5,7,True
+R-5757,M-3034,Regulatory Review,Medium,No,2,7,True
+R-5758,M-2960,NDA,Low,No,2,5,True
+R-5759,M-2003,NDA,Medium,Yes,7,3,False
+R-5760,M-2996,Regulatory Review,High,Yes,5,7,True
+R-5761,M-3836,Regulatory Review,Low,Yes,5,7,True
+R-5762,M-3205,NDA,Low,Yes,7,3,False
+R-5763,M-2421,Employment Issue,Medium,Yes,2,7,True
+R-5764,M-3895,Vendor Contract,Medium,No,5,3,False
+R-5765,M-2424,NDA,High,Yes,1,3,True
+R-5766,M-1698,Employment Issue,High,Yes,3,3,True
+R-5767,M-3140,Regulatory Review,High,No,2,7,True
+R-5768,M-3591,Regulatory Review,High,Yes,1,3,True
+R-5769,M-3299,Regulatory Review,Low,Yes,6,5,False
+R-5770,M-2557,Vendor Contract,High,No,10,3,False
+R-5771,M-1330,Regulatory Review,High,No,5,7,True
+R-5772,M-3656,Employment Issue,Medium,No,5,5,True
+R-5773,M-3359,Vendor Contract,Medium,No,5,3,False
+R-5774,M-2273,NDA,Low,No,2,5,True
+R-5775,M-3160,Employment Issue,Low,No,5,7,True
+R-5776,M-1375,NDA,High,Yes,1,5,True
+R-5777,M-2809,Employment Issue,Low,Yes,1,5,True
+R-5778,M-2186,Vendor Contract,High,No,5,5,True
+R-5779,M-3100,NDA,Medium,No,5,5,True
+R-5780,M-3113,Employment Issue,Medium,No,10,7,False
+R-5781,M-2123,Employment Issue,Medium,Yes,2,3,True
+R-5782,M-1531,Regulatory Review,Low,No,5,5,True
+R-5783,M-2157,Regulatory Review,Medium,No,2,3,True
+R-5784,M-3967,Regulatory Review,High,No,10,3,False
+R-5785,M-2390,Regulatory Review,Low,No,2,5,True
+R-5786,M-3286,Employment Issue,Low,No,5,7,True
+R-5787,M-2903,Employment Issue,Medium,No,2,7,True
+R-5788,M-2764,Vendor Contract,Low,Yes,1,5,True
+R-5789,M-2849,Employment Issue,Low,No,10,5,False
+R-5790,M-3286,Vendor Contract,Low,No,5,3,False
+R-5791,M-3658,NDA,High,Yes,3,7,True
+R-5792,M-3927,Regulatory Review,Medium,No,5,7,True
+R-5793,M-2578,Vendor Contract,Medium,Yes,3,5,True
+R-5794,M-1203,Vendor Contract,High,Yes,1,7,True
+R-5795,M-2321,Regulatory Review,Medium,Yes,1,3,True
+R-5796,M-2280,Regulatory Review,High,Yes,2,7,True
+R-5797,M-3230,Regulatory Review,Medium,Yes,1,7,True
+R-5798,M-1034,NDA,Low,Yes,1,3,True
+R-5799,M-3938,NDA,High,No,10,5,False
+R-5800,M-3649,Regulatory Review,High,No,2,7,True
+R-5801,M-2016,Vendor Contract,Low,Yes,6,5,False
+R-5802,M-3833,Regulatory Review,Medium,No,5,7,True
+R-5803,M-2843,Vendor Contract,Low,No,10,5,False
+R-5804,M-3737,NDA,Low,Yes,7,5,False
+R-5805,M-3673,Employment Issue,Medium,No,10,7,False
+R-5806,M-3120,Employment Issue,High,No,2,7,True
+R-5807,M-3800,Regulatory Review,High,No,10,7,False
+R-5808,M-2020,Vendor Contract,Low,Yes,2,3,True
+R-5809,M-1651,NDA,High,No,5,7,True
+R-5810,M-2600,Vendor Contract,Low,No,5,7,True
+R-5811,M-3570,Regulatory Review,Low,Yes,7,3,False
+R-5812,M-3716,NDA,Medium,Yes,5,3,False
+R-5813,M-3359,Employment Issue,High,Yes,3,7,True
+R-5814,M-3090,Vendor Contract,Medium,Yes,1,7,True
+R-5815,M-3015,Vendor Contract,Low,No,5,7,True
+R-5816,M-3140,Vendor Contract,Medium,Yes,1,3,True
+R-5817,M-3592,Employment Issue,High,Yes,5,3,False
+R-5818,M-3773,Vendor Contract,High,No,5,5,True
+R-5819,M-1371,Regulatory Review,Low,Yes,3,5,True
+R-5820,M-1015,NDA,Low,No,10,5,False
+R-5821,M-2141,Regulatory Review,Medium,Yes,3,7,True
+R-5822,M-3147,Employment Issue,Low,Yes,7,3,False
+R-5823,M-2872,Vendor Contract,Medium,Yes,1,7,True
+R-5824,M-1087,Employment Issue,Low,No,10,7,False
+R-5825,M-2936,NDA,Medium,Yes,1,7,True
+R-5826,M-3709,Employment Issue,High,Yes,7,5,False
+R-5827,M-2517,Employment Issue,Medium,Yes,6,3,False
+R-5828,M-3418,NDA,High,No,5,5,True
+R-5829,M-3802,Employment Issue,Medium,No,2,7,True
+R-5830,M-3525,Regulatory Review,Medium,Yes,2,5,True
+R-5831,M-2451,Employment Issue,High,Yes,1,5,True
+R-5832,M-3962,Regulatory Review,High,Yes,6,7,True
+R-5833,M-3638,NDA,Medium,No,5,7,True
+R-5834,M-2713,NDA,Medium,Yes,1,5,True
+R-5835,M-1398,Employment Issue,High,No,5,5,True
+R-5836,M-3947,NDA,Low,No,5,3,False
+R-5837,M-2150,Employment Issue,Medium,Yes,2,5,True
+R-5838,M-1537,Regulatory Review,Medium,No,5,7,True
+R-5839,M-2969,Employment Issue,Medium,No,2,7,True
+R-5840,M-2552,Employment Issue,High,Yes,1,7,True
+R-5841,M-3007,Regulatory Review,Low,Yes,2,3,True
+R-5842,M-1917,Employment Issue,Medium,Yes,3,3,True
+R-5843,M-3297,NDA,Medium,No,10,3,False
+R-5844,M-2977,Vendor Contract,High,No,2,5,True
+R-5845,M-2286,Vendor Contract,Low,Yes,2,7,True
+R-5846,M-2158,Vendor Contract,Medium,No,10,3,False
+R-5847,M-2545,NDA,High,No,5,3,False
+R-5848,M-3239,NDA,Medium,Yes,3,7,True
+R-5849,M-3491,NDA,Medium,No,10,5,False
+R-5850,M-1853,Vendor Contract,Low,Yes,3,7,True
+R-5851,M-3007,Regulatory Review,Low,Yes,1,7,True
+R-5852,M-2927,Employment Issue,Low,No,2,7,True
+R-5853,M-1307,Employment Issue,Medium,Yes,1,5,True
+R-5854,M-2924,NDA,Medium,No,5,5,True
+R-5855,M-2636,NDA,Low,Yes,6,3,False
+R-5856,M-3679,Vendor Contract,Low,Yes,5,5,True
+R-5857,M-3870,Employment Issue,High,No,2,7,True
+R-5858,M-2985,Employment Issue,Medium,No,10,5,False
+R-5859,M-2677,NDA,High,No,10,5,False
+R-5860,M-2967,Employment Issue,High,Yes,2,3,True
+R-5861,M-3307,Employment Issue,Low,No,2,7,True
+R-5862,M-2085,Vendor Contract,Low,No,5,5,True
+R-5863,M-1107,NDA,High,No,2,5,True
+R-5864,M-3529,Employment Issue,High,Yes,3,5,True
+R-5865,M-1120,Vendor Contract,Medium,No,2,3,True
+R-5866,M-1286,Vendor Contract,High,No,5,7,True
+R-5867,M-2239,NDA,High,No,10,3,False
+R-5868,M-1906,NDA,Medium,Yes,2,5,True
+R-5869,M-1165,NDA,Medium,No,10,7,False
+R-5870,M-3893,Vendor Contract,High,Yes,2,7,True
+R-5871,M-1329,Vendor Contract,Low,Yes,1,5,True
+R-5872,M-2268,Employment Issue,Medium,Yes,7,3,False
+R-5873,M-1092,Employment Issue,Low,Yes,6,7,True
+R-5874,M-1757,NDA,Low,Yes,7,3,False
+R-5875,M-3178,Vendor Contract,High,Yes,3,3,True
+R-5876,M-3697,Regulatory Review,Low,No,2,3,True
+R-5877,M-2874,NDA,Low,No,2,3,True
+R-5878,M-3428,Vendor Contract,Medium,Yes,1,3,True
+R-5879,M-3262,Regulatory Review,High,No,10,5,False
+R-5880,M-3862,Vendor Contract,Medium,No,2,7,True
+R-5881,M-3411,Regulatory Review,High,No,10,7,False
+R-5882,M-1738,Employment Issue,Medium,No,2,7,True
+R-5883,M-1092,Regulatory Review,High,No,2,7,True
+R-5884,M-3891,Employment Issue,High,Yes,3,5,True
+R-5885,M-3199,Vendor Contract,Medium,Yes,7,5,False
+R-5886,M-3611,Employment Issue,High,No,2,7,True
+R-5887,M-1731,Regulatory Review,Low,No,10,5,False
+R-5888,M-1547,Regulatory Review,High,Yes,5,7,True
+R-5889,M-1679,Regulatory Review,High,No,5,3,False
+R-5890,M-2588,Employment Issue,Low,Yes,7,7,True
+R-5891,M-2397,Employment Issue,High,No,2,3,True
+R-5892,M-3726,NDA,High,Yes,2,5,True
+R-5893,M-1623,Vendor Contract,Low,No,5,5,True
+R-5894,M-2144,Vendor Contract,High,No,5,5,True
+R-5895,M-2567,Employment Issue,Low,Yes,1,5,True
+R-5896,M-1028,Employment Issue,High,Yes,1,5,True
+R-5897,M-1657,NDA,Medium,Yes,6,3,False
+R-5898,M-2779,Employment Issue,Medium,No,2,5,True
+R-5899,M-3749,Regulatory Review,High,No,2,3,True
+R-5900,M-1842,NDA,Medium,Yes,1,3,True
+R-5901,M-3335,Employment Issue,Low,No,5,7,True
+R-5902,M-1528,Employment Issue,Low,No,2,3,True
+R-5903,M-1893,Vendor Contract,Medium,No,5,7,True
+R-5904,M-2169,NDA,Low,Yes,1,7,True
+R-5905,M-1080,Employment Issue,Medium,Yes,1,5,True
+R-5906,M-2009,Regulatory Review,High,Yes,3,7,True
+R-5907,M-1126,Vendor Contract,Low,No,2,5,True
+R-5908,M-3601,Vendor Contract,High,No,5,5,True
+R-5909,M-1711,Regulatory Review,Low,No,5,5,True
+R-5910,M-1390,Vendor Contract,High,Yes,6,3,False
+R-5911,M-2777,NDA,High,No,10,5,False
+R-5912,M-1663,Regulatory Review,Medium,No,10,3,False
+R-5913,M-1662,NDA,High,Yes,1,5,True
+R-5914,M-1113,Vendor Contract,Medium,Yes,7,3,False
+R-5915,M-3097,NDA,Low,Yes,7,5,False
+R-5916,M-1295,NDA,Medium,Yes,2,3,True
+R-5917,M-2078,Employment Issue,Low,Yes,7,3,False
+R-5918,M-1508,Vendor Contract,Medium,Yes,7,7,True
+R-5919,M-2357,Regulatory Review,Medium,Yes,1,5,True
+R-5920,M-2980,Employment Issue,Medium,No,5,7,True
+R-5921,M-3029,Regulatory Review,Low,Yes,5,7,True
+R-5922,M-1203,Vendor Contract,Medium,Yes,1,7,True
+R-5923,M-3439,NDA,Low,Yes,1,5,True
+R-5924,M-3894,NDA,Low,No,2,7,True
+R-5925,M-1731,Employment Issue,Medium,Yes,5,7,True
+R-5926,M-1353,Regulatory Review,Medium,No,2,3,True
+R-5927,M-2833,Employment Issue,Low,No,2,5,True
+R-5928,M-2075,Employment Issue,Medium,No,10,5,False
+R-5929,M-2015,Employment Issue,High,Yes,3,7,True
+R-5930,M-2384,Employment Issue,High,No,10,5,False
+R-5931,M-2966,NDA,High,No,10,3,False
+R-5932,M-1426,Employment Issue,Medium,Yes,2,3,True
+R-5933,M-2660,NDA,High,Yes,1,3,True
+R-5934,M-3611,Employment Issue,Low,No,5,7,True
+R-5935,M-2820,NDA,Medium,No,5,7,True
+R-5936,M-2571,Employment Issue,Medium,No,2,5,True
+R-5937,M-1742,Employment Issue,High,No,2,3,True
+R-5938,M-3346,Regulatory Review,Medium,Yes,3,5,True
+R-5939,M-3371,Employment Issue,Low,Yes,1,3,True
+R-5940,M-1804,Vendor Contract,Low,Yes,1,7,True
+R-5941,M-1493,Vendor Contract,High,Yes,5,7,True
+R-5942,M-3750,Employment Issue,Medium,No,10,5,False
+R-5943,M-2965,Employment Issue,Medium,Yes,1,7,True
+R-5944,M-3801,Vendor Contract,Medium,No,5,5,True
+R-5945,M-2035,Regulatory Review,High,Yes,6,5,False
+R-5946,M-1415,NDA,Medium,No,10,3,False
+R-5947,M-1297,NDA,Medium,No,10,7,False
+R-5948,M-3550,Employment Issue,Medium,No,2,3,True
+R-5949,M-3946,NDA,High,No,2,3,True
+R-5950,M-1904,Regulatory Review,High,Yes,1,3,True
+R-5951,M-2671,Employment Issue,Medium,Yes,1,3,True
+R-5952,M-3445,Regulatory Review,High,Yes,2,7,True
+R-5953,M-3106,Regulatory Review,Medium,Yes,6,5,False
+R-5954,M-3185,Employment Issue,Medium,Yes,2,3,True
+R-5955,M-1309,Employment Issue,High,Yes,2,3,True
+R-5956,M-2436,NDA,High,No,5,5,True
+R-5957,M-1037,Regulatory Review,Low,No,5,7,True
+R-5958,M-1551,NDA,Medium,Yes,3,7,True
+R-5959,M-1006,Vendor Contract,Medium,Yes,2,5,True
+R-5960,M-3713,Employment Issue,High,No,5,7,True
+R-5961,M-3477,Regulatory Review,High,Yes,1,7,True
+R-5962,M-3371,NDA,Medium,No,2,7,True
+R-5963,M-2607,Employment Issue,Medium,No,10,3,False
+R-5964,M-2155,Employment Issue,High,No,10,7,False
+R-5965,M-1371,Regulatory Review,High,No,2,3,True
+R-5966,M-2222,Regulatory Review,High,No,5,5,True
+R-5967,M-3179,Employment Issue,Low,No,5,7,True
+R-5968,M-3244,Vendor Contract,Low,Yes,1,7,True
+R-5969,M-2977,Regulatory Review,Medium,No,2,7,True
+R-5970,M-1640,Regulatory Review,High,Yes,1,5,True
+R-5971,M-2708,Regulatory Review,High,Yes,1,5,True
+R-5972,M-3132,NDA,Medium,No,5,3,False
+R-5973,M-3995,NDA,High,Yes,2,3,True
+R-5974,M-1001,Regulatory Review,High,Yes,6,3,False
+R-5975,M-3042,Vendor Contract,High,Yes,3,5,True
+R-5976,M-1805,Employment Issue,High,No,10,3,False
+R-5977,M-2886,Vendor Contract,Low,Yes,6,3,False
+R-5978,M-3554,NDA,High,Yes,2,7,True
+R-5979,M-3433,Regulatory Review,Medium,No,5,5,True
+R-5980,M-3645,Vendor Contract,Medium,No,5,3,False
+R-5981,M-2782,Employment Issue,Low,No,10,7,False
+R-5982,M-2350,Employment Issue,High,Yes,5,7,True
+R-5983,M-2241,Employment Issue,Medium,No,5,3,False
+R-5984,M-2179,NDA,Medium,No,5,5,True
+R-5985,M-3815,Regulatory Review,High,Yes,5,3,False
+R-5986,M-3485,Regulatory Review,Medium,Yes,3,7,True
+R-5987,M-3538,Employment Issue,High,No,2,5,True
+R-5988,M-2044,Employment Issue,High,Yes,5,7,True
+R-5989,M-2733,Regulatory Review,Medium,Yes,1,3,True
+R-5990,M-2352,Regulatory Review,Medium,Yes,5,3,False
+R-5991,M-3727,Employment Issue,Low,Yes,3,5,True
+R-5992,M-2422,Regulatory Review,Medium,Yes,3,7,True
+R-5993,M-3686,Regulatory Review,Medium,Yes,3,3,True
+R-5994,M-3786,Vendor Contract,Medium,No,10,7,False
+R-5995,M-1818,NDA,Low,No,5,7,True
+R-5996,M-3600,Employment Issue,Medium,No,2,5,True
+R-5997,M-1772,Employment Issue,High,No,10,5,False
+R-5998,M-3924,Employment Issue,High,No,10,3,False
+R-5999,M-3942,Regulatory Review,High,No,10,7,False
